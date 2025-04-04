@@ -37,7 +37,7 @@ English
 * `Jotaros Vyacheslav (The Manager)`
 * `Makhilim Vanette (The Main Dev)`
 * `Ms.Edryll (The Second Dev)`
-* `Shephard (The Third Dev)`
+* `ShephardOS (The Third Dev)`
 
 This project contains `Two` `Emulators` : 
 * `BoxVidra Emulator - Pc Emulator`
@@ -59,8 +59,9 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 
 #
 
-
 * ## `BoxVidra Emulator (Not Available)`
+
+[logo]
 
 - **What is BoxVidra Emulator?**
 
@@ -117,15 +118,57 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
   * `8.25` GE
 #
 * `UI Structure`
-  * Windows 10 System Structure (`Light, Dark`)
-  * BoxVidra Application System Structure (`Light Blue, Dark Blue`)
+  * Windows 10 System Structure (`Light`, `Dark`)
+  * BoxVidra Application System Structure (`Light Blue`, `Dark Blue`)
+
+#
+
+* ## `XboxVidra Emulator (Not Available)`
+
+[logo]
+
+- **What is XboxVidra Emulator?**
+
+**`XboxVidra is the first Xbox emulator to be released on Termux, and it has many advantages such as the Xbox-like user interface, sound effects, etc. You can play any game you want there without any problems with strong and stable performance for all devices, whether it is Snapdragon or Mali, In short.. if you want to have the real Xbox experience on your phone, you are in the right place.`**
+
+- **How to install XboxVidra?**
+
+**`With just one command, you will paste it in Termux, and then the entire installation process will begin without any user intervention, The installation process takes from 5 minutes to 20 minutes, depending on the internet speed`**
+
+- `XboxVidra Emulator's Installation Command` :
+```bash
+'Will be available in 7/24, Stay tuned.'
+```
+#
+
+### XboxVidra Emulator Commands :
+* `xboxvidra` To Run XboxVidra Emulator
+* `xboxvidra --update` To Update XboxVidra Emulator
+* `xboxvidra --reinstall` To Reinstall XboxVidra Emulator
+* `xboxvidra --uninstall` To Uninstall XboxVidra Emulator
+
+#
+
+### XboxVidra Emulator Requirements :
+* `Android Version` 10 And Above 
+* `Processor` Snapdragon 655 and above
+* `Ram` 2 To 4 GB Ram
+* `Storage` 1-2 GB
+* `GB that is consumed from the internet` 500+ MB
+
+#
+
+### Recommend Settings For XboxVidra Emulator :
+* `UI Structure`
+  * Xbox UI System Structure (`Light`, `Dark`)
+
+#
 
 ### Recommend setup for termux-x11 :
 
 * `resolution mode` exact or native
 
 * `Resolution` 1280x720 For Boxvidra Native
-* `Resolution` 1280x720 For Boxvidra Proot
 
 * `Reseed Screen While Soft Keyboard is open` OFF
 * `Show additional keyboard` OFF
@@ -133,110 +176,25 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 
 * `Force Landscape orientation` ON
 
+#
 
-
-## Controllers And Boxvidra Project Icon Pack And Profiles :
-
-* `Input bridge` app is required if you want to make a control buttons in the screen, also you can use `Xinput` bridge. if you want use controller
-Or using only controller games
-
-* `Boxvidra Project Icon Pack` is a package specially prepared for Boxvidra Emulator users in general and equipped to complement Boxvidra Emulator with many, many icons and colors that give the user the real experience of computer simulation and computer games on the cell phone, with control profiles that facilitate the playing process much more
-[Download The Full Version](https://github.com/Boxvidra/Boxvidra-Project/releases/download/Boxvidra-Icon-Pack/Boxvidra.Project.Icons.Full-Version.tar.xz)
-
-
-* Boxvidra Project Icon Pack (Orange)
-  
-![Orange](https://github.com/user-attachments/assets/8d83cfac-7e8e-4a72-a9eb-cd7183303bb9)
-[Download](https://github.com/Boxvidra/Boxvidra-Project/releases/download/Boxvidra-Icon-Pack/Boxvidra.Project.Icons.Orange.tar.xz)
-
-
-
-
-* Boxvidra Project Icon Pack (Blue)
-
-![Blue](https://github.com/user-attachments/assets/2180ab77-8a16-480b-bfff-8cca6e2073f6)
-[Download](https://github.com/Boxvidra/Boxvidra-Project/releases/download/Boxvidra-Icon-Pack/Boxvidra.Project.Icons.Blue.tar.xz)
-
-
-
-
-* Boxvidra Project Icon Pack (Red)
-  
-![Red](https://github.com/user-attachments/assets/be9b784b-fc3a-4e05-bd4b-14f45b4c27e2)
-[Download](https://github.com/Boxvidra/Boxvidra-Project/releases/download/Boxvidra-Icon-Pack/Boxvidra.Project.Icons.Red.tar.xz)
-
-
-
-## Games Tests (Native) :
-* GTA IV On Redmi Note 11            (15-35 Fps)
-![GTA IV](https://github.com/user-attachments/assets/259e5b39-0889-4e57-9a8b-34d2b492f6b8)
-
-
-* Mafia II On Redmi Note 11         (15-30 Fps)
-![MAFIA II](https://github.com/user-attachments/assets/02149c78-994d-4bea-9d73-6220a540a9ee)
-
-
-* IGI 1 On Redmi Note 11            (40-150 Fps)
-![IGI 1](https://github.com/user-attachments/assets/906501f9-e339-44a4-b91e-2c865a01c817)
-
-
-* NFSMW 2012 On Redmi Note 11 (10-25 Fps)
-![NFSMW 2012](https://github.com/user-attachments/assets/564cc5cd-1ed9-40d4-bf37-b109bf683dc8)
-
-## Games Tests (Proot) :
-* Zuma Deluxe On Redmi Note 11 (80-100 Fps)
-![Zuma Deluxe](https://github.com/user-attachments/assets/499b53df-877b-41ca-9bb6-e1d77cdfc3bc)
-
-
-
-
-* GTA III On Redmi Note 11 (40-90 Fps)
-![GTA III](https://github.com/user-attachments/assets/b25be629-3c58-4280-998a-5f89aefa8aff)
-
-
-
-
-* Max Payne 1 On Redmi Note 11 (40-90 Fps)
-![Max Payne 1](https://github.com/user-attachments/assets/18e8f501-fedc-430f-be6d-3eb6be7d8eb2)
-
-
-# Boxvidra Emulator Native And Proot Idea :
-The general idea of ​​Boxvidra Emulator Native and Proot is to emulate the computer on the cell phone in all simplicity, running computer games and programs on your phone with a Windows interface such as Windows 7, 10 or 11 with the best performance and the best experience, so you are in the right place here, however, each version has advantages. For example, the Native version enjoys superior performance and extreme smoothness more than Proot. So if you want to play, browse, and run computer programs very smoothly and quickly, then your ideal choice is Native, or if you want to work, play, browse, run more programs, and enjoy a better graphical interface with average and adaptive performance, then your ideal choice is Proot.
-
-
-
-## Lenox3 Emulator :
-* Not Available At The Moment.
-
-## Vionex And Aionex Systems :
-* Not Available At The Moment.
-
-
-
-
-## Big Thanks To :
-* `Sadem`
-* `Michael De Mani`
-* `James Brono`
-* `Mark Melbert`
-* `Alex Morgan`
-* `Simon Fred`
-* `Derek Rogan`
-
-## Special Thanks To :
+## Special Thanks To Our Supporters :
 * `ApTrex`
 * `Damon King`
 * `Tricky Guy`
 
-## Our Special Users :
+#
+
+## Special Thanks To :
+* `Laila`
+* `Pedro petrova`
 * `SAIF`
-* `Ms.Edryll`
+* `Ali Alsaadi`
+* `Xodios`
+* `Creeper 1811`
+* `Kyle`
+* `LeoXalil`
 * `Mondo I. Jeremie`
-* `Yuuto`
-* `Ujjwal`
-* `Ahmed Salah`
-* `Magi Evan`
-* `Yara Mostafa`
 
 ## Third party applications
 
