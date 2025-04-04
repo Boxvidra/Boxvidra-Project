@@ -36,8 +36,8 @@ English
 * `Mikhail Mohammed (The Owner)`
 * `Jotaros Vyacheslav (The Manager)`
 * `Makhilim Vanette (The Main Dev)`
-* `Shephard (The Second Dev)`
-
+* `Ms.Edryll (The Second Dev)`
+* `Shephard (The Third Dev)`
 
 This project contains `Two` `Emulators` : 
 * `BoxVidra Emulator - Pc Emulator`
