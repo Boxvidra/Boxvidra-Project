@@ -1,4 +1,4 @@
-![Logo](https://github.com/user-attachments/assets/0c0d46a7-25e2-4fc4-89b7-18c165ea30ad)
+![Vidra Project Logo](https://github.com/user-attachments/assets/e7c5630c-4f78-4e7e-ab61-4f84ef655547)
 
 
 English
