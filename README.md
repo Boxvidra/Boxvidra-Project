@@ -36,6 +36,7 @@ English
 * `Mikhail Mohammed (The Owner)`
 * `Jotaros Vyacheslav (The Manager)`
 * `Makhilim Vanette (The Main Dev)`
+* `Shephard (The Second Dev)`
 
 
 This project contains `Two` `Emulators` : 
@@ -92,136 +93,31 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 #
 
 ### Recommend Settings For BoxVidra Emulator :
+
 * `D3D` For Snapdragon :
-  * dxvk 2.2 gplasync
-  * dxvk 2.3 gplasync
+  * dxvk `2.2` gplasync
+  * dxvk `2.3` gplasync
 * `D3D` For Mali :
-  * wined3d 8.20
-
-* `Mesa Driver` For Snapdragon :
-  * Turnip v3
-  * Turnip v6.5
-* `Mesa Driver` For Mali :
-  * VirGL Mesa 24
-  * VirGL Mesa 22
-
-* `Primary Cores` 8 Cores
-* `Wine` 8.18 Staging for `(Only For Wow64)` and 8.25 for `(Box86-64)`
-* `Theme` Windows 10 Theme (red, gaming) or
-Windows 10 Theme (light) or Windows 11 Theme (light).
-
-### Recommend Settings For Boxvidra Project - Emulator (Proot):
-* `DXVK` 2.2 gplasync or 2.3 gplasync
-* `Primary Cores` 8 Cores
-* `HUD` Mangohud Or DXVK HUD
-* `Wine` Wine 8.25 `(For Old/New Gen Games)`
-* `Theme` Windows 11 Theme (Light) or
-Windows 11 Theme (Purple) or Windows 10 Theme (light) or Windows 10 Theme (Red, Gaming)
-
+  * wined3d `8.20`
 #
-
-## Boxvidra Project - Emulator (Native) Themes :
-
-You can change the theme you want with a wide library of themes, In addition, we have included the Windows 10 Theme Pack, which includes six themes (Modes) such as Windows 10 Light, Windows 10 Dark, Windows 10 Purple, Etc., You can switch between these modes with ease from the main interface, from boxvidra cfg, or from WineXF Manager without the need To download each mode separately via the Internet, you do not need the Internet anymore because everything is already available and ready for use, and we have also included the Windows 7 Theme, Windows XP Theme, and Windows 95 Theme, as you will see as shown below :
-* `Windows 10 Light Theme (Mode)`
-  
-![Windows10Light](https://github.com/user-attachments/assets/2f39ec10-922d-4118-b091-080b04a605a4)
-
-
-* `Windows 10 Dark Theme (Mode)`
-  
-![Windows10Dark](https://github.com/user-attachments/assets/1bf6e70b-7d1d-4c05-8d7b-01444e5dc9c5)
-
-
-* `Windows 10 Red Theme (Mode)`
-
-![Windows10Red](https://github.com/user-attachments/assets/fda181f9-94d6-4f55-ab43-571bc036ef11)
-
-
-  
-* `Windows 10 Purple Theme (Mode)`
-  
-![Win10Purple](https://github.com/user-attachments/assets/d6518f36-8723-4fc7-9107-b45553a62018)
-
-
-
-* `Windows 10 Green Theme (Mode)`
-  
-![Windows10Green](https://github.com/user-attachments/assets/75e43758-524a-4db8-8d7a-fd9b17350559)
-
-
-
-* `Windows 10 Yellow Theme (Mode)`
-  
-![Windows10Yellow](https://github.com/user-attachments/assets/ce0e0bed-d29e-40ce-9c55-c63b1658ec78)
-
-
-
-
-* `Windows 7 Theme`
-  
-![Windows7](https://github.com/user-attachments/assets/ecd4c4b5-7e9b-450d-bbf4-30c4969c32fc)
-
-
-
-* `Windows XP Theme`
-  
-![WindowsXP](https://github.com/user-attachments/assets/fa9208fa-538a-403e-844f-dd4d26bd192f)
-
-
-
-* `Windows 95 Theme`
-  
-![Windows95](https://github.com/user-attachments/assets/693c2453-9b1c-403b-ba93-0ad5b84c710c)
-
-
-
-## Boxvidra Project - Emulator (Proot) Themes :
-
-This is also the case with the Proot version, but let us take into account that the Proot version is still under development, so let us consider these to be some leaks or a superficial vision of the Windows 11 theme in Proot, as shown below:
-
-* `Windows 11 Light Theme (Mode)`
-
-![Windows11Light](https://github.com/user-attachments/assets/629ccc6d-b8df-4eae-970b-28da0ab858e8)
-
-* `Windows 11 Dark Theme (Mode)`
-  
-![Windows11Dark](https://github.com/user-attachments/assets/1248905d-61e2-4199-8e9c-af63d202842d)
-
-
-## HUD :
-
-You can change the hud to show the GPU usage, CPU and FPS rate, also you can install `MANGOHUD` for more information and better appearance.
-
-
-
-## Boxvidra Native And Boxvidra Proot Configuration Applications :
-
-There are two main programs that you can choose between to control Wine settings and the like, such as changing dxvk, mesa, vkd3d, and more, such as `Boxvidra Configuration Application` And `WineXF Manager Application` Through them, you can completely modify the system, and apply the appropriate settings to give you the best performance, With all versions of dxvk, vkd3d, wined3d, turnip and virgl.
-
-* `Boxvidra Configuration Application`
-![Boxvidra Cfg](https://github.com/user-attachments/assets/592ef03a-feb2-4e60-a843-4cb5915b6ac3)
-
-* `WineXF Manager Application`
-![WineXF_Manager](https://github.com/user-attachments/assets/d94f6a41-9ca2-425b-9bcb-ba48d33ecdd4)
-
-And Also, you can change their themes easily and freely, without needing a internet, and from the cfg apps section in main menu.
-
-* Boxvidra Configuration Application (Light)
-![Boxvidra Cfg Light](https://github.com/user-attachments/assets/234f5b95-2aff-45a3-b232-235cc3cc32f5)
-
-
-* Boxvidra Configuration Application (Dark)
-![Boxvidra Cfg Dark](https://github.com/user-attachments/assets/e44af0d1-c3d8-486e-8965-2da12263dc86)
-
-
-* WineXF Manager Application (Light)
-![WineXF Manager Light](https://github.com/user-attachments/assets/978578fd-3b01-4d49-87b6-e85157e2bb14)
-
-* WineXF Manager Application (Orange)
-![WineXF Manager Orange](https://github.com/user-attachments/assets/5cc2f9f6-ef4f-4da4-bf2f-2e0b5cd4bec2)
-
-
+* `Mesa Driver` For Snapdragon :
+  * Turnip v`3`
+  * Turnip v`6.5`
+* `Mesa Driver` For Mali :
+  * VirGL Mesa `24`
+  * VirGL Mesa `22`
+#
+* `Primary Cores`
+  * `8` Cores
+#
+* `Wine` For Wow64 Glibc :
+  * `8.18` Staging
+* `Wine` For Box86-64 Glibc :
+  * `8.25` GE
+#
+* `UI Structure`
+  * Windows 10 System Structure (`Light, Dark`)
+  * BoxVidra Application System Structure (`Light Blue, Dark Blue`)
 
 ### Recommend setup for termux-x11 :
 
