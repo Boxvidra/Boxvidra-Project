@@ -5,13 +5,21 @@ English
 &nbsp;&nbsp;| &nbsp;&nbsp;
 <a href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">العربية</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
+<a
+href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">עִברִית</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
 <a href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.md">Русский</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-cn.md">中国人 </a>
-
-* `Vidra Project's Social Media Accounts And Channels`
+<a
+href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">भारतीय </a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a
+href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-cn.md">中国人 </a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
 
 #
+* `Vidra Project's Social Media Accounts And Channels`
+
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
 [![discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/invite/QuxeRdwk)
 [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vidraproject?feature=shared)
