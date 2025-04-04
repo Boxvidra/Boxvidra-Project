@@ -17,7 +17,7 @@ English
 * Vidra Project Telegram Channel :
   * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
 
-* BoxVidra Emulator Telegram Channel  :
+* BoxVidra Emulator Telegram  Channel :
   * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
 
 * XboxVidra Emulator Telegram Channel :
@@ -77,6 +77,11 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 * ## `BoxVidra Emulator (Not Available)`
 
 [logo]
+
+* BoxVidra Emulator Telegram  Channel :
+  * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
+
+#
 
 - **What is BoxVidra Emulator?**
 
@@ -141,6 +146,11 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 * ## `XboxVidra Emulator (Not Available)`
 
 [logo]
+
+* XboxVidra Emulator Telegram Channel :
+  * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
+
+#
 
 - **What is XboxVidra Emulator?**
 
