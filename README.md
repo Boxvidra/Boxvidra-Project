@@ -17,6 +17,9 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 <a
 href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-cn.md">中国人 </a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
+<a
+href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">Filipino</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
 
 #
 * `Vidra Project's Social Media Accounts And Channels`
