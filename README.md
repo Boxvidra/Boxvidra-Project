@@ -56,54 +56,56 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 - **Input Bridge v0.0.7 (Overlay HUD/Controller)**: This application allows you to create a touch screen overlay or heads-up display (HUD) that can function as a customizable controller.  
   [![Download Input Bridge](https://img.shields.io/badge/Download-Input%20Bridge-ff69b4?style=for-the-badge&logo=controller)](https://github.com/ahmad1abbadi/extra/releases/download/apps/input+bridge+0.0.7.apk) - click to download
 
-* ## `BoxVidra Emulator (v1.0.0, Not Available)`
+* ## `BoxVidra Emulator (Not Available)`
 
 [logo here]
 
-- **`BoxVidra is a modern PC emulator, unique in its kind, with a completely new concept, that fully meets your needs, as if you are dealing with a real computer on your phone. You can play games, work, format, take the experience, and enjoy the Windows or macOS experience on your phone. It is considered a very big leap in the development of Xfce, as it contains new and unique developments that give the character of other systems identically. So, if you want to experience the full computer on your phone, you are in the right place.`**
+- **What is BoxVidra Emulator?**
 
-* `BoxVidra Emulator's Installation Command` :
+**`BoxVidra is a modern PC emulator, unique in it's kind, with a completely new concept, that fully meets your needs, as if you are dealing with a real computer on your phone, You can play games, work, format, take the experience, and enjoy the Windows or macOS experience on your phone, It's also considered a very big leap in the development of Xfce, as it contains new and unique developments that give the experience of other operating systems identically, So, if you want to get the full computer experience on your phone, you are in the right place.`**
+
+- **How to install BoxVidra?**
+
+**`With just one command, you will paste it in Termux, and then the entire installation process will begin without any user intervention, The installation process takes from 10 minutes to 30 minutes, depending on the internet speed`**
+
+- `BoxVidra Emulator's Installation Command` :
 ```bash
 'Will be available in 5/19, Stay tuned.'
 ```
 #
 
-### Run Boxvidra Native :
-* `boxvidra-native` To Run Boxvidra Native
-* `boxvidra-native --update` To Update Boxvidra Native 
-* `boxvidra-native --reinstall` To Reinstall Boxvidra Native
-* `boxvidra-native --uninstall` To Uninstall Boxvidra Native
-
-
-### Run Boxvidra Proot :
-* `boxvidra-proot` To Run Boxvidra Proot
-* `boxvidra-proot --update` To Update Boxvidra Proot
-* `boxvidra-proot --reinstall` To Reinstall Boxvidra Proot
-* `boxvidra-proot --uninstall` To Uninstall Boxvidra Proot
+### BoxVidra Emulator Commands :
+* `boxvidra` To Run BoxVidra Emulator
+* `boxvidra --update` To Update BoxVidra Emulator
+* `boxvidra --reinstall` To Reinstall BoxVidra Emulator
+* `boxvidra --uninstall` To Uninstall BoxVidra Emulator
 
 #
 
-### Boxvidra Emulator Native Requirements :
-* `Android Version` 10 And Above 
+### BoxVidra Emulator Requirements :
+* `Android Version` 11 And Above 
 * `Processor` Snapdragon 655 and above
-* `Ram` 3 To 12 GB Ram
+* `Ram` 3 To 6 GB Ram
 * `Storage` 4-6 GB
-* `GB that is consumed from the internet` 3 GB
-
-### Boxvidra Emulator Proot Requirements :
-* `Android Version` 10 And Above 
-* `Processor` Snapdragon 655 and above
-* `Ram` 4 Or 6 To 12 GB Ram
-* `Storage` 8-12 GB
-* `GB that is consumed from the internet` 3 GB
+* `GB that is consumed from the internet` 3.5 GB
 
 #
 
-### Recommend Settings For Boxvidra Project - Emulator (Native):
-* `DXVK` 2.2 gplasync or 2.3 gplasync
-* `Turnip`V4 or V3
+### Recommend Settings For BoxVidra Emulator :
+* `D3D` For Snapdragon :
+  * dxvk 2.2 gplasync
+  * dxvk 2.3 gplasync
+* `D3D` For Mali :
+  * wined3d 8.20
+
+* `Mesa Driver` For Snapdragon :
+  * Turnip v3
+  * Turnip v6.5
+* `Mesa Driver` For Mali :
+  * VirGL Mesa 24
+  * VirGL Mesa 22
+
 * `Primary Cores` 8 Cores
-* `HUD` Mangohud (Only for Wow64)
 * `Wine` 8.18 Staging for `(Only For Wow64)` and 8.25 for `(Box86-64)`
 * `Theme` Windows 10 Theme (red, gaming) or
 Windows 10 Theme (light) or Windows 11 Theme (light).
