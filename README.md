@@ -12,11 +12,12 @@ English
 * `Our All Social Media Accounts`
 
 #
+
 - * `Our All Telegram Channels`
 * Vidra Project Telegram Channel :
   * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
 
-* BoxVidra Emulator Telegram Channel :
+* BoxVidra Emulator Telegram Channel  :
   * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
 
 * XboxVidra Emulator Telegram Channel :
