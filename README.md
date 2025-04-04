@@ -1,5 +1,6 @@
-![Vidra Project Logo](https://github.com/user-attachments/assets/e7c5630c-4f78-4e7e-ab61-4f84ef655547)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e7c5630c-4f78-4e7e-ab61-4f84ef655547" alt="Vidra Project Logo" width="150">
+</p>
 
 English
 &nbsp;&nbsp;| &nbsp;&nbsp;
