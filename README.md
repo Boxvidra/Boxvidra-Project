@@ -35,14 +35,14 @@ English
 **Vidra Project** Created By :
 * `Mikhail Mohammed (The Owner)`
 * `Jotaros Vyacheslav (The Manager)`
-* `Makhilim Vanette`
+* `Makhilim Vanette (The Main Dev)`
 
 
 This project contains `Two` `Emulators` : 
 * `BoxVidra Emulator - Pc Emulator`
 * `XboxVidra Emulator - Xbox Emulator`
 
-### **Installation Requirements:**
+### **Basic Installation Requirements:**
 
 To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please install the following applications:
 
@@ -56,22 +56,16 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 - **Input Bridge v0.0.7 (Overlay HUD/Controller)**: This application allows you to create a touch screen overlay or heads-up display (HUD) that can function as a customizable controller.  
   [![Download Input Bridge](https://img.shields.io/badge/Download-Input%20Bridge-ff69b4?style=for-the-badge&logo=controller)](https://github.com/ahmad1abbadi/extra/releases/download/apps/input+bridge+0.0.7.apk) - click to download
 
+* ## `BoxVidra Emulator (v1.0.0, Not Available)`
 
+[logo here]
 
-1. Open Termux and paste the installation command :
+- **`BoxVidra is a modern PC emulator, unique in its kind, with a completely new concept, that fully meets your needs, as if you are dealing with a real computer on your phone. You can play games, work, format, take the experience, and enjoy the Windows or macOS experience on your phone. It is considered a very big leap in the development of Xfce, as it contains new and unique developments that give the character of other systems identically. So, if you want to experience the full computer on your phone, you are in the right place.`**
 
-* `Boxvidra Emulator Native` :
+* `BoxVidra Emulator's Installation Command` :
 ```bash
-'Not available at the moment'
+'Will be available in 5/19, Stay tuned.'
 ```
-
-* `Boxvidra Emulator Proot` :
-
-```bash
-
-'Proot Version Is Not Available At The Moment'
-```
-
 #
 
 ### Run Boxvidra Native :
