@@ -9,9 +9,23 @@ English
 &nbsp;&nbsp;| &nbsp;&nbsp;
 <a href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-cn.md">中国人 </a>
 
-* `Our Social Media Accounts`
+* `Our All Social Media Accounts`
 
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
+#
+- * `Our All Telegram Channels`
+* Vidra Project Telegram Channel :
+  * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
+
+* BoxVidra Emulator Telegram Channel :
+  * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
+
+* XboxVidra Emulator Telegram Channel :
+  * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
+
+#
+
+- * `Our Other Social Media Accounts`
+
 [![discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/invite/QuxeRdwk)
 [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@boxvidra?feature=shared)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
