@@ -32,22 +32,19 @@ English
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
-**BOXVIDRA PROJECT** Created By :
-* `AGENT X-404 (The Owner)`
-* `AGENT W-404 (The Sec-Owner)`
-* `AGENT S-404` `AGENT 403` `AGENT 301`
+**Vidra Project** Created By :
+* `Mikhail Mohammed (The Owner)`
+* `Jotaros Vyacheslav (The Manager)`
+* `Makhilim Vanette`
 
 
-This project contains `Five` `Systems/Emulators` : 
-* `Boxvidra Emulator Native`
-* `Boxvidra Emulator Proot`
-* `Nexus` `R-Inex` `X-S UI`
-
-# Boxvidra Emulator Native `(v1.1.0)` And Boxvidra Emulator Proot :
+This project contains `Two` `Emulators` : 
+* `BoxVidra Emulator - Pc Emulator`
+* `XboxVidra Emulator - Xbox Emulator`
 
 ### **Installation Requirements:**
 
-To install either the **Boxvidra Emulator Native** or **Boxvidra Emulator Proot**, please download and install the following applications:
+To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please install the following applications:
 
 - **Termux**: A terminal emulator for Android that allows you to run Linux commands on your device.  
   [![Download Termux](https://img.shields.io/badge/Download-Termux-brightgreen?style=for-the-badge&logo=android)](https://f-droid.org/repo/com.termux_118.apk) - click to download
