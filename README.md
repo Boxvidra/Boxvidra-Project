@@ -57,9 +57,10 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 - **Input Bridge v0.0.7 (Overlay HUD/Controller)**: This application allows you to create a touch screen overlay or heads-up display (HUD) that can function as a customizable controller.  
   [![Download Input Bridge](https://img.shields.io/badge/Download-Input%20Bridge-ff69b4?style=for-the-badge&logo=controller)](https://github.com/ahmad1abbadi/extra/releases/download/apps/input+bridge+0.0.7.apk) - click to download
 
-* ## `BoxVidra Emulator (Not Available)`
+#
 
-[logo here]
+
+* ## `BoxVidra Emulator (Not Available)`
 
 - **What is BoxVidra Emulator?**
 
