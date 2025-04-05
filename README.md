@@ -46,11 +46,11 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
 **Vidra Project** Created By :
-* `Mikhail Mohammed (The Owner)`
-* `Jotaros Vyacheslav (The Manager)`
-* `Makhilim Vanette (The Main Dev)`
-* `Ms.Edryll (The Second Dev)`
-* `ShephardOS (The Third Dev)`
+* [`Mikhail Mohammed (The Owner)`](t.me/Mikhail_Mohammed)
+* [`Jotaros Vyacheslav (The Manager)`](t.me/Jotaros_Vyacheslav)
+* [`Makhilim Vanette (The Main Dev)`](t.me/Makhilim_Vanette)
+* [`Ms.Edryll (The Second Dev)`](t.me/l0101110110101010)
+* [`ShephardOS (The Third Dev)`](t.me/shaphardos)
 
 This project contains `Two` `Emulators` : 
 * [`BoxVidra Emulator - Pc Emulator`](#boxvidra-emulator)
