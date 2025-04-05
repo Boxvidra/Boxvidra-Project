@@ -54,7 +54,7 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 
 This project contains `Two` `Emulators` : 
 * [`BoxVidra Emulator - Pc Emulator`](#boxvidra-emulator)
-* [`XboxVidra Emulator - Xbox Emulator`](https://github.com/VidraProject/Vidra-Project/tree/Vidra-Project#xboxvidra-emulator-not-available)
+* [`XboxVidra Emulator - Xbox Emulator`](#xboxvidra-emulator)
 
 ### **Basic Installation Requirements:**
 
@@ -141,7 +141,7 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 
 #
 
-* ### `XboxVidra Emulator (Not Available)`
+* ### `XboxVidra Emulator (Not Available)` <a name=xboxvidra-emulator></a>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bb7ffe83-0b90-42cf-96c5-1e85fa1ed50b" alt="XboxVidra Logo" width="200">
