@@ -22,7 +22,7 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 &nbsp;&nbsp;| &nbsp;&nbsp;
 
 #
-[Vidra](https://github.com/VidraProject/Vidra-Project/edit/Vidra-Project/README.md#boxvidra-emulator-not-available)
+[Vidra](https://github.com/VidraProject/Vidra-Project/Vidra-Project/README.md#boxvidra-emulator-not-available)
 
 * `Vidra Project's Social Media Accounts And Channels`
 
