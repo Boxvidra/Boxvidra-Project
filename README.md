@@ -143,7 +143,7 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 
 * ## `XboxVidra Emulator (Not Available)`
 
-[logo]
+![XboxVidra Logo](https://github.com/user-attachments/assets/bb7ffe83-0b90-42cf-96c5-1e85fa1ed50b)
 
 * XboxVidra Emulator Telegram Channel :
   * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
