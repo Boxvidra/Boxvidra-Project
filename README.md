@@ -22,8 +22,6 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 &nbsp;&nbsp;| &nbsp;&nbsp;
 
 #
-[Vidra](https://github.com/VidraProject/Vidra-Project/tree/Vidra-Project#boxvidra-emulator-not-available)
-
 * `Vidra Project's Social Media Accounts And Channels`
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
@@ -55,8 +53,8 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 * `ShephardOS (The Third Dev)`
 
 This project contains `Two` `Emulators` : 
-* `BoxVidra Emulator - Pc Emulator`
-* `XboxVidra Emulator - Xbox Emulator`
+* [`BoxVidra Emulator - Pc Emulator`](https://github.com/VidraProject/Vidra-Project/tree/Vidra-Project#boxvidra-emulator-not-available)
+* [`XboxVidra Emulator - Xbox Emulator`](https://github.com/VidraProject/Vidra-Project/tree/Vidra-Project#xboxvidra-emulator-not-available)
 
 ### **Basic Installation Requirements:**
 
