@@ -22,6 +22,8 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 &nbsp;&nbsp;| &nbsp;&nbsp;
 
 #
+[Vidra](https://github.com/VidraProject/Vidra-Project/edit/Vidra-Project/README.md#boxvidra-emulator-not-available)
+
 * `Vidra Project's Social Media Accounts And Channels`
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
@@ -72,7 +74,7 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 
 #
 
-* ## `BoxVidra Emulator (Not Available)`
+* ### `BoxVidra Emulator (Not Available)`
 
 [logo]
 
@@ -141,9 +143,11 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 
 #
 
-* ## `XboxVidra Emulator (Not Available)`
+* ### `XboxVidra Emulator (Not Available)`
 
-![XboxVidra Logo](https://github.com/user-attachments/assets/bb7ffe83-0b90-42cf-96c5-1e85fa1ed50b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb7ffe83-0b90-42cf-96c5-1e85fa1ed50b" alt="XboxVidra Logo" width="200">
+</p>
 
 * XboxVidra Emulator Telegram Channel :
   * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
