@@ -50,7 +50,7 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 * [`Jotaros Vyacheslav (The Manager)`](https://t.me/Jotaros_Vyacheslav)
 * [`Makhilim Vanette (The Main Dev)`](https://t.me/Makhilim_Vanette)
 * [`Ms.Edryll (The Second Dev)`](https://t.me/l0101110110101010)
-* [`ShephardOS (The Third Dev)`](https://t.me/shaphardos)
+* [`ShephardOS (The Third Dev)`](https://t.me/devloper8891)
 
 This project contains `Two` `Emulators` : 
 * [`BoxVidra Emulator - Pc Emulator`](#boxvidra-emulator)
