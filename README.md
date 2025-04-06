@@ -106,7 +106,7 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 
 ### BoxVidra Emulator Requirements :
 * `Android Version` 11 And Above 
-* `Processor` Snapdragon 655 and above
+* `Processor` Snapdragon 480 and above
 * `Ram` 3 To 6 GB Ram
 * `Storage` 4-6 GB
 * `GB that is consumed from the internet` 3.5 GB
@@ -177,7 +177,7 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 
 ### XboxVidra Emulator Requirements :
 * `Android Version` 10 And Above 
-* `Processor` Snapdragon 655 and above
+* `Processor` Snapdragon 480 and above
 * `Ram` 2 To 4 GB Ram
 * `Storage` 1-2 GB
 * `GB that is consumed from the internet` 500+ MB
