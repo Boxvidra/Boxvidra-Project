@@ -64,11 +64,11 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
   [![Download Termux](https://img.shields.io/badge/Download-Termux-brightgreen?style=for-the-badge&logo=android)](https://f-droid.org/repo/com.termux_118.apk) - click to download
 
 - **Termux-X11 (Xserver)**: Required for running graphical applications within Termux, providing a graphical user interface.  
-  [![Download Termux-X11](https://img.shields.io/badge/Download-Termux--X11-blue?style=for-the-badge&logo=linux)](https://github.com/ahmad1abbadi/extra/releases/download/apps/InputBridge_v0.1.9.9.apk) - click to download
+  [![Download Termux-X11](https://img.shields.io/badge/Download-Termux--X11-blue?style=for-the-badge&logo=linux)](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk) - click to download
   
 
 - **Input Bridge v0.0.7 (Overlay HUD/Controller)**: This application allows you to create a touch screen overlay or heads-up display (HUD) that can function as a customizable controller.  
-  [![Download Input Bridge](https://img.shields.io/badge/Download-Input%20Bridge-ff69b4?style=for-the-badge&logo=controller)](https://github.com/ahmad1abbadi/extra/releases/download/apps/input+bridge+0.0.7.apk) - click to download
+  [![Download Input Bridge](https://img.shields.io/badge/Download-Input%20Bridge-ff69b4?style=for-the-badge&logo=controller)](https://github.com/ahmad1abbadi/extra/releases/download/apps/InputBridge_v0.1.9.9.apk) - click to download
 
 #
 
