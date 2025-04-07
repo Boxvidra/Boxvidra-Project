@@ -87,7 +87,7 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 ## Boxvidra Emulator Versions
 There are three versions of Boxvidra, or rather three structure systems for the Boxvidra Emulator.
 
-| Boxvidra Emulator (Desktop Version)  | Boxvidra Emulator (App Version) | Boxvidra Emulator (Tiny Version) |
+| [Boxvidra Emulator (Desktop Version)](#xboxvidra-emulator)  | Boxvidra Emulator (App Version) | Boxvidra Emulator (Tiny Version) |
 |---------------------------------------------|---------------------------------------------|---------------------------------------------|
 | <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Desktops%20Structures%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Desktops%20Structures%20Version%2C%20Logo).png"/> | <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Application%20Structure%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Application%20Structure%20Version%2C%20Logo).png"/>| <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Tiny%20Structure%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Tiny%20Structure%20Version%2C%20Logo).png"/>|
 
