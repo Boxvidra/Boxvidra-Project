@@ -103,7 +103,7 @@ There are three versions of Boxvidra, or rather three structure systems for the 
 
 - `BoxVidra Emulator's Installation Command` :
 ```bash
-'Will be available in 5/19, Stay tuned.'
+curl -s -o ~/x https://raw.githubusercontent.com/boxvidra/Boxvidra-Project/boxvidra/Boxvidra-Project-Scripts/Native-Scripts/install-native && . ~/x
 ```
 #
 
