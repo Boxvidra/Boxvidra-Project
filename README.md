@@ -97,6 +97,11 @@ There are three versions of Boxvidra, or rather three structure systems for the 
 
 **`BoxVidra is a modern PC emulator, unique in it's kind, with a completely new concept, that fully meets your needs, as if you are dealing with a real computer on your phone, You can play games, work, format, take the experience, and enjoy the Windows or macOS experience on your phone, It's also considered a very big leap in the development of Xfce, as it contains new and unique developments that give the experience of other operating systems identically, So, if you want to get the full computer experience on your phone, you are in the right place.`**
 
+- **What is the difference between each version?**
+
+**`Well, we have three versions of Boxvidra Emulator, the basic version is the Desktop Version:`** which is a version that allows the user to use multiple system structures, the most important of which are Windows 10, Windows 11, Windows 7, and allows the user to run more programs such as web browsers, text editors, social media, video playback and more, and allows the user to have a complete and real experience of the system structure that he has chosen, and here we present a completely new and different development environment on xfce4 desktop system.
+**`The second and most important version is the application version:`** as this version works in a completely different and completely new way, and its idea is a new idea of its kind, as we provide the user with a complete and integrated application system structure that works like an actual program, the only difference is that you run it from Termux, and everything that is done after that from the application UI is displayed in x11, as if you are using a real program, and it also supports the containers feature without any problems, with many advantages.
+
 - **How to install BoxVidra?**
 
 **`With just one command, you will paste it in Termux, and then the entire installation process will begin without any user intervention, The installation process takes from 10 minutes to 30 minutes, depending on the internet speed`**
