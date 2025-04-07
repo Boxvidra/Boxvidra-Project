@@ -77,6 +77,18 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 
 [logo]
 
+## Boxvidra Emulator Versions
+There are three versions of Boxvidra, or rather three structure systems for the Boxvidra Emulator.
+
+| Boxvidra Emulator (Desktop) | Boxvidra Emulator (Application) | Boxvidra Emulator (Tiny) |
+|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+| <img src="/"/> | <img src="/"/>| <img src="/"/>|
+
+
+---  
+<br>
+<br>
+
 * BoxVidra Emulator Telegram  Channel :
   * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
 
