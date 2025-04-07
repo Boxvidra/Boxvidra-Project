@@ -159,7 +159,7 @@ There are three versions of Boxvidra, or rather three structure systems for the 
 * ### `XboxVidra Emulator (Not Available)` <a name=xboxvidra-emulator></a>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bb7ffe83-0b90-42cf-96c5-1e85fa1ed50b" alt="XboxVidra Logo" width="200">
+  <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/XboxVidra%20Emulator%20Images%20-%20(Logo)/XboxVidra%20Emulator%20Logo%20-%20(Logo).png" width="185">
 </p>
 
 * XboxVidra Emulator Telegram Channel :
