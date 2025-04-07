@@ -99,11 +99,11 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 - **What is the difference between each mode?**
 
-**`Well, we have three modes for Boxvidra Emulator, the basic mode is the Desktop mode:`** which is a mode that allows the user to use multiple system structures, the most important of which are Windows 10, Windows 11, Windows 7, and allows the user to run more programs such as web browsers, text editors, social media programs, video playback, and many more, and also allows the user to have a complete and real experience of the system structure that chosen, and here we present a completely new and different development environment on xfce4 desktop system too. <a name=desktop-mode></a>
+<a name=desktop-mode></a> **`Well, we have three modes for Boxvidra Emulator, the basic mode is the Desktop mode:`** which is a mode that allows the user to use multiple system structures, the most important of which are Windows 10, Windows 11, Windows 7, and allows the user to run more programs such as web browsers, text editors, social media programs, video playback, and many more, and also allows the user to have a complete and real experience of the system structure that chosen, and here we present a completely new and different development environment on xfce4 desktop system too.
 
-**`The second and most important mode is the application mode:`** as this mode works in a completely different and completely new way, and its idea is a new idea of its kind, as we provide the user with a complete and integrated application system structure that works like an actual program, the only difference is that you run it from Termux, and everything that is done after that from the application UI is displayed in x11, as if you are using a real program, and it also supports the containers feature without any problems, with many advantages. <a name=application-mode></a>
+<a name=application-mode></a> **`The second and most important mode is the application mode:`** as this mode works in a completely different and completely new way, and its idea is a new idea of its kind, as we provide the user with a complete and integrated application system structure that works like an actual program, the only difference is that you run it from Termux, and everything that is done after that from the application UI is displayed in x11, as if you are using a real program, and it also supports the containers feature without any problems, with many advantages.
 
-**`The third and final mode is the tiny mode:`** which is faster and more stable, and allows the user to use only Linux programs, so the user will not be able to use wine service at all in this mode. <a name=tiny-mode></a>
+<a name=tiny-mode></a> **`The third and final mode is the tiny mode:`** which is faster and more stable, and allows the user to use only Linux programs, so the user will not be able to use wine service at all in this mode.
 
 - **How to install BoxVidra?**
 
