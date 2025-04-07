@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e7c5630c-4f78-4e7e-ab61-4f84ef655547" alt="Vidra Project Logo" width="150">
+  <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos,%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/Vidra%20Project%20Images%20-%20(Logo)/Vidra%20Project%20Logo%20-%20(Logo).png" width="150">
 </p>
 
 English
@@ -75,14 +75,16 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 
 * ### `BoxVidra Emulator (Not Available)` <a name=boxvidra-emulator></a>
 
-[logo]
+<p align="center">
+  <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Desktops%20Structures%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Desktops%20Structures%20Version%2C%20Logo).png" width="150">
+</p>
 
 ## Boxvidra Emulator Versions
 There are three versions of Boxvidra, or rather three structure systems for the Boxvidra Emulator.
 
-| Boxvidra Emulator (Desktop) | Boxvidra Emulator (Application) | Boxvidra Emulator (Tiny) |
+| Boxvidra Emulator (Desktop Version)  | Boxvidra Emulator (App Version) | Boxvidra Emulator (Tiny Version) |
 |---------------------------------------------|---------------------------------------------|---------------------------------------------|
-| <img src="/"/> | <img src="/"/>| <img src="/"/>|
+| <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Desktops%20Structures%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Desktops%20Structures%20Version%2C%20Logo).png"/> | <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Application%20Structure%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Application%20Structure%20Version%2C%20Logo).png"/>| <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Tiny%20Structure%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Tiny%20Structure%20Version%2C%20Logo).png"/>|
 
 
 ---  
