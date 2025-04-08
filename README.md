@@ -222,6 +222,12 @@ There are two modes for XboxVidra, or rather two structure systems for it.
 
 **`XboxVidra is the first Xbox emulator to be released on Termux, and it has many advantages such as the Xbox-like user interface, sound effects, etc. You can play any game you want there without any problems with strong and stable performance for all devices, whether it is Snapdragon or Mali, In short.. if you want to have the real Xbox experience on your phone, you are in the right place.`**
 
+- **What is the difference between each mode?**
+
+<a name=xboxvidra-full-emulator></a> **`Well, we have two modes for XboxVidra Emulator, the basic mode is the emulator structure mode:`** It is a basic mode, the emulator is run by the run command with ease, and this mode is used as an actual emulator, away from anything, a full Xbox software with the Xbox user interface with all it's contents, settings and accessories, better performance and stability than the second mode that based on BoxVidra Emulator as a divided software to run Xbox games on BoxVidra Emulator.
+
+<a name=xboxvidra-basedon-mode></a> **`The second mode is based on Boxvidra Emulator:`** as this mode works in a completely different, It's not considered a mode though, as it is present in BoxVidra Emulator as a divided software that gives the user the ability to run Xbox games on BoxVidra Emulator like modern Windows systems such as Windows 10 and Windows 11, with slightly lower performance with full services, and complete stability. 
+
 - **How to install XboxVidra?**
 
 **`With just one command, you will paste it in Termux, and then the entire installation process will begin without any user intervention, The installation process takes from 5 minutes to 20 minutes, depending on the internet speed`**
