@@ -111,7 +111,7 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 - `BoxVidra Emulator's Installation Command` :
 ```bash
-'Will be available in 5/19, Stay tuned.'
+'Will be available in 6/19, Stay tuned.'
 ```
 #
 
@@ -182,7 +182,7 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 - `XboxVidra Emulator's Installation Command` :
 ```bash
-'Will be available in 7/24, Stay tuned.'
+'Will be available in 9/24, Stay tuned.'
 ```
 #
 
