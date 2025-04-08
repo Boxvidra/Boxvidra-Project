@@ -62,7 +62,7 @@ This project contains `Two` `Emulators` :
 To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please install the following applications:
 
 - **Termux**: A terminal emulator for Android that allows you to run Linux commands on your device.  
-  [![Download Termux](https://img.shields.io/badge/Download-Termux-brightgreen?style=for-the-badge&logo=android)](https://github.com/termux/termux-app/releases/download/v0.119.0-beta.2/termux-app_v0.119.0-beta.2+apt-android-5-github-debug_arm64-v8a.apk) - click to download
+  [![Download Termux](https://img.shields.io/badge/Download-Termux-brightgreen?style=for-the-badge&logo=android)](https://github.com/termux/termux-app/releases/download/v0.118.2/termux-app_v0.118.2+github-debug_arm64-v8a.apk) - click to download
 
 - **Termux-X11 (Xserver)**: Required for running graphical applications within Termux, providing a graphical user interface.  
   [![Download Termux-X11](https://img.shields.io/badge/Download-Termux--X11-blue?style=for-the-badge&logo=linux)](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk) - click to download
