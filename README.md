@@ -98,9 +98,9 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 | Root Permissions  | No | No | No |
 | Wine Service  | Yes | Yes | No |
 | Basic Service | Yes | No  | Yes |
+| All Services | Yes | No  | No |
 | Stability | Stable | Stable | More Stable |
 | Performance | 9/10 | 10/10 | 10/10 |
-| All Service | Yes | No  | No |
 | Battery Usage | 40 % | 30 % | 10 % |
 | Ram Usage | 30 % | 30 % | 20 % |
 
@@ -130,7 +130,7 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 #
 
 * ### BoxVidra Emulator Commands :
-* `boxvidra` To Run BoxVidra Emulator
+* `boxvidra` To Run BoxVidra Emulator's Main Menu
 * `boxvidra --update` To Update BoxVidra Emulator
 * `boxvidra --reinstall` To Reinstall BoxVidra Emulator
 * `boxvidra --uninstall` To Uninstall BoxVidra Emulator
@@ -151,14 +151,14 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 * ### Recommend Settings For BoxVidra
 
-| Classification | Snapdragon | Mali |
+| Drivers | Snapdragon | Mali |
 |-------------------------------|-------------------------------------|-----------------------------------|
 | **D3D Emulator**              | dxvk `2.2` gplasync <br> dxvk `2.3` gplasync | wined3d `8.20`                    |
 | **Mesa Driver**              | Turnip v`3` <br> Turnip v`6.5`       | VirGL Mesa `24` <br> VirGL Mesa `22` |
 
 ---
 
-| Classification | Settings |
+| Setting | Details |
 |--------------------|------------------------------------------------|
 | **Primary Cores**  | `8` Cores                                      |
 | **Dynarec**  | `45`                                      |
