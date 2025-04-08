@@ -91,8 +91,18 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 |---------------------------------------------|---------------------------------------------|---------------------------------------------|
 | <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Desktops%20Structures%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Desktops%20Structures%20Version%2C%20Logo).png"/> | <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Application%20Structure%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Application%20Structure%20Version%2C%20Logo).png"/>| <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Tiny%20Structure%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Tiny%20Structure%20Version%2C%20Logo).png"/>|
 
----
+* ### Comparison Of BoxVidra Emulator Modes
 
+| Feature             | Desktop Mode          | Application Mode         | Tiny Mode         |
+|---------------------|----------------|----------------|----------------|
+| Root Permissions  | No | No | No |
+| Wine Service  | Yes | Yes | No |
+| Basic Service | Yes | No  | Yes |
+| Stability | Stable | Stable | More Stable |
+| Performance | 9/10 | 10/10 | 10/10 |
+| All Service | Yes | No  | No |
+| Battery Usage | 40 % | 30 % | 10 % |
+| Ram Usage | 30 % | 30 % | 20 % |
 ---
 
 
@@ -128,54 +138,45 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 #
 
 * ### BoxVidra Emulator Requirements :
-* `Android Version` 11 And Above 
-* `Processor` Snapdragon 480 and above
-* `Ram` 3 To 6 GB Ram
-* `Storage` 4-6 GB
-* `GB that is consumed from the internet` 3.5 GB
+
+| Requirements | Required |
+|---------------------|---------------------|
+| Android Version  | 11 And Above |
+| Processor | Snapdragon 480 And Above |
+| Ram | 3 To 6 Ram |
+| Storage | 4 To 6 GB |
+| Installation Process | 3.5 GB |
 
 #
 
-* ### Recommend Settings For BoxVidra Emulator :
+* ### Recommend Settings For BoxVidra
 
-* `D3D` For Snapdragon :
-  * dxvk `2.2` gplasync
-  * dxvk `2.3` gplasync
-* `D3D` For Mali :
-  * wined3d `8.20`
-#
-* `Mesa Driver` For Snapdragon :
-  * Turnip v`3`
-  * Turnip v`6.5`
-* `Mesa Driver` For Mali :
-  * VirGL Mesa `24`
-  * VirGL Mesa `22`
-#
-* `Primary Cores`
-  * `8` Cores
-#
-* `Wine` For Wow64 Glibc :
-  * `8.18` Staging
-* `Wine` For Box86-64 Glibc :
-  * `8.25` GE
-#
-* `UI Structure`
-  * Windows 10 System Structure (`Light`, `Dark`)
-  * BoxVidra Application System Structure (`Light Purple`, `Dark Blue`)
+| Classification | Snapdragon | Mali |
+|-------------------------------|-------------------------------------|-----------------------------------|
+| **D3D Emulator**              | dxvk `2.2` gplasync <br> dxvk `2.3` gplasync | wined3d `8.20`                    |
+| **Mesa Driver**              | Turnip v`3` <br> Turnip v`6.5`       | VirGL Mesa `24` <br> VirGL Mesa `22` |
 
-* ### Recommend setup for termux-x11 :
+---
 
-* `resolution mode :` Exact
-* `Resolution :` 1280x720
-* `Force Landscape orientation :` Active
+| Classification | Settings |
+|--------------------|------------------------------------------------|
+| **Primary Cores**  | `8` Cores                                      |
+| **Dynarec**  | `45`                                      |
+| **Wine - Wow64**   | `8.18` Staging                                 |
+| **Wine - Box86-64**| `8.25` GE                                      |
+| **UI Structure**   | Windows 10 System Structure (`Light`, `Dark`) <br> BoxVidra Application System Structure (`Light Purple`, `Dark Blue`) |
 
-* `Reseed Screen While Soft Keyboard is open :` Inactive
-* `Show additional keyboard :` Inactive
-* `Fullscreen on device display :` Inactive
+* ### Recommend Setup For Termux-x11 :
 
-* `Touchscreen input mode :`
-  * Trackpad For `Desktop` | `Tiny Mode`
-  * Direct Touch For `Application Mode`
+| Setting | Details |
+|----------------------------------------------|---------------------------------------------------------|
+| **Resolution Mode**                          | Exact                                                   |
+| **Resolution**                                | 1280x720                                                |
+| **Force Landscape Orientation**              | Active                                                  |
+| **Reseed Screen While Soft Keyboard is Open**| Inactive                                                |
+| **Show Additional Keyboard**                 | Inactive                                                |
+| **Fullscreen on Device Display**             | Inactive                                                |
+| **Touchscreen Input Mode**                   | - Trackpad for `Desktop` / `Tiny Mode` <br> - Direct Touch for `Application Mode` |
 
 #
 
