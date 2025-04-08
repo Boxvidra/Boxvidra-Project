@@ -175,7 +175,7 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 | **Force Landscape Orientation**              | Active                                                  |
 | **Reseed Screen While Soft Keyboard is Open**| Inactive                                                |
 | **Show Additional Keyboard**                 | Inactive                                                |
-| **Fullscreen on Device Display**             | Inactive                                                |
+| **Fullscreen on Device Display**             | Active                                                |
 | **Touchscreen Input Mode**                   | - Trackpad for `Desktop` / `Tiny Mode` <br> - Direct Touch for `Application Mode` |
 
 #
@@ -197,6 +197,26 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 * XboxVidra Emulator Telegram Channel :
   * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
 
+* ### Boxvidra Emulator Modes
+There are three modes for Boxvidra, or rather three structure systems for it.
+
+| [Boxvidra Emulator (Desktop Mode)](#desktop-mode)  | [Boxvidra Emulator (App Mode)](#application-mode) |[Boxvidra Emulator (Tiny Mode)](#tiny-mode) |
+|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+| <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Desktops%20Structures%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Desktops%20Structures%20Version%2C%20Logo).png"/> | <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Application%20Structure%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Application%20Structure%20Version%2C%20Logo).png"/>| <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Tiny%20Structure%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Tiny%20Structure%20Version%2C%20Logo).png"/>|
+
+* ### Comparison Of BoxVidra Emulator Modes
+
+| Feature             | Desktop Mode          | Application Mode         | Tiny Mode         |
+|---------------------|----------------|----------------|----------------|
+| Root Permissions  | No | No | No |
+| Wine Service  | Yes | Yes | No |
+| Basic Service | Yes | No  | Yes |
+| All Services | Yes | No  | No |
+| Stability | Stable | Stable | More Stable |
+| Performance | 9/10 | 10/10 | 10/10 |
+| Battery Usage | 40 % | 30 % | 10 % |
+| Ram Usage | 30 % | 30 % | 20 % |
+
 #
 
 - **What is XboxVidra Emulator?**
@@ -209,7 +229,7 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 - `XboxVidra Emulator's Installation Command` :
 ```bash
-'Will be available in 9/24, Stay tuned.'
+'Will be available in 11/24, Stay tuned.'
 ```
 #
 
