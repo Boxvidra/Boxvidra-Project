@@ -103,8 +103,8 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 | All Service | Yes | No  | No |
 | Battery Usage | 40 % | 30 % | 10 % |
 | Ram Usage | 30 % | 30 % | 20 % |
----
 
+#
 
 - **What is BoxVidra Emulator?**
 
