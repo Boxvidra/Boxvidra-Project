@@ -73,7 +73,7 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 
 #
 
-* ### `BoxVidra Emulator (Not Available)` <a name=boxvidra-emulator></a>
+### `BoxVidra Emulator (Not Available)` <a name=boxvidra-emulator></a>
 
 <p align="center">
   <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Desktops%20Structures%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Desktops%20Structures%20Version%2C%20Logo).png" width="150">
@@ -84,7 +84,7 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 
 #
 
-## Boxvidra Emulator Modes
+* ### Boxvidra Emulator Modes
 There are three modes for Boxvidra, or rather three structure systems for it.
 
 | [Boxvidra Emulator (Desktop Mode)](#desktop-mode)  | [Boxvidra Emulator (App Mode)](#application-mode) |[Boxvidra Emulator (Tiny Mode)](#tiny-mode) |
@@ -119,7 +119,7 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 ```
 #
 
-### BoxVidra Emulator Commands :
+* ### BoxVidra Emulator Commands :
 * `boxvidra` To Run BoxVidra Emulator
 * `boxvidra --update` To Update BoxVidra Emulator
 * `boxvidra --reinstall` To Reinstall BoxVidra Emulator
@@ -127,7 +127,7 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 #
 
-### BoxVidra Emulator Requirements :
+* ### BoxVidra Emulator Requirements :
 * `Android Version` 11 And Above 
 * `Processor` Snapdragon 480 and above
 * `Ram` 3 To 6 GB Ram
@@ -136,7 +136,7 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 #
 
-### Recommend Settings For BoxVidra Emulator :
+* ### Recommend Settings For BoxVidra Emulator :
 
 * `D3D` For Snapdragon :
   * dxvk `2.2` gplasync
@@ -163,17 +163,31 @@ There are three modes for Boxvidra, or rather three structure systems for it.
   * Windows 10 System Structure (`Light`, `Dark`)
   * BoxVidra Application System Structure (`Light Purple`, `Dark Blue`)
 
+* ### Recommend setup for termux-x11 :
+
+* `resolution mode :` Exact
+* `Resolution :` 1280x720
+* `Force Landscape orientation :` Active
+
+* `Reseed Screen While Soft Keyboard is open :` Inactive
+* `Show additional keyboard :` Inactive
+* `Fullscreen on device display :` Inactive
+
+* `Touchscreen input mode :`
+  * Trackpad For `Desktop` | `Tiny Mode`
+  * Direct Touch For `Application Mode`
+
 #
 
-### BoxVidra Emulator Previews
+* ### BoxVidra Emulator Previews
 - **`Not Available`**
 
-### BoxVidra Emulator Experiments
+* ### BoxVidra Emulator Experiments
 - **`Not Available`**
 
 #
 
-* ### `XboxVidra Emulator (Not Available)` <a name=xboxvidra-emulator></a>
+### `XboxVidra Emulator (Not Available)` <a name=xboxvidra-emulator></a>
 
 <p align="center">
   <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/XboxVidra%20Emulator%20Images%20-%20(Logo)/XboxVidra%20Emulator%20Logo%20-%20(Logo).png" width="185">
@@ -198,7 +212,7 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 ```
 #
 
-### XboxVidra Emulator Commands :
+* ### XboxVidra Emulator Commands :
 * `xboxvidra` To Run XboxVidra Emulator
 * `xboxvidra --update` To Update XboxVidra Emulator
 * `xboxvidra --reinstall` To Reinstall XboxVidra Emulator
@@ -206,7 +220,7 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 #
 
-### XboxVidra Emulator Requirements :
+* ### XboxVidra Emulator Requirements :
 * `Android Version` 10 And Above 
 * `Processor` Snapdragon 480 and above
 * `Ram` 2 To 4 GB Ram
@@ -215,29 +229,29 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 #
 
-### Recommend Settings For XboxVidra Emulator :
+* ### Recommend Settings For XboxVidra Emulator :
 * `UI Structure`
   * Xbox UI System Structure (`Light Green`, `Dark Green`)
 
-### XboxVidra Emulator Previews :
-- **`Not Available`**
-
-### XboxVidra Emulator Experiments :
-- **`Not Available`**
-
 #
 
-### Recommend setup for termux-x11 :
+* ### XboxVidra Emulator Previews :
+- **`Not Available`**
 
-* `resolution mode` exact or native
+* ### XboxVidra Emulator Experiments :
+- **`Not Available`**
 
-* `Resolution` 1280x720 For Boxvidra Native
+* ### Recommend setup for termux-x11 :
 
-* `Reseed Screen While Soft Keyboard is open` OFF
-* `Show additional keyboard` OFF
-* `Fullscreen on device display` OFF
+* `resolution mode :` Exact
+* `Resolution :` 1280x720
+* `Force Landscape orientation :` Active
 
-* `Force Landscape orientation` ON
+* `Reseed Screen While Soft Keyboard is open :` Inactive
+* `Show additional keyboard :` Inactive
+* `Fullscreen on device display :` Inactive
+
+* `Touchscreen input mode :` Trackpad
 
 #
 
