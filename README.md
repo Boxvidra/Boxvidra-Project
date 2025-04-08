@@ -93,6 +93,9 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 ---
 
+---
+
+
 - **What is BoxVidra Emulator?**
 
 **`BoxVidra is a modern PC emulator, unique in it's kind, with a completely new concept, that fully meets your needs, as if you are dealing with a real computer on your phone, You can play games, work, format, take the experience, and enjoy the Windows or macOS experience on your phone, It's also considered a very big leap in the development of Xfce, as it contains new and unique developments that give the experience of other operating systems identically, So, if you want to get the full computer experience on your phone, you are in the right place.`**
@@ -108,6 +111,7 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 - **How to install BoxVidra?**
 
 **`With just one command, you will paste it in Termux, and then the entire installation process will begin without any user intervention, The installation process takes from 10 minutes to 30 minutes, depending on the internet speed`**
+
 
 - `BoxVidra Emulator's Installation Command` :
 ```bash
@@ -157,7 +161,15 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 #
 * `UI Structure`
   * Windows 10 System Structure (`Light`, `Dark`)
-  * BoxVidra Application System Structure (`Light Blue`, `Dark Blue`)
+  * BoxVidra Application System Structure (`Light Purple`, `Dark Blue`)
+
+#
+
+### BoxVidra Emulator Previews
+- **`Not Available`**
+
+### BoxVidra Emulator Experiments
+- **`Not Available`**
 
 #
 
@@ -205,7 +217,13 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 ### Recommend Settings For XboxVidra Emulator :
 * `UI Structure`
-  * Xbox UI System Structure (`Light`, `Dark`)
+  * Xbox UI System Structure (`Light Green`, `Dark Green`)
+
+### XboxVidra Emulator Previews :
+- **`Not Available`**
+
+### XboxVidra Emulator Experiments :
+- **`Not Available`**
 
 #
 
