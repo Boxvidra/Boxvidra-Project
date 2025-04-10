@@ -76,7 +76,7 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
 ### `BoxVidra Emulator (Not Available)` <a name=boxvidra-emulator></a>
 
 <p align="center">
-  <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Desktops%20Structures%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Desktops%20Structures%20Version%2C%20Logo).png" width="150">
+  <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Desktops%20Structures%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Desktops%20Structures%20Mode%2C%20Logo).png" width="150">
 </p>
 
 * BoxVidra Emulator Telegram Channel :
@@ -89,7 +89,7 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 | [Boxvidra Emulator (Desktop Mode)](#desktop-mode)  | [Boxvidra Emulator (App Mode)](#application-mode) |[Boxvidra Emulator (Tiny Mode)](#tiny-mode) |
 |---------------------------------------------|---------------------------------------------|---------------------------------------------|
-| <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Desktops%20Structures%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Desktops%20Structures%20Version%2C%20Logo).png"/> | <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Application%20Structure%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Application%20Structure%20Version%2C%20Logo).png"/>| <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Tiny%20Structure%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Tiny%20Structure%20Version%2C%20Logo).png"/>|
+| <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Desktops%20Structures%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Desktops%20Structures%20Mode%2C%20Logo).png"/> | <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Application%20Structure%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Application%20Structure%20Mode%2C%20Logo).png"/>| <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Tiny%20Structure%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Tiny%20Structure%20Mode%2C%20Logo).png"/>|
 
 * ### Comparison Of BoxVidra Emulator Modes
 
