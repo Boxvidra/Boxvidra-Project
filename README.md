@@ -93,10 +93,10 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 * ### Comparison Of BoxVidra Emulator Modes
 
-| Feature             | Desktop Mode          | Application Mode         | Tiny Mode         |
+| Feature | Desktop Mode | Application Mode | Tiny Mode |
 |---------------------|----------------|----------------|----------------|
-| Root Permissions  | No | No | No |
-| Wine Service  | Yes | Yes | No |
+| Root Permissions | No | No | No |
+| Wine Service | Yes | Yes | No |
 | Basic Service | Yes | No  | Yes |
 | All Services | Yes | No  | No |
 | Stability | Stable | Stable | More Stable |
@@ -141,7 +141,7 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 | Requirements | Required |
 |---------------------|---------------------|
-| Android Version  | 11 And Above |
+| Android Version | 11 And Above |
 | Processor | Snapdragon 480 And Above |
 | Ram | 3 To 6 Ram |
 | Storage | 4 To 6 GB |
@@ -160,23 +160,23 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 | Setting | Details |
 |--------------------|------------------------------------------------|
-| **Primary Cores**  | `8` Cores                                      |
-| **Dynarec**  | `45`                                      |
-| **Wine - Wow64**   | `8.18` Staging                                 |
-| **Wine - Box86-64**| `8.25` GE                                      |
+| **Primary Cores** | `8` Cores |
+| **Dynarec** | `45` |
+| **Wine - Wow64**   | `8.18` Staging |
+| **Wine - Box86-64**| `8.25` GE |
 | **UI Structure**   | Windows 10 System Structure (`Light`, `Dark`) <br> BoxVidra Application System Structure (`Light Purple`, `Dark Blue`) |
 
 * ### Recommend Setup For Termux-x11 :
 
 | Setting | Details |
 |----------------------------------------------|---------------------------------------------------------|
-| **Resolution Mode**                          | Exact                                                   |
-| **Resolution**                                | 1280x720                                                |
-| **Force Landscape Orientation**              | Active                                                  |
-| **Reseed Screen While Soft Keyboard is Open**| Inactive                                                |
-| **Show Additional Keyboard**                 | Inactive                                                |
-| **Fullscreen on Device Display**             | Active                                                |
-| **Touchscreen Input Mode**                   | - Trackpad for `Desktop` And `Tiny Mode` <br> - Direct Touch for `Application Mode` |
+| **Resolution Mode**                  | Exact |
+| **Resolution** | 1280x720 |
+| **Force Landscape Orientation** | Active |
+| **Reseed Screen While Soft Keyboard is Open** | Inactive |
+| **Show Additional Keyboard**         | Inactive |
+| **Fullscreen on Device Display**     | Active |
+| **Touchscreen Input Mode**           | - Trackpad for `Desktop` And `Tiny Mode` <br> - Direct Touch for `Application Mode` |
 
 #
 
@@ -206,15 +206,15 @@ There are two modes for XboxVidra, or rather two structure systems for it.
 
 * ### Comparison Of BoxVidra Emulator Modes
 
-| Feature | XboxVidra Emulator (Based On Boxvidra) | XboxVidra Emulator
+| Feature | XboxVidra Emulator | XboxVidra Emulator (Based On Boxvidra)
 |---------------------|----------------|----------------|
-| Root Permissions  | No | No |
-| Application Mode  | Yes | No |
-| Emulator Structure | No | Yes |
-| Stability | Stable | More Stable |
-| Performance | 9/10 | 10/10 |
-| Battery Usage | 20 % | 30 % |
-| Ram Usage | 10 % | 30 % |
+| Root Permissions | No | No |
+| Application Mode | No | Yes |
+| Emulator Structure | Yes | No |
+| Stability | More Stable | Stable |
+| Performance | 10/10 | 9/10 |
+| Battery Usage | 30 % | 20 % |
+| Ram Usage | 30 % | 10 % |
 
 #
 
@@ -250,7 +250,7 @@ There are two modes for XboxVidra, or rather two structure systems for it.
 
 | Requirements | Required |
 |---------------------|---------------------|
-| Android Version  | 10 And Above |
+| Android Version | 10 And Above |
 | Processor | Snapdragon 480 And Above |
 | Ram | 2 To 4 Ram |
 | Storage | 1 To 2 GB |
@@ -262,7 +262,7 @@ There are two modes for XboxVidra, or rather two structure systems for it.
 
 | Setting | Details |
 |------------------|--------------------------------------------|
-| UI Structure     | Xbox UI System Structure (`Light Green`, `Dark Green`) |
+| UI Structure | Xbox UI System Structure (`Light Green`, `Dark Green`) |
 
 #
 
@@ -270,13 +270,13 @@ There are two modes for XboxVidra, or rather two structure systems for it.
 
 | Setting | Details |
 |----------------------------------------------|---------------------------------------------------------|
-| **Resolution Mode**                          | Exact                                                   |
-| **Resolution**                                | 1280x720                                                |
-| **Force Landscape Orientation**              | Active                                                  |
-| **Reseed Screen While Soft Keyboard is Open**| Inactive                                                |
-| **Show Additional Keyboard**                 | Inactive                                                |
-| **Fullscreen on Device Display**             | Active                                                |
-| **Touchscreen Input Mode**                   | - Trackpad for `Based On BoxVidra Version (Software)` <br> - Direct Touch for `Emulator's Structure` |
+| **Resolution Mode** | Exact |
+| **Resolution** | 1280x720 |
+| **Force Landscape Orientation** | Active |
+| **Reseed Screen While Soft Keyboard is Open** | Inactive |
+| **Show Additional Keyboard**         | Inactive |
+| **Fullscreen on Device Display**     | Active |
+| **Touchscreen Input Mode**           | - Trackpad for `Based On BoxVidra Version (Software)` <br> - Direct Touch for `Emulator's Structure` |
 
 #
 
