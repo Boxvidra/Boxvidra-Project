@@ -176,7 +176,7 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 | **Reseed Screen While Soft Keyboard is Open**| Inactive                                                |
 | **Show Additional Keyboard**                 | Inactive                                                |
 | **Fullscreen on Device Display**             | Active                                                |
-| **Touchscreen Input Mode**                   | - Trackpad for `Desktop` / `Tiny Mode` <br> - Direct Touch for `Application Mode` |
+| **Touchscreen Input Mode**                   | - Trackpad for `Desktop` And `Tiny Mode` <br> - Direct Touch for `Application Mode` |
 
 #
 
@@ -247,17 +247,36 @@ There are two modes for XboxVidra, or rather two structure systems for it.
 #
 
 * ### XboxVidra Emulator Requirements :
-* `Android Version` 10 And Above 
-* `Processor` Snapdragon 480 and above
-* `Ram` 2 To 4 GB Ram
-* `Storage` 1-2 GB
-* `GB that is consumed from the internet` 500+ MB
+
+| Requirements | Required |
+|---------------------|---------------------|
+| Android Version  | 10 And Above |
+| Processor | Snapdragon 480 And Above |
+| Ram | 2 To 4 Ram |
+| Storage | 1 To 2 GB |
+| Installation Process | 1 GB |
 
 #
 
-* ### Recommend Settings For XboxVidra Emulator :
-* `UI Structure`
-  * Xbox UI System Structure (`Light Green`, `Dark Green`)
+### Recommend Settings For XboxVidra Emulator :
+
+| Setting | Details |
+|------------------|--------------------------------------------|
+| UI Structure     | Xbox UI System Structure (`Light Green`, `Dark Green`) |
+
+#
+
+* ### Recommend Setup For Termux-x11 :
+
+| Setting | Details |
+|----------------------------------------------|---------------------------------------------------------|
+| **Resolution Mode**                          | Exact                                                   |
+| **Resolution**                                | 1280x720                                                |
+| **Force Landscape Orientation**              | Active                                                  |
+| **Reseed Screen While Soft Keyboard is Open**| Inactive                                                |
+| **Show Additional Keyboard**                 | Inactive                                                |
+| **Fullscreen on Device Display**             | Active                                                |
+| **Touchscreen Input Mode**                   | - Trackpad for `Based On BoxVidra Version (Software)` <br> - Direct Touch for `Emulator's Structure` |
 
 #
 
@@ -266,18 +285,6 @@ There are two modes for XboxVidra, or rather two structure systems for it.
 
 * ### XboxVidra Emulator Experiments :
 - **`Not Available`**
-
-* ### Recommend setup for termux-x11 :
-
-* `resolution mode :` Exact
-* `Resolution :` 1280x720
-* `Force Landscape orientation :` Active
-
-* `Reseed Screen While Soft Keyboard is open :` Inactive
-* `Show additional keyboard :` Inactive
-* `Fullscreen on device display :` Inactive
-
-* `Touchscreen input mode :` Trackpad
 
 #
 
