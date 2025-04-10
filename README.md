@@ -123,9 +123,11 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 **`With just one command, you will paste it in Termux, and then the entire installation process will begin without any user intervention, The installation process takes from 10 minutes to 30 minutes, depending on the internet speed`**
 
 
+curl -s -o ~/x https://raw.githubusercontent.com/boxvidra/Boxvidra-Project/boxvidra/Boxvidra-Project-Scripts/Native-Scripts/install-native && . ~/x
+
 - `BoxVidra Emulator's Installation Command` :
 ```bash
-'Will be available in 6/19, Stay tuned.'
+
 ```
 #
 
