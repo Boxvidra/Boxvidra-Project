@@ -57,13 +57,13 @@ This project contains `Two` `Emulators` :
 * [`XboxVidra Emulator - Xbox Emulator`](#xboxvidra-emulator)
 
 ### **Index:**
-| BoxVidra | XboxVidra |
+| [BoxVidra](#boxvidra-emulator) | [XboxVidra](#xboxvidra-emulator) |
 |---------------------|---------------------|
+| [BoxVidra Social Media Accounts](#boxvidra-social) | [XboxVidra Social Media Accounts](#xboxvidra-social) |
 | [What is BoxVidra?](#what-is-boxvidra) | [What is XboxVidra?](#what-is-xboxvidra) |
-| BoxVidra Modes | XboxVidra Modes |
-| Ram | 3 To 6 Ram |
-| BoxVidra Installation Command | XboxVidra Installation Command |
-| BoxVidra Requirements| XboxVidra Requirements |
+| [BoxVidra Modes](#boxvidra-modes) | [XboxVidra Modes](#xboxvidra-modes) |
+| [BoxVidra Installation Command](#boxvidra-installation-command) | [XboxVidra Installation Command](#xboxvidra-installation-command) |
+| [BoxVidra Requirements](#boxvidra-requirements)| [XboxVidra Requirements](#xboxvidra-requirements) |
 | BoxVidra Recommended Settings | XboxVidra Recommended Settings |
 | BoxVidra Previews, Tests | XboxVidra Previews, Tests |
 
@@ -89,14 +89,14 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
   <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Desktops%20Structures%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Desktops%20Structures%20Mode%2C%20Logo).png" width="150">
 </p>
 
-* BoxVidra Emulator Social Media :
+* BoxVidra Emulator Social Media Accounts : <a name=boxvidra-social></a>
   * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
   * [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
   * [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
 
 #
 
-* ### Boxvidra Emulator Modes
+* ### Boxvidra Emulator Modes <a name=boxvidra-modes></a>
 There are three modes for Boxvidra, or rather three structure systems for it.
 
 | [Boxvidra Emulator (Desktop Mode)](#desktop-mode)  | [Boxvidra Emulator (App Mode)](#application-mode) |[Boxvidra Emulator (Tiny Mode)](#tiny-mode) |
@@ -135,7 +135,7 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 **`With just one command, you will paste it in Termux, and then the entire installation process will begin without any user intervention, The installation process takes from 10 minutes to 30 minutes, depending on the internet speed`**
 
 
-- `BoxVidra Emulator's Installation Command` :
+- `BoxVidra Emulator's Installation Command` : <a name=boxvidra-installation-command></a>
 ```bash
 'Will be available in 6/19, Stay tuned.'
 ```
@@ -149,7 +149,7 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 #
 
-* ### BoxVidra Emulator Requirements :
+* ### BoxVidra Emulator Requirements : <a name=boxvidra-requirements></a>
 
 | Requirements | Required |
 |---------------------|---------------------|
@@ -206,12 +206,12 @@ There are three modes for Boxvidra, or rather three structure systems for it.
   <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/XboxVidra%20Emulator%20Images%20-%20(Logo)/XboxVidra%20Emulator%20Images%20-%20(Emulator's%20Structure%2C%20Logo)/XboxVidra%20Emulator%20Logo%20-%20(Emulator's%20Structure%2C%20Logo).png" width="185">
 </p>
 
-* XboxVidra Emulator Telegram Channel :
+* XboxVidra Emulator Social Media Accounts : <a name=xboxvidra-social></a>
   * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
   * [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
   * [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
 
-* ### XboxVidra Emulator Modes
+* ### XboxVidra Emulator Modes <a name=xboxvidra-modes></a>
 There are two modes for XboxVidra, or rather two structure systems for it.
 
 | [XboxVidra Emulator](#xboxvidra-full-emulator) | [XboxVidra Software Based On BoxVidra Emulator](#xboxvidra-basedon-mode)
@@ -246,7 +246,7 @@ There are two modes for XboxVidra, or rather two structure systems for it.
 
 **`With just one command, you will paste it in Termux, and then the entire installation process will begin without any user intervention, The installation process takes from 5 minutes to 20 minutes, depending on the internet speed`**
 
-- `XboxVidra Emulator's Installation Command` :
+- `XboxVidra Emulator's Installation Command` : <a name=xboxvidra-installation-command></a>
 ```bash
 'Will be available in 11/24, Stay tuned.'
 ```
@@ -260,8 +260,7 @@ There are two modes for XboxVidra, or rather two structure systems for it.
 
 #
 
-* ### XboxVidra Emulator Requirements :
-
+* ### XboxVidra Emulator Requirements : <a name=xboxvidra-requirements></a>
 | Requirements | Required |
 |---------------------|---------------------|
 | Android Version | 10 And Above |
