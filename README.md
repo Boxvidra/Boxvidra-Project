@@ -56,6 +56,17 @@ This project contains `Two` `Emulators` :
 * [`BoxVidra Emulator - Pc Emulator`](#boxvidra-emulator)
 * [`XboxVidra Emulator - Xbox Emulator`](#xboxvidra-emulator)
 
+### **Index:**
+| BoxVidra | XboxVidra |
+|---------------------|---------------------|
+| What is BoxVidra? | What is XboxVidra? |
+| BoxVidra Modes | XboxVidra Modes |
+| Ram | 3 To 6 Ram |
+| BoxVidra Installation Command | XboxVidra Installation Command |
+| BoxVidra Requirements| XboxVidra Requirements |
+| BoxVidra Recommended Settings | XboxVidra Recommended Settings |
+| BoxVidra Previews, Tests | XboxVidra Previews, Tests |
+
 ### **Basic Installation Requirements:**
 
 To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please install the following applications:
