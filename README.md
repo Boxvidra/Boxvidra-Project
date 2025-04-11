@@ -91,14 +91,16 @@ To install either the **BoxVidra Emulator** or **XboxVidra Emulator**, please in
   <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Desktops%20Structures%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Desktops%20Structures%20Mode%2C%20Logo).png" width="150">
 </p>
 
-* BoxVidra Emulator Social Media Accounts : <a name=boxvidra-social></a>
+<a name=boxvidra-social></a>
+* BoxVidra Emulator Social Media Accounts :
   * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
   * [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
   * [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
 
 #
 
-* ### Boxvidra Emulator Modes <a name=boxvidra-modes></a>
+<a name=boxvidra-modes></a>
+* ### Boxvidra Emulator Modes
 There are three modes for Boxvidra, or rather three structure systems for it.
 
 | [Boxvidra Emulator (Desktop Mode)](#desktop-mode)  | [Boxvidra Emulator (App Mode)](#application-mode) |[Boxvidra Emulator (Tiny Mode)](#tiny-mode) |
@@ -120,7 +122,8 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 #
 
-- **What is BoxVidra Emulator?** <a name=what-is-boxvidra></a>
+<a name=what-is-boxvidra></a>
+- **What is BoxVidra Emulator?**
 
 **`BoxVidra is a modern PC emulator, unique in it's kind, with a completely new concept, that fully meets your needs, as if you are dealing with a real computer on your phone, You can play games, work, format, take the experience, and enjoy the Windows or macOS experience on your phone, It's also considered a very big leap in the development of Xfce, as it contains new and unique developments that give the experience of other operating systems identically, So, if you want to get the full computer experience on your phone, you are in the right place.`**
 
@@ -137,7 +140,8 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 **`With just one command, you will paste it in Termux, and then the entire installation process will begin without any user intervention, The installation process takes from 10 minutes to 30 minutes, depending on the internet speed`**
 
 
-- `BoxVidra Emulator's Installation Command` : <a name=boxvidra-installation-command></a>
+<a name=boxvidra-installation-command></a>
+- `BoxVidra Emulator's Installation Command` :
 ```bash
 'Will be available in 6/19, Stay tuned.'
 ```
@@ -163,7 +167,8 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 #
 
-* ### Recommend Settings For BoxVidra : <a name=boxvidra-recommended-settings></a>
+<a name=boxvidra-recommended-settings></a>
+* ### Recommend Settings For BoxVidra :
 
 | Drivers | Snapdragon | Mali |
 |-------------------------------|-------------------------------------|-----------------------------------|
@@ -204,18 +209,23 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 #
 
-### `XboxVidra Emulator (Not Available)` <a name=xboxvidra-emulator></a>
+<a name=xboxvidra-emulator></a>
+### `XboxVidra Emulator (Not Available)`
 
 <p align="center">
   <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/XboxVidra%20Emulator%20Images%20-%20(Logo)/XboxVidra%20Emulator%20Images%20-%20(Emulator's%20Structure%2C%20Logo)/XboxVidra%20Emulator%20Logo%20-%20(Emulator's%20Structure%2C%20Logo).png" width="185">
 </p>
 
-* XboxVidra Emulator Social Media Accounts : <a name=xboxvidra-social></a>
+<a name=xboxvidra-social></a>
+* XboxVidra Emulator Social Media Accounts :
   * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
   * [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
   * [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
 
-* ### XboxVidra Emulator Modes <a name=xboxvidra-modes></a>
+#
+
+<a name=xboxvidra-modes></a>
+* ### XboxVidra Emulator Modes
 There are two modes for XboxVidra, or rather two structure systems for it.
 
 | [XboxVidra Emulator](#xboxvidra-full-emulator) | [XboxVidra Software Based On BoxVidra Emulator](#xboxvidra-basedon-mode)
@@ -236,7 +246,8 @@ There are two modes for XboxVidra, or rather two structure systems for it.
 
 #
 
-- **What is XboxVidra Emulator?** <a name=what-is-xboxvidra></a>
+<a name=what-is-xboxvidra></a>
+- **What is XboxVidra Emulator?**
 
 **`XboxVidra is the first Xbox emulator to be released on Termux, and it has many advantages such as the Xbox-like user interface, sound effects, etc. You can play any game you want there without any problems with strong and stable performance for all devices, whether it is Snapdragon or Mali, In short.. if you want to have the real Xbox experience on your phone, you are in the right place.`**
 
@@ -250,7 +261,8 @@ There are two modes for XboxVidra, or rather two structure systems for it.
 
 **`With just one command, you will paste it in Termux, and then the entire installation process will begin without any user intervention, The installation process takes from 5 minutes to 20 minutes, depending on the internet speed`**
 
-- `XboxVidra Emulator's Installation Command` : <a name=xboxvidra-installation-command></a>
+<a name=xboxvidra-installation-command></a>
+- `XboxVidra Emulator's Installation Command` :
 ```bash
 'Will be available in 11/24, Stay tuned.'
 ```
@@ -264,7 +276,8 @@ There are two modes for XboxVidra, or rather two structure systems for it.
 
 #
 
-* ### XboxVidra Emulator Requirements : <a name=xboxvidra-requirements></a>
+<a name=xboxvidra-requirements></a>
+* ### XboxVidra Emulator Requirements :
 | Requirements | Required |
 |---------------------|---------------------|
 | Android Version | 10 And Above |
