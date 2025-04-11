@@ -155,7 +155,8 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 #
 
-* ### BoxVidra Emulator Requirements : <a name=boxvidra-requirements></a>
+<a name=boxvidra-requirements></a>
+* ### BoxVidra Emulator Requirements :
 
 | Requirements | Required |
 |---------------------|---------------------|
