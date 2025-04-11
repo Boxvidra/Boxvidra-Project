@@ -198,6 +198,8 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 * XboxVidra Emulator Telegram Channel :
   * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
+  * [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
+  * [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
 
 * ### XboxVidra Emulator Modes
 There are two modes for XboxVidra, or rather two structure systems for it.
