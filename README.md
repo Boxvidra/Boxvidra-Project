@@ -59,7 +59,7 @@ This project contains `Two` `Emulators` :
 ### **Index:**
 | BoxVidra | XboxVidra |
 |---------------------|---------------------|
-| What is BoxVidra? | What is XboxVidra? |
+| [What is BoxVidra?](#what-is-boxvidra) | [What is XboxVidra?](#what-is-xboxvidra) |
 | BoxVidra Modes | XboxVidra Modes |
 | Ram | 3 To 6 Ram |
 | BoxVidra Installation Command | XboxVidra Installation Command |
@@ -118,7 +118,7 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 #
 
-- **What is BoxVidra Emulator?**
+- **What is BoxVidra Emulator?** <a name=what-is-boxvidra></a>
 
 **`BoxVidra is a modern PC emulator, unique in it's kind, with a completely new concept, that fully meets your needs, as if you are dealing with a real computer on your phone, You can play games, work, format, take the experience, and enjoy the Windows or macOS experience on your phone, It's also considered a very big leap in the development of Xfce, as it contains new and unique developments that give the experience of other operating systems identically, So, if you want to get the full computer experience on your phone, you are in the right place.`**
 
@@ -218,7 +218,7 @@ There are two modes for XboxVidra, or rather two structure systems for it.
 |---------------------------------------------|---------------------------------------------|
 | <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/XboxVidra%20Emulator%20Images%20-%20(Logo)/XboxVidra%20Emulator%20Images%20-%20(Emulator's%20Structure%2C%20Logo)/XboxVidra%20Emulator%20Logo%20-%20(Emulator's%20Structure%2C%20Logo).png"/> | <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/XboxVidra%20Emulator%20Images%20-%20(Logo)/XboxVidra%20Emulator%20Images%20-%20(Based%20On%20BoxVidra%20Emulator%2C%20Logo)/XboxVidra%20Emulator%20Logo%20-%20(Based%20On%20BoxVidra%20Emulator%2C%20Logo).png"/>|
 
-* ### Comparison Of BoxVidra Emulator Modes
+* ### Comparison Of XboxVidra Emulator Modes
 
 | Feature | XboxVidra Emulator | XboxVidra Emulator (Based On Boxvidra)
 |---------------------|----------------|----------------|
@@ -232,7 +232,7 @@ There are two modes for XboxVidra, or rather two structure systems for it.
 
 #
 
-- **What is XboxVidra Emulator?**
+- **What is XboxVidra Emulator?** <a name=what-is-xboxvidra></a>
 
 **`XboxVidra is the first Xbox emulator to be released on Termux, and it has many advantages such as the Xbox-like user interface, sound effects, etc. You can play any game you want there without any problems with strong and stable performance for all devices, whether it is Snapdragon or Mali, In short.. if you want to have the real Xbox experience on your phone, you are in the right place.`**
 
