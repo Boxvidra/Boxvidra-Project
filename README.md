@@ -193,10 +193,12 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 #
 
-* ### BoxVidra Emulator Previews : <a name=boxvidra-previews></a>
+<a name=boxvidra-previews></a>
+* ### BoxVidra Emulator Previews :
 - **`Not Available`**
 
-* ### BoxVidra Emulator Experiments : <a name=boxvidra-experiments></a>
+<a name=boxvidra-experiments></a>
+* ### BoxVidra Emulator Experiments :
 - **`Not Available`**
 
 #
@@ -294,10 +296,12 @@ There are two modes for XboxVidra, or rather two structure systems for it.
 
 #
 
-* ### XboxVidra Emulator Previews : <a name=xboxvidra-previews></a>
+<a name=xboxvidra-previews></a>
+* ### XboxVidra Emulator Previews :
 - **`Not Available`**
 
-* ### XboxVidra Emulator Experiments : <a name=xboxvidra-experiments></a>
+<a name=xboxvidra-experiments></a>
+* ### XboxVidra Emulator Experiments :
 - **`Not Available`**
 
 #
