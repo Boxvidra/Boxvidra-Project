@@ -64,8 +64,9 @@ This project contains `Two` `Emulators` :
 | [BoxVidra Modes](#boxvidra-modes) | [XboxVidra Modes](#xboxvidra-modes) |
 | [BoxVidra Installation Command](#boxvidra-installation-command) | [XboxVidra Installation Command](#xboxvidra-installation-command) |
 | [BoxVidra Requirements](#boxvidra-requirements)| [XboxVidra Requirements](#xboxvidra-requirements) |
-| BoxVidra Recommended Settings | XboxVidra Recommended Settings |
-| BoxVidra Previews, Tests | XboxVidra Previews, Tests |
+| [BoxVidra Recommended Settings](#boxvidra-recommended-settings)| [XboxVidra Recommended Settings](#xboxvidra-recommended-settings) |
+| [BoxVidra Previews](#boxvidra-previews) | [XboxVidra Previews](#xboxvidra-previews) |
+| [BoxVidra Experiments](#boxvidra-experiments) | [XboxVidra Experiments](#xboxvidra-experiments) |
 
 ### **Basic Installation Requirements:**
 
@@ -161,7 +162,7 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 #
 
-* ### Recommend Settings For BoxVidra
+* ### Recommend Settings For BoxVidra : <a name=boxvidra-recommended-settings></a>
 
 | Drivers | Snapdragon | Mali |
 |-------------------------------|-------------------------------------|-----------------------------------|
@@ -192,10 +193,10 @@ There are three modes for Boxvidra, or rather three structure systems for it.
 
 #
 
-* ### BoxVidra Emulator Previews
+* ### BoxVidra Emulator Previews : <a name=boxvidra-previews></a>
 - **`Not Available`**
 
-* ### BoxVidra Emulator Experiments
+* ### BoxVidra Emulator Experiments : <a name=boxvidra-experiments></a>
 - **`Not Available`**
 
 #
@@ -271,7 +272,7 @@ There are two modes for XboxVidra, or rather two structure systems for it.
 
 #
 
-### Recommend Settings For XboxVidra Emulator :
+### Recommend Settings For XboxVidra Emulator : <a name=xboxvidra-recommended-settings></a>
 
 | Setting | Details |
 |------------------|--------------------------------------------|
@@ -293,10 +294,10 @@ There are two modes for XboxVidra, or rather two structure systems for it.
 
 #
 
-* ### XboxVidra Emulator Previews :
+* ### XboxVidra Emulator Previews : <a name=xboxvidra-previews></a>
 - **`Not Available`**
 
-* ### XboxVidra Emulator Experiments :
+* ### XboxVidra Emulator Experiments : <a name=xboxvidra-experiments></a>
 - **`Not Available`**
 
 #
