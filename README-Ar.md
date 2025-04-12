@@ -22,9 +22,9 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 &nbsp;&nbsp;| &nbsp;&nbsp;
 
 #
-* `حسابات وقنوات مشروع ڤيدرا على التواصل الإجتماعى`
+* `حِسابات وقنوات مشروع ڤيدرا علىّ التواصُل الإجتِماعى`
 
-[![تيليجرام](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
+[![تيليفرام](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
 [![ديسكورد](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/AhJHGbk4)
 [![يوتيوب](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)
 [![واتس آب](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
@@ -33,56 +33,56 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 [![چيميل](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vidraproject@gmail.com)
 [![إكس](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/vidraproject)
 
-* `لغات البرمجة وقواعد البيانات`
+* `لُغات البرمَجة وقواعِد البيانات`
 
 [![بايثون](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![باش](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![تيراداتا](https://img.shields.io/badge/Teradata-F37440?logo=teradata&logoColor=fff)](#)
 [![ماريا دي بي](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
 
-* `أنظمة التشغيل الذى نعمل عليها`
+* `أنظِمة التشغيل الذى نعمَل عليها`
 
 [![أندرويد](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 [![لينكس](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![ويندوز](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
-**مشروع ڤيدرا** تم الإنشاء بواسطة :
-* [`ميخائيل محمد (المالك)`](https://t.me/Mikhail_Mohammed)
-* [`جوتاروس ڤياشيسلاف (المدير)`](https://t.me/Jotaros_Vyacheslav)
-* [`مخيليم ڤانيت (المطور الرئيسي)`](https://t.me/Makhilim_Vanette)
-* [`آنسة إدرييل (المطور الثاني)`](https://t.me/l0101110110101010)
-* [`شيبارد أو إس (المطور الثالث)`](https://t.me/devloper8891)
-* [`سارڤانش (المخطط الثاني، المختبر الأساسي)`]()
+**مشروع ڤيدرا** تم الإنشاء بواسِطة :
+* [`ميخائيل مُحمَد (المالِك)`](https://t.me/Mikhail_Mohammed)
+* [`جوتاروس ڤياشيسلاف (المُدير)`](https://t.me/Jotaros_Vyacheslav)
+* [`مَخيليم ڤانيت (المُطوِر الرئيسي)`](https://t.me/Makhilim_Vanette)
+* [`آنِسة إدرييل (المُطوِر الثاني)`](https://t.me/l0101110110101010)
+* [`شيبارد أو إس (المُطوِر الثالِث)`](https://t.me/devloper8891)
+* [`سارڤانش (المُخطِط الثاني، المُختبِر الأساسي)`]()
 
- هاذا المشروع يحتوي علي `محاكيين إثنين` : 
-* [`محاكي بوكسڤيدرا - محاكي كمبيوتر`](#boxvidra-emulator)
-* [`محاكي إكس بوكس ڤيدرا - محاكي إكس بوكس`](#xboxvidra-emulator)
+ هاذا المشروع يحتوي علي `مُحاكيين إثنَين` : 
+* [`مُحاكي بوكسڤيدرا - مُحاكي كُمبيوتِر`](#boxvidra-emulator)
+* [`مُحاكي إكس بوكس ڤيدرا - مُحاكي إكس بوكس`](#xboxvidra-emulator)
 
-### **الفهرس :**
+### **الفِهرِس :**
 | [بوكسڤيدرا](#boxvidra-emulator) | [إكس بوكس ڤيدرا](#xboxvidra-emulator) |
 |---------------------|---------------------|
-| [حسابات التواصل الإجتماعي الخاصة ببوكسڤيدرا](#boxvidra-social) | [حسابات التواصل الإجتماعي الخاصة بإكس بوكس ڤيدرا](#xboxvidra-social) |
-| [ماهو بوكسڤيدرا؟](#what-is-boxvidra) | [ماهو إكس بوكس ڤيدرا](#what-is-xboxvidra) |
+| [حِسابات التواصُل الإجتماعي الخاصَة ببوكسڤيدرا](#boxvidra-social) | [حِسابات التواصُل الإجتماعي الخاصَة بإكس بوكس ڤيدرا](#xboxvidra-social) |
+| [ماهوَ بوكسڤيدرا؟](#what-is-boxvidra) | [ماهوَ إكس بوكس ڤيدرا](#what-is-xboxvidra) |
 | [أوضاع بوكسڤيدرا](#boxvidra-modes) | [أوضاع إكس بوكس ڤيدرا](#xboxvidra-modes) |
-| [أمر تثبيت بوكسڤيدرا](#boxvidra-installation-command) | [أمر تثبيت إكس بوكس ڤيدرا](#xboxvidra-installation-command) |
-| [متطلبات تشغيل بوكسڤيدرا](#boxvidra-requirements)| [متطلبات تشغيل إكس بوكس ڤيدرا](#xboxvidra-requirements) |
-| [الإعدادات المقترحه لبوكسڤيدرا](#boxvidra-recommended-settings)| [الإعدادات المقترحه لإكس بوكس ڤيدرا](#xboxvidra-recommended-settings) |
-| [مراجعات بوكسڤيدرا](#boxvidra-previews) | [مراجعات إكس بوكس ڤيدرا](#xboxvidra-previews) |
-| [تجارب بوكسڤيدرا](#boxvidra-experiments) | [تجارب إكس بوكس ڤيدرا](#xboxvidra-experiments) |
+| [أمر تَثبيت بوكسڤيدرا](#boxvidra-installation-command) | [أمر تَثبيت إكس بوكس ڤيدرا](#xboxvidra-installation-command) |
+| [مُتطلِبات تشغيل بوكسڤيدرا](#boxvidra-requirements)| [مُتطلِبات تشغيل إكس بوكس ڤيدرا](#xboxvidra-requirements) |
+| [الإعدادات المُقترحَه لبوكسڤيدرا](#boxvidra-recommended-settings)| [الإعدادات المُقترحَه لإكس بوكس ڤيدرا](#xboxvidra-recommended-settings) |
+| [مُراجعات بوكسڤيدرا](#boxvidra-previews) | [مُراجعات إكس بوكس ڤيدرا](#xboxvidra-previews) |
+| [تجارُب بوكسڤيدرا](#boxvidra-experiments) | [تجارُب إكس بوكس ڤيدرا](#xboxvidra-experiments) |
 
-### **متطلبات التثبيت الأساسية :**
+### **مُتطلِبات التثبيت الأساسية :**
 
-لتثبيت كل من **محاكي بوكسڤيدرا** أو **محاكي إكس بوكس ڤيدرا**, قم بتثبيت البرامج الآتية :
+لتثبيت كُل مِن **مُحاكي بوكسڤيدرا** أو **مُحاكي إكس بوكس ڤيدرا**, قُم بتثبيت البرامِج الآتية :
 
-- **تيرمكس** : محاكي طرفي لنظام أندرويد يسمح لك بتشغيل أوامر لينكس على جهازك.
-  [![تحميل تيرمكس](https://img.shields.io/badge/Download-Termux-brightgreen?style=for-the-badge&logo=android)](https://github.com/termux/termux-app/releases/download/v0.118.2/termux-app_v0.118.2+github-debug_arm64-v8a.apk) - اضغط هنا للتحميل
+- **تيرمِكس** : مُحاكي طرفي لنِظام أندرويد يسمَح لك بتشغيل أوامِر لينِكس علىّ جهازك.
+  [![تحميل تيرمِكس](https://img.shields.io/badge/Download-Termux-brightgreen?style=for-the-badge&logo=android)](https://github.com/termux/termux-app/releases/download/v0.118.2/termux-app_v0.118.2+github-debug_arm64-v8a.apk) - اضغط هُنا للتحميل
 
-- **تيرمكس إكس-١١ (سيرڤر إكس)** : مطلوب لتشغيل التطبيقات الرسومية داخل تيرمكس، وتوفير واجهة مستخدم رسومية. 
-  [![تحميل تيرمكس إكس-١١](https://img.shields.io/badge/Download-Termux--X11-blue?style=for-the-badge&logo=linux)](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk) - اضغط هنا للتحميل
+- **تيرمِكس إكس-١١ (سيرڤر إكس)** : مطلوب لتشغيل التطبيقات الرُسومية داخِل تيرمِكس، وتوفير واجِهَة مُستَخدِم رُسوميَة. 
+  [![تحميل تيرمِكس إكس-١١](https://img.shields.io/badge/Download-Termux--X11-blue?style=for-the-badge&logo=linux)](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk) - اضغط هُنا للتحميل
   
 
-- **جسر الإدخال إصدار ٠.١.٩.٩ (لوحة التحكم/العرض العلوية)** : يتيح لك هذا التطبيق إنشاء شاشة تعمل باللمس أو شاشة عرض أمامية (هود) يمكن أن تعمل كجهاز تحكم قابل للتخصيص.
-  [![تحميل جسر الإدخال](https://img.shields.io/badge/Download-Input%20Bridge-ff69b4?style=for-the-badge&logo=controller)](https://github.com/ahmad1abbadi/extra/releases/download/apps/InputBridge_v0.1.9.9.apk) - اضغط هنا للتحميل
+- **جِسر الإدخال إصدار ٠.١.٩.٩ (لوحة التحكُم/العرض العُلوية)** : يُتيح لك هذا التطبيق إنشاء شاشة تعمَل باللمس أو شاشة عرض أماميَة (هود) يُمكِن أن تعمَل كجِهاز تحكُم قابِل لِلتخصيص.
+  [![تحميل جسر الإدخال](https://img.shields.io/badge/Download-Input%20Bridge-ff69b4?style=for-the-badge&logo=controller)](https://github.com/ahmad1abbadi/extra/releases/download/apps/InputBridge_v0.1.9.9.apk) - اضغط هُنا للتحميل
 
 #
 
