@@ -54,7 +54,7 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 * [`شيبارد أو إس (المطور الثالث)`](https://t.me/devloper8891)
 * [`سارڤانش (المخطط الثاني، المختبر الأساسي)`]()
 
- هاذا المشروع يحتوي علي`محاكيين إثنين` : 
+ هاذا المشروع يحتوي علي `محاكيين إثنين` : 
 * [`محاكي بوكسڤيدرا - محاكي كمبيوتر`](#boxvidra-emulator)
 * [`محاكي إكس بوكس ڤيدرا - محاكي إكس بوكس`](#xboxvidra-emulator)
 
