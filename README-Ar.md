@@ -86,6 +86,22 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 
 #
 
+<a name=boxvidra-emulator></a>
+### `محاكي بوكسڤيدرا (غير متاح)`
+
+<p align="center">
+  <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Desktops%20Structures%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Desktops%20Structures%20Mode%2C%20Logo).png" width="150">
+</p>
+
+<a name=boxvidra-social></a>
+* حسابات بوكسڤيدرا علي مواقع التواصل الإجتماعي :
+  * [![تيليجرام](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
+  * [![يوتيوب](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
+  * [![چيميل](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
+
+#
+
+
 <a name="boxvidra-modes"></a>
 * ### أوضاع محاكي بوكسفيدرا
 هناك ثلاث أوضاع لبوكسفيدرا، أو بالأحرى ثلاث أنظمة بنيوية له.
