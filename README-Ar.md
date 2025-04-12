@@ -87,14 +87,14 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 #
 
 <a name=boxvidra-emulator></a>
-### `محاكي بوكسڤيدرا (غير متاح)`
+### `مُحاكي بوكسڤيدرا (غير مُتاح)`
 
 <p align="center">
   <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Desktops%20Structures%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Desktops%20Structures%20Mode%2C%20Logo).png" width="150">
 </p>
 
 <a name=boxvidra-social></a>
-* حسابات بوكسڤيدرا علي مواقع التواصل الإجتماعي :
+* حِسابات بوكسڤيدرا علىّ مواقِع التواصُل الإجتِماعي :
   * [![تيليجرام](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
   * [![يوتيوب](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
   * [![چيميل](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
@@ -103,14 +103,14 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 
 
 <a name="boxvidra-modes"></a>
-* ### أوضاع محاكي بوكسفيدرا
-هناك ثلاث أوضاع لبوكسفيدرا، أو بالأحرى ثلاث أنظمة بنيوية له.
+* ### أوضاع مُحاكي بوكسفيدرا
+هُناك ثلاث أوضاع لبوكسفيدرا، أو بالأحرىّ ثلاث أنظِمة بنيوية له.
 
-| [محاكي بوكسڤيدرا (وضع سطح المكتب)](#desktop-mode)  | [محاكي بوكسڤيدرا (وضع التطبيق)](#application-mode) | [محاكي بوكسڤيدرا (الوضع الخفيف)](#tiny-mode) |
+| [مُحاكي بوكسڤيدرا (وَضع سطح المَكتب)](#desktop-mode)  | [مُحاكي بوكسڤيدرا (وضع التطبيق)](#application-mode) | [مُحاكي بوكسڤيدرا (الوضع الخفيف)](#tiny-mode) |
 |---------------------------------------------|---------------------------------------------|---------------------------------------------|
 | <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Desktops%20Structures%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Desktops%20Structures%20Mode%2C%20Logo).png"/> | <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Application%20Structure%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Application%20Structure%20Mode%2C%20Logo).png"/> | <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/BoxVidra%20Emulator%20Images%20-%20(Logo)/BoxVidra%20Emulator%20Images%20-%20(Tiny%20Structure%2C%20Logo)/BoxVidra%20Emulator%20Logo%20-%20(Tiny%20Structure%20Mode%2C%20Logo).png"/>
 
-* ### مقارنة أوضاع محاكي بوكسڤيدرا
+* ### مُقارَنة أوضاع مُحاكي بوكسڤيدرا
 
 | الميزة                | وضع سطح المكتب | وضع التطبيق | الوضع الخفيف  |
 |-----------------------|----------------|-------------|---------------|
@@ -118,15 +118,15 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 | خدمات النبيذ            | نعم            | نعم         | لا            |
 | الخدمات الأساسية          | نعم            | لا          | نعم           |
 | جميع الخدمات         | نعم            | لا          | لا            |
-| الاستقرار            | مستقر         | مستقر      | أكثر استقراراً|
+| الاستِقرار            | مُستقِر         | مستقر      | أكثر استِقراراً|
 | الأداء               | 9/10           | 10/10       | 10/10        |
-| استهلاك البطارية     | 40 %           | 30 %        | 10 %         |
-| استخدام الرام        | 30 %           | 30 %        | 20 %         |
+| استِهلاك البطارية     | 40 %           | 30 %        | 10 %         |
+| استِخدام الرام        | 30 %           | 30 %        | 20 %         |
 
 <a name="what-is-boxvidra"></a>
-- **ما هو محاكي بوكسڤيدرا؟**
+- **ما هوَ مُحاكي بوكسڤيدرا؟**
 
-**`بوكسڤيدرا هو محاكي حاسوب حديث، فريد من نوعه، بمفهوم جديد كلياً، يلبي احتياجاتك تماماً، كأنك تتعامل مع حاسوب حقيقي على هاتفك. يمكنك لعب الألعاب، والعمل، وتنسيق المهام، وخوض التجربة، والاستمتاع بتجربة نظام ويندوز أو ماك على هاتفك، كما يُعتبر قفزة كبيرة في تطوير إكس إف سي إي، حيث يحتوي على تطورات جديدة وفريدة تُعطي تجربة أنظمة تشغيل أخرى بشكل مماثل. إذا كنت ترغب في الحصول على تجربة الحاسوب الكاملة على هاتفك، فأنت في المكان المناسب.`**
+**`بوكسڤيدرا هو مُحاكي حاسوب حديث، فريد من نوعه، بمفهوم جديد كُلياً، يُلبي احتياجاتك تماماً، كأنك تتعامَل مع حاسوب حقيقي علىّ هاتِفك. يُمكنك لعب الألعاب، العمَل، تنسيق المهام، وخوض التجرُبة، والاستِمتاع بتجرُبة كامِلَة لنظام ويندوز أو ماك علىّ هاتفك، كما يُعتبَر قفزة كَبيرة في تطوير إكس إف سي إي، حيث يحتوي علىّ تطوُرات جديدة وفريدة تُعطي تجربة أنظمة التشغيل الأُخرى بشكلٍ مُماثِل. إذا كُنت ترغب في الحصول علىّ تجرُبة الحاسوب الكَامِلة علىّ هاتفك، فأنت في المكان المُناسِب.`**
 
 - **ما الفرق بين كل وضع؟**
 
