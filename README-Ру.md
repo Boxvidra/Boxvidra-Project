@@ -93,9 +93,9 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 
 <a name=boxvidra-social></a>
 * Социальные аккаунты эмулятора Боксвидра:
-  * [![телеграм](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
-  * [![Ютуб](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
-  * [![Гмайл](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
+  * [![телеграм](https://img.shields.io/badge/телеграм-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
+  * [![Ютуб](https://img.shields.io/badge/Ютуб-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
+  * [![Гмайл](https://img.shields.io/badge/Гмайл-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
 
 #
 
@@ -222,9 +222,9 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 
 <a name=xboxvidra-social></a>
 * Социальные аккаунты эмулятора Иксбоксвидра:
-  * [![телеграм](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
-  * [![Ютуб](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
-  * [![Гмайл](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
+  * [![телеграм](https://img.shields.io/badge/телеграм-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
+  * [![Ютуб](https://img.shields.io/badge/Ютуб-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
+  * [![Гмайл](https://img.shields.io/badge/Гмайл-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
 
 #
 
@@ -299,7 +299,7 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 
 #
 
-* ### Рекомендуемая конфигурация для Termux-x11:
+* ### Рекомендуемая конфигурация для Термук x-11 :
 
 | Настройка                                          | Детали                                                                     |
 |----------------------------------------------------|----------------------------------------------------------------------------|
@@ -314,11 +314,11 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 #
 
 <a name=xboxvidra-previews></a>
-* ### Превью эмулятора Иксбоксвидра:
+* ### Превью эмулятора Иксбоксвидра :
 - **`Не Доступно`**
 
 <a name=xboxvidra-experiments></a>
-* ### Эксперименты эмулятора Иксбоксвидра:
+* ### Эксперименты эмулятора Иксбоксвидра :
 - **`Не Доступно`**
 
 #
