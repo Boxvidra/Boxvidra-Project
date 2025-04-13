@@ -121,7 +121,7 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 | الاستِقرار            | مُستقِر         | مستقر      | أكثر استِقراراً|
 | الأداء               | 9/10           | 10/10       | 10/10        |
 | استِهلاك البطارية     | 40 %           | 30 %        | 10 %         |
-| استِخدام الرام        | 30 %           | 30 %        | 20 %         |
+| استِهلاك الذاكِرة        | 30 %           | 30 %        | 20 %         |
 
 <a name="what-is-boxvidra"></a>
 - **ما هوَ مُحاكي بوكسڤيدرا؟**
@@ -228,17 +228,17 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 |---------------------------------------------|---------------------------------------------|
 | <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/XboxVidra%20Emulator%20Images%20-%20(Logo)/XboxVidra%20Emulator%20Images%20-%20(Emulator's%20Structure%2C%20Logo)/XboxVidra%20Emulator%20Logo%20-%20(Emulator's%20Structure%2C%20Logo).png"/> | <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/XboxVidra%20Emulator%20Images%20-%20(Logo)/XboxVidra%20Emulator%20Images%20-%20(Based%20On%20BoxVidra%20Emulator%2C%20Logo)/XboxVidra%20Emulator%20Logo%20-%20(Based%20On%20BoxVidra%20Emulator%2C%20Logo).png"/>
 
-* ### مقارنة أوضاع محاكي إكس بوكس ڤيدرا
+* ### مُقارنة أوضاع مُحاكي إكس بوكس ڤيدرا
 
-| الميزة               | محاكي إكس بوكس ڤيدرا      | برنامج إكس بوكس ڤيدرا (المعتمد على محاكي بوكسڤيدرا) |
+| الميزة               | مُحاكي إكس بوكس ڤيدرا      | برنامج إكس بوكس ڤيدرا (المعتمِد علىّ مُحاكي بوكسڤيدرا) |
 |----------------------|----------------------|-----------------------------------------------|
 | صلاحيات الروت       | لا                    | لا                                             |
 | وضع التطبيق         | لا                    | نعم                                            |
-| هيكل المحاكي        | نعم                   | لا                                             |
-| الاستقرار           | أكثر استقراراً        | مستقر                                          |
+| هيكل المُحاكي        | نعم                   | لا                                             |
+| الاستِقرار           | أكثر استِقراراً        | مُستِقر                                          |
 | الأداء              | ١٠/١٠                 | ٩/١٠                                           |
 | استهلاك البطارية    | ٣٠ ٪                   | ٢٠ ٪                                            |
-| استهلاك الذاكرة     | ٣٠ ٪                   | ١٠ ٪                                            |
+| استِهلاك الذاكِرة     | ٣٠ ٪                   | ١٠ ٪                                            |
 
 #
 
