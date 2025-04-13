@@ -2,12 +2,12 @@
   <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos,%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/Vidra%20Project%20Images%20-%20(Logo)/Vidra%20Project%20Logo%20-%20(Logo).png" width="150">
 </p>
 
-אנגלית
+עברית
 &nbsp;&nbsp;| &nbsp;&nbsp;
 <a href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">العربية</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
 <a
-href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">עברית</a>
+href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">English</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
 <a href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.md">Русский</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
