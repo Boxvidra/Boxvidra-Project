@@ -28,10 +28,10 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 [![דיסקורד](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/AhJHGbk4)
 [![יוטיוב](https://img.shields.io/badge/יוטיוב-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)
 [![וואטסאפ](https://img.shields.io/badge/וואטסאפ-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
-[![אינסטגרם](https://img.shields.io/badge/אינסטגרם-%23E4405F.svg-logo=Instagram&logoColor=white)](https://www.instagram.com/vidraproject)
+[![אינסטגרם](https://img.shields.io/badge/אינסטגרם-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vidraproject)
 [![פייסבוק](https://img.shields.io/badge/פייסבוק-%231877F2.svg?logo=Facebook&logoColor=white)](#)
-[![אימייל](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vidraproject@gmail.com)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/vidraproject)
+[![אימייל](https://img.shields.io/badge/אימייל-D14836?logo=gmail&logoColor=white)](mailto:vidraproject@gmail.com)
+[![איקס](https://img.shields.io/badge/איקס-%23000000.svg?logo=X&logoColor=white)](https://x.com/vidraproject)
 
 * `שפות תכנות ומסדי נתונים`
 
