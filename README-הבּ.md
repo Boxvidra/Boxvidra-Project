@@ -139,7 +139,6 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 - **איך מתקינים את בוקסוידרה?**
 
 **`רק פקודה אחת, תדביק אותה בתוך טרמוקס (**Termux**), וכל תהליך ההתקנה יתחיל באופן אוטומטי, בלי צורך בהתערבות משתמש. ההתקנה לוקחת בין 10 ל־30 דקות, תלוי במהירות האינטרנט.`**
-```
 <a name=boxvidra-installation-command></a>
 - `פקודת התקנה של בוקסוידרה אמולטור` :
 ```bash
