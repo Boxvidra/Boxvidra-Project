@@ -206,14 +206,14 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 #
 
 <a name="xboxvidra-emulator"></a>
-### `محاكي إكس بوكس ڤيدرا (غير متاح)`
+### `مُحاكي إكس بوكس ڤيدرا (غير مُتاح)`
 
 <p align="center">
   <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/XboxVidra%20Emulator%20Images%20-%20(Logo)/XboxVidra%20Emulator%20Images%20-%20(Emulator's%20Structure%2C%20Logo)/XboxVidra%20Emulator%20Logo%20-%20(Emulator's%20Structure%2C%20Logo).png" width="185">
 </p>
 
 <a name="xboxvidra-social"></a>
-* حسابات محاكي إكس بوكس ڤيدرا على وسائل التواصل الاجتماعي :
+* حِسابات مُحاكي إكس بوكس ڤيدرا علىّ وسائِل التواصُل الإجتِماعي :
   * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
   * [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
   * [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
@@ -221,10 +221,10 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 #
 
 <a name="xboxvidra-modes"></a>
-* ### أوضاع محاكي إكس بوكس ڤيدرا
-هناك وضعان لمحاكي إكس بوكس ڤيدرا، أو بالأحرى نظامان هيكليان له.
+* ### أوضاع مُحاكي إكس بوكس ڤيدرا
+هُناك وضعان لمُحاكي إكس بوكس ڤيدرا، أو بالأحرى نِظامان هيكليان له.
 
-| [محاكي إكس بوكس ڤيدرا](#xboxvidra-full-emulator) | [برنامج إكس بوكس ڤيدرا المعتمد على محاكي بوكسڤيدرا](#xboxvidra-basedon-mode)
+| [مُحاكي إكس بوكس ڤيدرا](#xboxvidra-full-emulator) | [برنامج إكس بوكس ڤيدرا المعتمِد علىّ مُحاكي بوكسڤيدرا](#xboxvidra-basedon-mode)
 |---------------------------------------------|---------------------------------------------|
 | <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/XboxVidra%20Emulator%20Images%20-%20(Logo)/XboxVidra%20Emulator%20Images%20-%20(Emulator's%20Structure%2C%20Logo)/XboxVidra%20Emulator%20Logo%20-%20(Emulator's%20Structure%2C%20Logo).png"/> | <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos%2C%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/XboxVidra%20Emulator%20Images%20-%20(Logo)/XboxVidra%20Emulator%20Images%20-%20(Based%20On%20BoxVidra%20Emulator%2C%20Logo)/XboxVidra%20Emulator%20Logo%20-%20(Based%20On%20BoxVidra%20Emulator%2C%20Logo).png"/>
 
