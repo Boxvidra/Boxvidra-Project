@@ -35,16 +35,16 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 
 * `שפות תכנות ומסדי נתונים`
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![Teradata](https://img.shields.io/badge/Teradata-F37440?logo=teradata&logoColor=fff)](#)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
+[![פייתון](https://img.shields.io/badge/פייתון-3776AB?logo=python&logoColor=fff)](#)
+[![בַּאש](https://img.shields.io/badge/בַּאש-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![טרה דאטה](https://img.shields.io/badge/טרה דאטה-F37440?logo=teradata&logoColor=fff)](#)
+[![מריה די בי](https://img.shields.io/badge/מריה די בי-003545?logo=mariadb&logoColor=white)](#)
 
 * `מערכות הפעלה בהן אנו עובדים`
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![אנדרואיד](https://img.shields.io/badge/אנדרואיד-3DDC84?logo=android&logoColor=white)](#)
+[![לינוקס](https://img.shields.io/badge/לינוקס-FCC624?logo=linux&logoColor=black)](#)
+[![ווינדואס](https://custom-icon-badges.demolab.com/badge/ווינדואס-0078D6?logo=windows11&logoColor=white)](#)
 
 **פרויקט ווידרא** נוצר על ידי:
 * [`מיכאיל מוחמד (הבעלים)`](https://t.me/Mikhail_Mohammed)
