@@ -35,10 +35,10 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 
 * `שפות תכנות ומסדי נתונים`
 
-[![פייתון](https://img.shields.io/badge/פייתון-3776AB?logo=python&logoColor=fff)](#)
+[![פייתון](https://img.shields.io/badge/פייתון-3776A?logo=python&logoColor=fff)](#)
 [![בַּאש](https://img.shields.io/badge/בַּאש-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![טרה דאטה](https://img.shields.io/badge/טרה דאטה-F37440?logo=teradata&logoColor=fff)](#)
-[![מריה די בי](https://img.shields.io/badge/מריה די בי-003545?logo=mariadb&logoColor=white)](#)
+[![טרה דאטה](https://img.shields.io/badge/טרה-דאטה-F37440?logo=teradata&logoColor=fff)](#)
+[![מריה די בי](https://img.shields.io/badge/מריה-די-בי-003545?logo=mariadb&logoColor=white)](#)
 
 * `מערכות הפעלה בהן אנו עובדים`
 
