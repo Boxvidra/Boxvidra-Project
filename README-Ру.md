@@ -42,16 +42,15 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
   
 * `Операционные системы, на которых мы работаем`  
   
-[![Андроид](https://img.shields.io/badge/Андроид-3DDC84?logo=android&logoColor=white)](#)  
-[![Линукс](https://img.shields.io/badge/Линукс-FCC624?logo=linux&logoColor=black)](#)  
-[![Виндоус](https://custom-icon-badges.demolab.com/badge/Виндоус-0078D6?logo=windows11&logoColor=white)](#)
+[![Андроид](https://img.shields.io/badge/Андроид-3DDC84?logo=android&logoColor=white)](#)
+[![Линукс](https://img.shields.io/badge/Линукс-FCC624?logo=linux&logoColor=black)](#) [![Виндоус](https://custom-icon-badges.demolab.com/badge/Виндоус-0078D6?logo=windows11&logoColor=white)](#)
   
 **Проект Видра** Создан : 
-* [`Михаил Мохаммед (Владелец)`](https://t.me/Mikhail_Mohammed)  
-* [`Йотарос Вячеслав (Менеджер)`](https://t.me/Jotaros_Vyacheslav)  
-* [`Махилим Ванетт (Главный разработчик)`](https://t.me/Makhilim_Vanette)  
-* [`Мс.Эдрилл (Второй разработчик)`](https://t.me/l0101110110101010)  
-* [`ШепардОС (Третий разработчик)`](https://t.me/devloper8891)  
+* [`Михаил Мохаммед (Владелец)`](https://t.me/Mikhail_Mohammed)
+* [`Йотарос Вячеслав (Менеджер)`](https://t.me/Jotaros_Vyacheslav)
+* [`Махилим Ванетт (Главный разработчик)`](https://t.me/Makhilim_Vanette)
+* [`Мс.Эдрилл (Второй разработчик)`](https://t.me/l0101110110101010)
+* [`ШепардОС (Третий разработчик)`](https://t.me/devloper8891)
 * [`Сарванш (Заместитель планировщика и главный тестировщик)`]()
   
 Этот проект содержит `Два` `Эмулятора` :   
@@ -190,7 +189,7 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 | **Wine - Box86-64**                | `8.25` GE                                                          |
 | **Структура пользовательского интерфейса** | Системная структура Windows 10 (`Светлая`, `Тёмная`) <br> Система приложения Боксвидра (`Светло-фиолетовая`, `Тёмно-синяя`) |
 
-* ### Рекомендуемая конфигурация для Termux-x11 :
+* ### Рекомендуемая конфигурация для Термук x-11 :
 
 | Настройка                                          | Детали                                                 |
 |----------------------------------------------------|--------------------------------------------------------|
