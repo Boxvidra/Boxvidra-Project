@@ -314,14 +314,14 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 
 #
 
-## شكر خاص لصناع المحتوي الداعمين للمشروع :
+## شُكر خاص لصُناع المُحتوي الداعِمين للمشروع :
 * `أبتريكس`
 * `دامون كينج`
 * `الرجل الماكر`
 
 #
 
-## شكر خاص لمستخدمينا والمستخدمين الداعمين :
+## شُكر خاص لمُستخدِمينا والمُستخدِمين الداعِمين :
 * `أبيشيك ناندان`
 * `بيدرو بيتروفا`
 * `سيف`
@@ -330,7 +330,7 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 * `ليوكساليل`
 * `موندو آي. جيريمي`
 
-## تطبيقات الطرف الثالث
+## تطبيقات الطرف الثالِث
 
 [بوكس٦٤](https://github.com/ptitSeb/box64)
 
@@ -338,16 +338,16 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 
 [دي إكس ڤي كيه](https://github.com/doitsujin/dxvk)
 
-[دي إكس ڤي كيه-غير متزامن](https://github.com/Sporif/dxvk-async)
+[دي إكس ڤي كيه-غير مُتزامِن](https://github.com/Sporif/dxvk-async)
 
-[دي إكس ڤي كيه-چي بي إل غير متزامن](https://gitlab.com/Ph42oN/dxvk-gplasync)
+[دي إكس ڤي كيه-چي بي إل غير مُتزامِن](https://gitlab.com/Ph42oN/dxvk-gplasync)
 
-[تيرمكس](https://github.com/termux/termux-app)
+[تيرمِكس](https://github.com/termux/termux-app)
 
-[تيرمكس إكس-١١](https://github.com/termux/termux-x11)
+[تيرمِكس إكس-١١](https://github.com/termux/termux-x11)
 
 [النبيذ](https://wiki.winehq.org/Licensing)
 
 [ميسا](https://docs.mesa3d.org/license.html)
 
-[ميسا-ڤيرچل](https://github.com/alexvorxx/Mesa-VirGL)
+[ميسا-ڤيرچِل](https://github.com/alexvorxx/Mesa-VirGL)
