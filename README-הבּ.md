@@ -24,7 +24,7 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 #
 * `חשבונות ורשתות חברתיות של פרויקט ווידרא`
 
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
+[![טלגרם](https://img.shields.io/badge/טלגרם-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
 [![discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/AhJHGbk4)
 [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
@@ -94,7 +94,7 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 
 <a name=boxvidra-social></a>
 * חשבונות רשת חברתית של בוקסוידרה אמולטור :
-  * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
+  * [![טלגרם](https://img.shields.io/badge/טלגרם-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
   * [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
   * [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
 
@@ -218,7 +218,7 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 
 <a name=xboxvidra-social></a>
 * חשבונות רשת חברתית של אמולטור אקסבוקסווידרה :  
-  * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
+  * [![טלגרם](https://img.shields.io/badge/טלגרם-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
   * [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
   * [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
 
