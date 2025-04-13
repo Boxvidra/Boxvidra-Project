@@ -305,12 +305,12 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 #
 
 <a name="xboxvidra-previews"></a>
-* ### معاينات محاكي إكس بوكس ڤيدرا :
-- **`غير متوفرة`**
+* ### مُراجعات مُحاكي إكس بوكس ڤيدرا :
+- **`غير مُتوفِرة`**
 
 <a name="xboxvidra-experiments"></a>
-* ### تجارب محاكي إكس بوكس ڤيدرا :
-- **`غير متوفرة`**
+* ### تجارُب مُحاكي إكس بوكس ڤيدرا :
+- **`غير مُتوفِرة`**
 
 #
 
