@@ -75,13 +75,13 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 כדי להתקין את **אמולטור בוקסווידרא** או **אמולטור אקסבוקסווידרא**, אנא התקן את היישומים הבאים:
 
 - **טרמוקס** : מסוף לאנדרואיד שמאפשר לך להריץ פקודות לינוקס במכשיר שלך.  
-  [![Download Termux](https://img.shields.io/badge/Download-Termux-brightgreen?style=for-the-badge&logo=android)](https://github.com/termux/termux-app/releases/download/v0.118.2/termux-app_v0.118.2+github-debug_arm64-v8a.apk) - לחץ להורדה
+  [![הורדת טרמקס](https://img.shields.io/badge/הורדת-טרמקס-brightgreen?style=for-the-badge&logo=android)](https://github.com/termux/termux-app/releases/download/v0.118.2/termux-app_v0.118.2+github-debug_arm64-v8a.apk) - לחץ להורדה
 
 - **טרמוקס-אקס11 (Xserver)** : נדרש להפעלת יישומים גרפיים בתוך טרמוקס, ומספק ממשק משתמש גרפי.  
-  [![Download Termux-X11](https://img.shields.io/badge/Download-Termux--X11-blue?style=for-the-badge&logo=linux)](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk) - לחץ להורדה
+  [![הורדת טרמקס X11](https://img.shields.io/badge/הורדת'טרמקס-X11-blue?style=for-the-badge&logo=linux)](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk) - לחץ להורדה
 
 - **אינפוט ברידג׳ v0.1.9.9 (תצוגת HUD/בקר)** : היישום הזה מאפשר ליצור תצוגת-על למסך מגע (HUD) שיכולה לשמש כבקר מותאם אישית.  
-  [![Download Input Bridge](https://img.shields.io/badge/Download-Input%20Bridge-ff69b4?style=for-the-badge&logo=controller)](https://github.com/ahmad1abbadi/extra/releases/download/apps/InputBridge_v0.1.9.9.apk) - לחץ להורדה
+  [![הורדת גשר הקלט](https://img.shields.io/badge/הורדת'גשר-הקלט-ff69b4?style=for-the-badge&logo=controller)](https://github.com/ahmad1abbadi/extra/releases/download/apps/InputBridge_v0.1.9.9.apk) - לחץ להורדה
 
 #
 
