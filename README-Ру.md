@@ -2,45 +2,49 @@
   <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos,%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/Vidra%20Project%20Images%20-%20(Logo)/Vidra%20Project%20Logo%20-%20(Logo).png" width="150">  
 </p>  
   
-Русский
-&nbsp;&nbsp;| &nbsp;&nbsp;  
-<a href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">العربية</a>  
-&nbsp;&nbsp;| &nbsp;&nbsp;  
-<a href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">עִברִית</a>  
-&nbsp;&nbsp;| &nbsp;&nbsp;  
-<a href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.md">English</a>  
-&nbsp;&nbsp;| &nbsp;&nbsp;  
-<a href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">भारतीय </a>  
-&nbsp;&nbsp;| &nbsp;&nbsp;  
-<a href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-cn.md">中国人 </a>  
-&nbsp;&nbsp;| &nbsp;&nbsp;  
-<a href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">Filipino</a>  
-&nbsp;&nbsp;| &nbsp;&nbsp;  
+العربية
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">English</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a
+href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">עִברִית</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.md">Русский</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a
+href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">भारतीय </a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a
+href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-cn.md">中国人 </a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a
+href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">Filipino</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
   
 #  
 * `Социальные аккаунты и каналы проекта Видра`  
   
-[![телеграм](https://img.shields.io/badge/Телеграм-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)  
-[![дискорд](https://img.shields.io/badge/Дискорд-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/AhJHGbk4)  
-[![Ютуб](https://img.shields.io/badge/Ютуб-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)  
-[![Инстаграм](https://img.shields.io/badge/Инстаграм-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vidraproject)  
-[![Фейсбук](https://img.shields.io/badge/Фейсбук-%231877F2.svg?logo=Facebook&logoColor=white)](#)  
-[![Гмайл](https://img.shields.io/badge/Гмайл-D14836?logo=gmail&logoColor=white)](mailto:vidraproject@gmail.com)  
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/vidraproject)  
+[![телеграм](https://img.shields.io/badge/Телеграм-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
+[![дискорд](https://img.shields.io/badge/Дискорд-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/AhJHGbk4)
+[![Ютуб](https://img.shields.io/badge/Ютуб-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
+[![Инстаграм](https://img.shields.io/badge/Инстаграм-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vidraproject)
+[![Фейсбук](https://img.shields.io/badge/Фейсбук-%231877F2.svg?logo=Facebook&logoColor=white)](#)
+[![Гмайл](https://img.shields.io/badge/Гмайл-D14836?logo=gmail&logoColor=white)](mailto:vidraproject@gmail.com)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/vidraproject)
   
 * `Языки программирования и базы данных`  
   
-[![Питон](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)  
-[![Бэш](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)  
-[![Терадата](https://img.shields.io/badge/Teradata-F37440?logo=teradata&logoColor=fff)](#)  
-[![МарияДБ](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)  
+[![Питон](https://img.shields.io/badge/Питон-3776AB?logo=python&logoColor=fff)](#)  
+[![Бэш](https://img.shields.io/badge/Бэш-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![Терадата](https://img.shields.io/badge/Терадата-F37440?logo=teradata&logoColor=fff)](#)
+[![МарияДБ](https://img.shields.io/badge/МарияДБ-003545?logo=mariadb&logoColor=white)](#)  
   
 * `Операционные системы, на которых мы работаем`  
   
-[![Андроид](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)  
-[![Линукс](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)  
-[![Виндоус](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Андроид](https://img.shields.io/badge/Андроид-3DDC84?logo=android&logoColor=white)](#)  
+[![Линукс](https://img.shields.io/badge/Линукс-FCC624?logo=linux&logoColor=black)](#)  
+[![Виндоус](https://custom-icon-badges.demolab.com/badge/Виндоус-0078D6?logo=windows11&logoColor=white)](#)
   
 **Проект Видра** Создан : 
 * [`Михаил Мохаммед (Владелец)`](https://t.me/Mikhail_Mohammed)  
@@ -71,13 +75,13 @@
 Чтобы установить либо **Боксвидра Эмулятор** либо **Иксбоксвидра Эмулятор**, установите следующие приложения :  
   
 - **Термукс** : эмулятор терминала для Android, который позволяет запускать команды Linux на вашем устройстве.    
-  [![Скачать Термукс](https://img.shields.io/badge/Download-Termux-brightgreen?style=for-the-badge&logo=android)](https://github.com/termux/termux-app/releases/download/v0.118.2/termux-app_v0.118.2+github-debug_arm64-v8a.apk) - click to download  
+  [![Скачать Термукс](https://img.shields.io/badge/Скачать-Термукс-brightgreen?style=for-the-badge&logo=android)](https://github.com/termux/termux-app/releases/download/v0.118.2/termux-app_v0.118.2+github-debug_arm64-v8a.apk) - Нажмите здесь чтобы загрузить
   
 - **Термук x-11 (X-сервер)** : необходимо для запуска графических приложений в Termux, обеспечивая графический интерфейс пользователя.    
-  [![Скачать Термук x-11](https://img.shields.io/badge/Download-Termux--X11-blue?style=for-the-badge&logo=linux)](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk) - click to download  
+  [![Скачать Термук x-11](https://img.shields.io/badge/Скачать-Термукс--х11-blue?style=for-the-badge&logo=linux)](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk) - Нажмите здесь чтобы загрузить
     
 - **Инпут Бридж в0.1.9.9 (Оверлей ХУД/Контроллер)** : это приложение позволяет создать наложение сенсорного экрана или HUD, которое может функционировать как настраиваемый контроллер.    
-  [![Скачать Инпут Бридж](https://img.shields.io/badge/Download-Input%20Bridge-ff69b4?style=for-the-badge&logo=controller)](https://github.com/ahmad1abbadi/extra/releases/download/apps/InputBridge_v0.1.9.9.apk) - click to download  
+  [![Скачать Инпут Бридж](https://img.shields.io/badge/Скачать-Входной%20мост-ff69b4?style=for-the-badge&logo=controller)](https://github.com/ahmad1abbadi/extra/releases/download/apps/InputBridge_v0.1.9.9.apk) - Нажмите здесь чтобы загрузить
   
 #
 
