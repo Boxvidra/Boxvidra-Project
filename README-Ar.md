@@ -24,7 +24,7 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 #
 * `حِسابات وقنوات مشروع ڤيدرا علىّ التواصُل الإجتِماعى`
 
-[![تيليفرام](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
+[![تيليغرام](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
 [![ديسكورد](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/AhJHGbk4)
 [![يوتيوب](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)
 [![واتس آب](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
@@ -95,7 +95,7 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 
 <a name=boxvidra-social></a>
 * حِسابات بوكسڤيدرا علىّ مواقِع التواصُل الإجتِماعي :
-  * [![تيليجرام](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
+  * [![تيليغرام](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
   * [![يوتيوب](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
   * [![چيميل](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
 
@@ -170,8 +170,8 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 
 | التعريفات            | سنابدراغون                                      | مالي                                  |
 |-----------------------|-------------------------------------------------|---------------------------------------|
-| **دي ثري دي**         | dxvk `2.2` gplasync <br> dxvk `2.3` gplasync     | wined3d `8.20`                        |
-| **ميسا**        | Turnip v`3` <br> Turnip v`6.5`                  | VirGL Mesa `24` <br> VirGL Mesa `22`   |
+| **دي ثري دي**         | دي إكس ڤي كيه `٢.٢` چي بي إل غير مُتزامِن <br> دي إكس ڤي كيه `٢.٣` چي بي إل غير مُتزامِن     | النبيذ دي ثري دي `٨.٢٠`                        |
+| **ميسا**        | تورنيب إصدار `3` <br> تورنيب إصدار `٦.٥`                  | ڤيرچِل ميسا `٢٤` <br> ڤيرچِل ميسا `٢٢`   |
 
 ---
 
@@ -179,8 +179,8 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 |--------------------------|--------------------------------------------------------------------------------------------------|
 | **النوىّ الأساسية**       | `8` نوىّ                                                                                         |
 | **دايناريك**              | `45`                                                                                            |
-| **النبيذ - Wow64**         | `8.18` Staging                                                                                  |
-| **النبيذ - Box86-64**      | `8.25` GE                                                                                       |
+| **النبيذ - Wow64**         | `٨.١٨` التدريج                                                                                  |
+| **النبيذ - Box86-64**      | `٨.٢٥` چي إي                                                                                       |
 | **هيكل الواجِهة**         | هيكل نِظام ويندوز ٢٠ (`فاتح`، `داكن`) <br> هيكل نِظام تطبيق بوكسڤيدرا (`بنفسجي فاتح`، `أزرق داكن`) |
 
 * ### الإعدادات الموصىّ بِها لتيرمِكس إكس-١١ :
@@ -214,9 +214,9 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 
 <a name="xboxvidra-social"></a>
 * حِسابات مُحاكي إكس بوكس ڤيدرا علىّ وسائِل التواصُل الإجتِماعي :
-  * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
-  * [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
-  * [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
+  * [![تيليغرام](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
+  * [![يوتيوب](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
+  * [![چيميل](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
 
 #
 
