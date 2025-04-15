@@ -23,6 +23,7 @@
 [![दे घुमा के](https://img.shields.io/badge/दे'घुमा-के-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![टेराडाटा](https://img.shields.io/badge/टेराडाटा-F37440?logo=teradata&logoColor=fff)](#)
 [![मारिया डे बीया](https://img.shields.io/badge/मारिया'डे-बीया-003545?logo=mariadb&logoColor=white)](#)
+
 * `ऑपरेटिंग सिस्टम जिन पर हम काम करते हैं`
 
 [![एंड्रॉयड](https://img.shields.io/badge/एंड्रॉयड-3DDC84?logo=android&logoColor=white)](#)
@@ -78,9 +79,9 @@
 
 <a name=boxvidra-social></a>
 * बॉक्सविद्रा एमुलेटर सोशल मीडिया अकाउंट्स:
-  * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
-  * [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
-  * [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
+  * [![टेलीग्राम](https://img.shields.io/badge/टेलीग्राम-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
+  * [![यूट्यूब](https://img.shields.io/badge/यूट्यूब-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
+  * [![एक्स](https://img.shields.io/badge/एक्स-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
 
 #
 
@@ -204,9 +205,9 @@
 
 <a name=xboxvidra-social></a>
 * एक्सबॉक्सविद्रा एमुलेटर सोशल मीडिया अकाउंट्स:
-  * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
-  * [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
-  * [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
+  * [![टेलीग्राम](https://img.shields.io/badge/टेलीग्राम-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
+  * [![यूट्यूब](https://img.shields.io/badge/यूट्यूब-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
+  * [![एक्स](https://img.shields.io/badge/एक्स-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
 
 #
 
