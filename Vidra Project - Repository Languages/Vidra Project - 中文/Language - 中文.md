@@ -31,12 +31,12 @@
 [![微软 Windows](https://custom-icon-badges.demolab.com/badge/微软-0078D6?logo=windows11&logoColor=white)](#)
 
 **Vidra Project** 由以下成员创建：
-* [`Mikhail Mohammed (所有者)`](https://t.me/Mikhail_Mohammed)
-* [`Jotaros Vyacheslav (经理)`](https://t.me/Jotaros_Vyacheslav)
-* [`Makhilim Vanette (主开发者)`](https://t.me/Makhilim_Vanette)
-* [`Ms.Edryll (第二开发者)`](https://t.me/l0101110110101010)
-* [`ShephardOS (第三开发者)`](https://t.me/devloper8891)
-* [`Sarvansh (次要策划和主测试员)`]()
+* [`米哈伊尔·穆罕默德 (所有者)`](https://t.me/Mikhail_Mohammed)
+* [`乔塔罗斯·维亚切斯拉夫 (经理)`](https://t.me/Jotaros_Vyacheslav)
+* [`马希林·瓦内特 (主开发者)`](https://t.me/Makhilim_Vanette)
+* [`艾丝·埃德瑞尔 (第二开发者)`](https://t.me/l0101110110101010)
+* [`谢帕德OS (第三开发者)`](https://t.me/devloper8891)
+* [`萨尔万什 (次要策划和主测试员)`]()
 
 该项目包含`两个`模拟器：
 * [`BoxVidra模拟器 - PC模拟器`](#boxvidra-emulator)
