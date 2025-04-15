@@ -78,9 +78,9 @@
 
 <a name=boxvidra-social></a>
 * حِسابات بوكسڤيدرا علىّ مواقِع التواصُل الإجتِماعي :
-  * [![تيليغرام](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
-  * [![يوتيوب](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
-  * [![چيميل](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
+  * [![تيليغرام](https://img.shields.io/badge/تيليغرام-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
+  * [![يوتيوب](https://img.shields.io/badge/يوتيوب-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
+  * [![چيميل](https://img.shields.io/badge/چيميل-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
 
 #
 
@@ -197,9 +197,9 @@
 
 <a name="xboxvidra-social"></a>
 * حِسابات مُحاكي إكس بوكس ڤيدرا علىّ وسائِل التواصُل الإجتِماعي :
-  * [![تيليغرام](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
-  * [![يوتيوب](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
-  * [![چيميل](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
+  * [![تيليغرام](https://img.shields.io/badge/تيليغرام-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
+  * [![يوتيوب](https://img.shields.io/badge/يوتيوب-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
+  * [![چيميل](https://img.shields.io/badge/چيميل-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
 
 #
 
