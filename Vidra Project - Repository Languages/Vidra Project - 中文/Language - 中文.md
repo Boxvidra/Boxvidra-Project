@@ -78,9 +78,9 @@
 
 <a name=boxvidra-social></a>
 * BoxVidra模拟器社交媒体账号：
-  * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
-  * [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
-  * [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
+  * [![电报](https://img.shields.io/badge/电报-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
+  * [![油管](https://img.shields.io/badge/油管-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
+  * [![邮箱](https://img.shields.io/badge/邮箱-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
 
 #
 
@@ -204,9 +204,9 @@ BoxVidra有三种模式，或者说三种系统结构。
 
 <a name=xboxvidra-social></a>
 * XboxVidra模拟器社交媒体账号：
-  * [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
-  * [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
-  * [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
+  * [![电报](https://img.shields.io/badge/电报-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
+  * [![油管](https://img.shields.io/badge/油管-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
+  * [![邮箱](https://img.shields.io/badge/邮箱-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
 
 #
 
