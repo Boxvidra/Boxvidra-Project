@@ -18,7 +18,7 @@ href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Projec
 href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-cn.md">中国人 </a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
 <a
-href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">Filipino</a>
+href="https://github.com/VidraProject/Vidra-Project/blob/Vidra-Project/Vidra%20Project%20-%20Repository%20Languages/Vidra%20Project%20-%20Wikang%20Filipino/Language%20-%20Wikang%20Filipino.md">Filipino</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
 
 #
