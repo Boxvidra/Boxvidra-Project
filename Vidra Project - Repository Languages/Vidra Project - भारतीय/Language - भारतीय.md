@@ -25,9 +25,9 @@
 [![मारिया डे बीया](https://img.shields.io/badge/मारिया'डे-बीया-003545?logo=mariadb&logoColor=white)](#)
 * `ऑपरेटिंग सिस्टम जिन पर हम काम करते हैं`
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![एंड्रॉयड](https://img.shields.io/badge/एंड्रॉयड-3DDC84?logo=android&logoColor=white)](#)
+[![लिनक्स](https://img.shields.io/badge/लिनक्स-FCC624?logo=linux&logoColor=black)](#)
+[![विंडोज़](https://custom-icon-badges.demolab.com/badge/विंडोज़-0078D6?logo=windows11&logoColor=white)](#)
 
 **विद्रा प्रोजेक्ट** निम्नलिखित द्वारा बनाया गया:
 * [`मिखाइल मोहम्मद (मालिक)`](https://t.me/Mikhail_Mohammed)
