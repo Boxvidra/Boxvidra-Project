@@ -7,7 +7,7 @@ English
 <a href="https://github.com/VidraProject/Vidra-Project/blob/Vidra-Project/Vidra%20Project%20-%20Repository%20Languages/Vidra%20Project%20-%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/Language%20-%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9.md">العربية</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
 <a
-href="https://github.com/VidraProject/Vidra-Project/blob/Vidra-Project/Vidra%20Project%20-%20Repository%20Languages/Vidra%20Project%20-%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/Language%20-%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9.md">עִברִית</a>
+href="https://github.com/VidraProject/Vidra-Project/blob/Vidra-Project/Vidra%20Project%20-%20Repository%20Languages/Vidra%20Project%20-%20%D7%A9%D7%A4%D7%94%20%D7%A2%D7%91%D7%A8%D7%99%D7%AA/Language%20-%20%D7%A9%D7%A4%D7%94%20%D7%A2%D7%91%D7%A8%D7%99%D7%AA.md">עִברִית</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
 <a href="https://github.com/VidraProject/Vidra-Project/blob/Vidra-Project/Vidra%20Project%20-%20Repository%20Languages/Vidra%20Project%20-%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/Language%20-%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.md">Русский</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
