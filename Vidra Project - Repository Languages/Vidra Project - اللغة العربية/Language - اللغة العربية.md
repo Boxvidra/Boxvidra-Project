@@ -58,14 +58,14 @@
 لتثبيت كُل مِن **مُحاكي بوكسڤيدرا** أو **مُحاكي إكس بوكس ڤيدرا**, قُم بتثبيت البرامِج الآتية :
 
 - **تيرمِكس** : مُحاكي طرفي لنِظام أندرويد يسمَح لك بتشغيل أوامِر لينِكس علىّ جهازك.
-  [![تحميل تيرمِكس](https://img.shields.io/badge/Download-Termux-brightgreen?style=for-the-badge&logo=android)](https://github.com/termux/termux-app/releases/download/v0.118.2/termux-app_v0.118.2+github-debug_arm64-v8a.apk) - اضغط هُنا للتحميل
+  [![تحميل تيرمِكس](https://img.shields.io/badge/تنزيل-تيرمِكس-brightgreen?style=for-the-badge&logo=android)](https://github.com/termux/termux-app/releases/download/v0.118.2/termux-app_v0.118.2+github-debug_arm64-v8a.apk) - اضغط هُنا للتحميل
 
 - **تيرمِكس إكس-١١ (سيرڤر إكس)** : مطلوب لتشغيل التطبيقات الرُسومية داخِل تيرمِكس، وتوفير واجِهَة مُستَخدِم رُسوميَة. 
-  [![تحميل تيرمِكس إكس-١١](https://img.shields.io/badge/Download-Termux--X11-blue?style=for-the-badge&logo=linux)](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk) - اضغط هُنا للتحميل
+  [![تحميل تيرمِكس إكس-١١](https://img.shields.io/badge/تنزيل-تيرمِكس--إكس١١-blue?style=for-the-badge&logo=linux)](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk) - اضغط هُنا للتحميل
   
 
 - **جِسر الإدخال إصدار ٠.١.٩.٩ (لوحة التحكُم/العرض العُلوية)** : يُتيح لك هذا التطبيق إنشاء شاشة تعمَل باللمس أو شاشة عرض أماميَة (هود) يُمكِن أن تعمَل كجِهاز تحكُم قابِل لِلتخصيص.
-  [![تحميل جسر الإدخال](https://img.shields.io/badge/Download-Input%20Bridge-ff69b4?style=for-the-badge&logo=controller)](https://github.com/ahmad1abbadi/extra/releases/download/apps/InputBridge_v0.1.9.9.apk) - اضغط هُنا للتحميل
+  [![تحميل جسر الإدخال](https://img.shields.io/badge/تنزيل-جسر%20الإدخال-ff69b4?style=for-the-badge&logo=controller)](https://github.com/ahmad1abbadi/extra/releases/download/apps/InputBridge_v0.1.9.9.apk) - اضغط هُنا للتحميل
 
 #
 
