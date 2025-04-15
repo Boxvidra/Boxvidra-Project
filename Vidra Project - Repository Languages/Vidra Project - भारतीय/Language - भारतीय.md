@@ -8,21 +8,21 @@
 
 * `विद्रा प्रोजेक्ट के सोशल मीडिया अकाउंट्स और चैनल्स`
 
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
-[![discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/AhJHGbk4)
-[![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vidraproject)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vidraproject@gmail.com)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/vidraproject)
+[![टेलीग्राम](https://img.shields.io/badge/टेलीग्राम-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
+[![कलह](https://img.shields.io/badge/कलह-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/AhJHGbk4)
+[![यूट्यूब](https://img.shields.io/badge/यूट्यूब-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)
+[![वॉट्सऐप](https://img.shields.io/badge/वॉट्सऐप-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
+[![इंस्टाग्राम](https://img.shields.io/badge/इंस्टाग्राम-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vidraproject)
+[![रेडिट](https://img.shields.io/badge/रेडिट-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/u/vidraproject)
+[![जीमेल](https://img.shields.io/badge/जीमेल-D14836?logo=gmail&logoColor=white)](mailto:vidraproject@gmail.com)
+[![एक्स](https://img.shields.io/badge/एक्स-%23000000.svg?logo=X&logoColor=white)](https://x.com/vidraproject)
 
 * `प्रोग्रामिंग भाषाएँ और डेटाबेस`
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![Teradata](https://img.shields.io/badge/Teradata-F37440?logo=teradata&logoColor=fff)](#)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
+[![पायथन](https://img.shields.io/badge/पायथन-3776AB?logo=python&logoColor=fff)](#)
+[![दे घुमा के](https://img.shields.io/badge/दे'घुमा-के-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![टेराडाटा](https://img.shields.io/badge/टेराडाटा-F37440?logo=teradata&logoColor=fff)](#)
+[![मारिया डे बीया](https://img.shields.io/badge/मारिया'डे-बीया-003545?logo=mariadb&logoColor=white)](#)
 * `ऑपरेटिंग सिस्टम जिन पर हम काम करते हैं`
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
