@@ -12,7 +12,7 @@
 [![يوتيوب](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)
 [![واتس آب](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
 [![إنستغرام](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vidraproject)
-[![فايسبوك](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#)
+[![ريديت](https://img.shields.io/badge/ريديت-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/u/vidraproject)
 [![چيميل](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vidraproject@gmail.com)
 [![إكس](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/vidraproject)
 
