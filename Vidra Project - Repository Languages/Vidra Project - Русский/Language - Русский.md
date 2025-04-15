@@ -1,25 +1,9 @@
 <p align="center">  
+<p align="center">  
   <img src="/Vidra%20Project%20-%20Documents/Vidra%20Project%20-%20Images%20(Logos,%20Previews%20And%20Showcases)/Vidra%20Project%20-%20Images%20(Logos)/Vidra%20Project%20Images%20-%20(Logo)/Vidra%20Project%20Logo%20-%20(Logo).png" width="150">  
 </p>  
-  
-العربية
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">English</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a
-href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">עִברִית</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.md">Русский</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a
-href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">भारतीय </a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a
-href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-cn.md">中国人 </a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a
-href="https://github.com/Boxvidra/Boxvidra-Project/blob/boxvidra/Boxvidra-Project-Languages/README-ar.md">Filipino</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
+
+<a href="https://github.com/VidraProject/Vidra-Project/blob/Vidra-Project/README.md">English</a> | <a href="https://github.com/VidraProject/Vidra-Project/blob/Vidra-Project/Vidra%20Project%20-%20Repository%20Languages/Vidra%20Project%20-%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/Language%20-%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9.md">العربية</a> | <a href="https://github.com/VidraProject/Vidra-Project/blob/Vidra-Project/Vidra%20Project%20-%20Repository%20Languages/Vidra%20Project%20-%20%D7%A9%D7%A4%D7%94%20%D7%A2%D7%91%D7%A8%D7%99%D7%AA/Language%20-%20%D7%A9%D7%A4%D7%94%20%D7%A2%D7%91%D7%A8%D7%99%D7%AA.md">עִברִית</a> | Русский | <a href="https://github.com/VidraProject/Vidra-Project/blob/Vidra-Project/Vidra%20Project%20-%20Repository%20Languages/Vidra%20Project%20-%20%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF/Language%20-%20%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF.md">भारतीय</a> | <a href="https://github.com/VidraProject/Vidra-Project/blob/Vidra-Project/Vidra%20Project%20-%20Repository%20Languages/Vidra%20Project%20-%20%E4%B8%AD%E6%96%87/Language%20-%20%E4%B8%AD%E6%96%87.md">中国人</a> | <a href="https://github.com/VidraProject/Vidra-Project/blob/Vidra-Project/Vidra%20Project%20-%20Repository%20Languages/Vidra%20Project%20-%20Wikang%20Filipino/Language%20-%20Wikang%20Filipino.md">Filipino</a>
   
 #  
 * `Социальные аккаунты и каналы проекта Видра`  
