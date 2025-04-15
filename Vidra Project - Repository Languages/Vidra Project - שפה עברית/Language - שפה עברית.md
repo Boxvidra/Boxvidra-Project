@@ -13,7 +13,7 @@
 [![יוטיוב](https://img.shields.io/badge/יוטיוב-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)
 [![וואטסאפ](https://img.shields.io/badge/וואטסאפ-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
 [![אינסטגרם](https://img.shields.io/badge/אינסטגרם-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vidraproject)
-[![פייסבוק](https://img.shields.io/badge/פייסבוק-%231877F2.svg?logo=Facebook&logoColor=white)](#)
+[![רדיט](https://img.shields.io/badge/רדיט-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/u/vidraproject)
 [![אימייל](https://img.shields.io/badge/אימייל-D14836?logo=gmail&logoColor=white)](mailto:vidraproject@gmail.com)
 [![איקס](https://img.shields.io/badge/איקס-%23000000.svg?logo=X&logoColor=white)](https://x.com/vidraproject)
 
