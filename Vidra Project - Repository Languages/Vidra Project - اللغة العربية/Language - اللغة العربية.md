@@ -7,27 +7,27 @@
 #
 * `حِسابات وقنوات مشروع ڤيدرا علىّ التواصُل الإجتِماعى`
 
-[![تيليغرام](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
-[![ديسكورد](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/AhJHGbk4)
-[![يوتيوب](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)
-[![واتس آب](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
-[![إنستغرام](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vidraproject)
+[![تيليغرام](https://img.shields.io/badge/تيليغرام-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
+[![ديسكورد](https://img.shields.io/badge/ديسكورد-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/AhJHGbk4)
+[![يوتيوب](https://img.shields.io/badge/يوتيوب-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)
+[![واتس آب](https://img.shields.io/badge/واتس-آب-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
+[![إنستغرام](https://img.shields.io/badge/إنستغرام-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vidraproject)
 [![ريديت](https://img.shields.io/badge/ريديت-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/u/vidraproject)
-[![چيميل](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vidraproject@gmail.com)
-[![إكس](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/vidraproject)
+[![چيميل](https://img.shields.io/badge/چيميل-D14836?logo=gmail&logoColor=white)](mailto:vidraproject@gmail.com)
+[![إكس](https://img.shields.io/badge/إكس-%23000000.svg?logo=X&logoColor=white)](https://x.com/vidraproject)
 
 * `لُغات البرمَجة وقواعِد البيانات`
 
-[![بايثون](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![باش](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![تيراداتا](https://img.shields.io/badge/Teradata-F37440?logo=teradata&logoColor=fff)](#)
-[![ماريا دي بي](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
+[![بايثون](https://img.shields.io/badge/بايثون-3776AB?logo=python&logoColor=fff)](#)
+[![باش](https://img.shields.io/badge/باش-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![تيرا-داتا](https://img.shields.io/badge/تيرا-داتا-F37440?logo=teradata&logoColor=fff)](#)
+[![ماريا دي بي](https://img.shields.io/badge/ماريا-ديبي-003545?logo=mariadb&logoColor=white)](#)
 
 * `أنظِمة التشغيل الذى نعمَل عليها`
 
-[![أندرويد](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
-[![لينكس](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![ويندوز](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![أندرويد](https://img.shields.io/badge/أندرويد-3DDC84?logo=android&logoColor=white)](#)
+[![لينكس](https://img.shields.io/badge/لينكس-FCC624?logo=linux&logoColor=black)](#)
+[![ويندوز](https://custom-icon-badges.demolab.com/badge/ويندوز-0078D6?logo=windows11&logoColor=white)](#)
 
 **مشروع ڤيدرا** تم الإنشاء بواسِطة :
 * [`ميخائيل مُحمَد (المالِك)`](https://t.me/Mikhail_Mohammed)
