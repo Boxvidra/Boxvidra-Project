@@ -8,26 +8,27 @@
 
 * `Vidra Project的社交媒体账号和频道`
 
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
-[![discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/AhJHGbk4)
-[![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vidraproject)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vidraproject@gmail.com)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/vidraproject)
+[![电报](https://img.shields.io/badge/电报-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
+[![迪斯科](https://img.shields.io/badge/迪斯科-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/AhJHGbk4)
+[![油管](https://img.shields.io/badge/油管-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)
+[![微信](https://img.shields.io/badge/微信-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
+[![照片墙](https://img.shields.io/badge/照片墙-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vidraproject)
+[![红迪网](https://img.shields.io/badge/红迪网-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/u/vidraproject)
+[![邮箱](https://img.shields.io/badge/邮箱-D14836?logo=gmail&logoColor=white)](mailto:vidraproject@gmail.com)
+[![X平台](https://img.shields.io/badge/X平台-%23000000.svg?logo=X&logoColor=white)](https://x.com/vidraproject)
 
 * `编程语言和数据库`
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![Teradata](https://img.shields.io/badge/Teradata-F37440?logo=teradata&logoColor=fff)](#)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
+[![蟒蛇](https://img.shields.io/badge/蟒蛇-3776AB?logo=python&logoColor=fff)](#)
+[![巴什](https://img.shields.io/badge/巴什-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![天睿](https://img.shields.io/badge/天睿-F37440?logo=teradata&logoColor=fff)](#)
+[![玛丽亚数据库](https://img.shields.io/badge/玛丽亚数据库-003545?logo=mariadb&logoColor=white)](#)
+
 * `我们支持的操作系统`
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+[![安卓](https://img.shields.io/badge/安卓-3DDC84?logo=android&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![微软 Windows](https://custom-icon-badges.demolab.com/badge/微软-0078D6?logo=windows11&logoColor=white)](#)
 
 **Vidra Project** 由以下成员创建：
 * [`Mikhail Mohammed (所有者)`](https://t.me/Mikhail_Mohammed)
