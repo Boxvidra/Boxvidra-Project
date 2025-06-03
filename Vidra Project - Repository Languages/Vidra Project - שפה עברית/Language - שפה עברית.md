@@ -9,7 +9,7 @@
 * `חשבונות ורשתות חברתיות של פרויקט ווידרא`
 
 [![טלגרם](https://img.shields.io/badge/טלגרם-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
-[![דיסקורד](https://img.shields.io/badge/דיסקורד-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/AhJHGbk4)
+[![דיסקורד](https://img.shields.io/badge/דיסקורד-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/ykkxwRpe)
 [![יוטיוב](https://img.shields.io/badge/יוטיוב-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)
 [![וואטסאפ](https://img.shields.io/badge/וואטסאפ-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
 [![אינסטגרם](https://img.shields.io/badge/אינסטגרם-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vidraproject)
@@ -79,7 +79,7 @@
 <a name=boxvidra-social></a>
 * חשבונות רשת חברתית של בוקסוידרה אמולטור :
   * [![טלגרם](https://img.shields.io/badge/טלגרם-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
-  * [![יוטיוב](https://img.shields.io/badge/יוטיוב-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
+  * [![יוטיוב](https://img.shields.io/badge/יוטיוב-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra)
   * [![אימייל](https://img.shields.io/badge/אימייל-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
 
 #
@@ -202,7 +202,7 @@
 <a name=xboxvidra-social></a>
 * חשבונות רשת חברתית של אמולטור אקסבוקסווידרה :  
   * [![טלגרם](https://img.shields.io/badge/טלגרם-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
-  * [![יוטיוב](https://img.shields.io/badge/יוטיוב-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
+  * [![יוטיוב](https://img.shields.io/badge/יוטיוב-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra)
   * [![אימייל](https://img.shields.io/badge/אימייל-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
 
 #
