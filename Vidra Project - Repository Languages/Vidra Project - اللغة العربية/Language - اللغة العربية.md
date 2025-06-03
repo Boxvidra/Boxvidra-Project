@@ -8,7 +8,7 @@
 * `حِسابات وقنوات مشروع ڤيدرا علىّ التواصُل الإجتِماعى`
 
 [![تيليغرام](https://img.shields.io/badge/تيليغرام-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
-[![ديسكورد](https://img.shields.io/badge/ديسكورد-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/AhJHGbk4)
+[![ديسكورد](https://img.shields.io/badge/ديسكورد-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/ykkxwRpe)
 [![يوتيوب](https://img.shields.io/badge/يوتيوب-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)
 [![واتس آب](https://img.shields.io/badge/واتس-آب-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
 [![إنستغرام](https://img.shields.io/badge/إنستغرام-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vidraproject)
@@ -79,7 +79,7 @@
 <a name=boxvidra-social></a>
 * حِسابات بوكسڤيدرا علىّ مواقِع التواصُل الإجتِماعي :
   * [![تيليغرام](https://img.shields.io/badge/تيليغرام-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
-  * [![يوتيوب](https://img.shields.io/badge/يوتيوب-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
+  * [![يوتيوب](https://img.shields.io/badge/يوتيوب-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra)
   * [![چيميل](https://img.shields.io/badge/چيميل-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
 
 #
@@ -198,7 +198,7 @@
 <a name="xboxvidra-social"></a>
 * حِسابات مُحاكي إكس بوكس ڤيدرا علىّ وسائِل التواصُل الإجتِماعي :
   * [![تيليغرام](https://img.shields.io/badge/تيليغرام-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
-  * [![يوتيوب](https://img.shields.io/badge/يوتيوب-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
+  * [![يوتيوب](https://img.shields.io/badge/يوتيوب-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra)
   * [![چيميل](https://img.shields.io/badge/چيميل-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
 
 #
