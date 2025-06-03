@@ -9,7 +9,7 @@
 * `विद्रा प्रोजेक्ट के सोशल मीडिया अकाउंट्स और चैनल्स`
 
 [![टेलीग्राम](https://img.shields.io/badge/टेलीग्राम-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
-[![कलह](https://img.shields.io/badge/कलह-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/AhJHGbk4)
+[![कलह](https://img.shields.io/badge/कलह-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/ykkxwRpe)
 [![यूट्यूब](https://img.shields.io/badge/यूट्यूब-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)
 [![वॉट्सऐप](https://img.shields.io/badge/वॉट्सऐप-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
 [![इंस्टाग्राम](https://img.shields.io/badge/इंस्टाग्राम-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vidraproject)
@@ -80,7 +80,7 @@
 <a name=boxvidra-social></a>
 * बॉक्सविद्रा एमुलेटर सोशल मीडिया अकाउंट्स:
   * [![टेलीग्राम](https://img.shields.io/badge/टेलीग्राम-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
-  * [![यूट्यूब](https://img.shields.io/badge/यूट्यूब-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
+  * [![यूट्यूब](https://img.shields.io/badge/यूट्यूब-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra)
   * [![एक्स](https://img.shields.io/badge/एक्स-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
 
 #
@@ -207,7 +207,7 @@
 <a name=xboxvidra-social></a>
 * एक्सबॉक्सविद्रा एमुलेटर सोशल मीडिया अकाउंट्स:
   * [![टेलीग्राम](https://img.shields.io/badge/टेलीग्राम-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
-  * [![यूट्यूब](https://img.shields.io/badge/यूट्यूब-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
+  * [![यूट्यूब](https://img.shields.io/badge/यूट्यूब-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra)
   * [![एक्स](https://img.shields.io/badge/एक्स-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
 
 #
