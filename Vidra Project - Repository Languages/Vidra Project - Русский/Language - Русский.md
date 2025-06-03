@@ -9,7 +9,7 @@
 * `Социальные аккаунты и каналы проекта Видра`  
   
 [![телеграм](https://img.shields.io/badge/Телеграм-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
-[![дискорд](https://img.shields.io/badge/Дискорд-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/AhJHGbk4)
+[![дискорд](https://img.shields.io/badge/Дискорд-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/ykkxwRpe)
 [![Ютуб](https://img.shields.io/badge/Ютуб-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)
 [![Ватсап](https://img.shields.io/badge/Ватсап-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
 [![Инстаграм](https://img.shields.io/badge/Инстаграм-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vidraproject)
@@ -78,7 +78,7 @@
 <a name=boxvidra-social></a>
 * Социальные аккаунты эмулятора Боксвидра:
   * [![телеграм](https://img.shields.io/badge/телеграм-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
-  * [![Ютуб](https://img.shields.io/badge/Ютуб-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
+  * [![Ютуб](https://img.shields.io/badge/Ютуб-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra)
   * [![Гмайл](https://img.shields.io/badge/Гмайл-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
 
 #
@@ -207,7 +207,7 @@
 <a name=xboxvidra-social></a>
 * Социальные аккаунты эмулятора Иксбоксвидра:
   * [![телеграм](https://img.shields.io/badge/телеграм-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
-  * [![Ютуб](https://img.shields.io/badge/Ютуб-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
+  * [![Ютуб](https://img.shields.io/badge/Ютуб-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra)
   * [![Гмайл](https://img.shields.io/badge/Гмайл-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
 
 #
