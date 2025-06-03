@@ -9,7 +9,7 @@
 * `Vidra Project的社交媒体账号和频道`
 
 [![电报](https://img.shields.io/badge/电报-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vidraproject)
-[![迪斯科](https://img.shields.io/badge/迪斯科-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/AhJHGbk4)
+[![迪斯科](https://img.shields.io/badge/迪斯科-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/ykkxwRpe)
 [![油管](https://img.shields.io/badge/油管-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vidraproject)
 [![微信](https://img.shields.io/badge/微信-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
 [![照片墙](https://img.shields.io/badge/照片墙-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vidraproject)
@@ -79,7 +79,7 @@
 <a name=boxvidra-social></a>
 * BoxVidra模拟器社交媒体账号：
   * [![电报](https://img.shields.io/badge/电报-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
-  * [![油管](https://img.shields.io/badge/油管-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra-emulator)
+  * [![油管](https://img.shields.io/badge/油管-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@boxvidra)
   * [![邮箱](https://img.shields.io/badge/邮箱-D14836?logo=gmail&logoColor=white)](mailto:boxvidraemulator@gmail.com)
 
 #
@@ -205,7 +205,7 @@ BoxVidra有三种模式，或者说三种系统结构。
 <a name=xboxvidra-social></a>
 * XboxVidra模拟器社交媒体账号：
   * [![电报](https://img.shields.io/badge/电报-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xboxvidra)
-  * [![油管](https://img.shields.io/badge/油管-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra-emulator)
+  * [![油管](https://img.shields.io/badge/油管-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@xboxvidra)
   * [![邮箱](https://img.shields.io/badge/邮箱-D14836?logo=gmail&logoColor=white)](mailto:xboxvidraemulator@gmail.com)
 
 #
