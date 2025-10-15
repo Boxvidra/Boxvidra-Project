@@ -308,6 +308,7 @@ There are two modes for XboxVidra, or rather two structure systems for it.
 
 ## Special Thanks To Our Supporters :
 * `ApTrex`
+* `UmarTech
 * `Damon King`
 * `Tricky Guy`
 
