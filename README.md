@@ -15,7 +15,7 @@
 > **TapTux** is a **modular platform** delivering multiple desktop operating systems through lightweight, custom-built OS containers.
 
 - **Independent Application:** Runs fully standalone. ```BETA, NOT AVAILABLE```
-- **[Termux](https://github.com/termux/termux-app) Support:**upport:** Operates as a separate environment, isolated from Termux’s internal programs and tools (similar to Proot). ```AVAILABLE SOON```
+- **[Termux](https://github.com/termux/termux-app)** Support: Operates as a separate environment, isolated from Termux’s internal programs and tools (similar to Proot). ```AVAILABLE SOON```
 - **Mobile & Embedded Ready:** Optimized for offline use on mobile and embedded devices.  
 - **Performance & Configurability:** Fast, efficient, and highly customizable desktop experience.  
 - **Developer-Friendly:** Maintains clean, predictable code and professional user experience.
