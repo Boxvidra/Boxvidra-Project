@@ -7,7 +7,7 @@
 
 ## Contents
 
-- [Executive Summary](#executive-summary) [ey Features](#key-features) | [Installation & Usage](#installation--usage) | [User Experience](#user-experience) [Security & Privacy](#security--privacy) | [Contribution Guide](#contribution-guide) | [License & Contact](#license--contact)
+- [Executive Summary](#executive-summary) [Key Features](#key-features) [Installation & Usage](#installation--usage) [User Experience](#user-experience) [Security & Privacy](#security--privacy) [Contribution Guide](#contribution-guide) [License & Contact](#license--contact)
 
 ---
 
