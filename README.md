@@ -7,12 +7,12 @@
 
 ## Contents
 
-[Executive Summary](#executive-summary) | [Key Features](#key-features) | [Installation & Usage](#installation--usage) | [User Experience](#user-experience) | [Security & Privacy](#security--privacy) | [Contribution Guide](#contribution-guide) | [License & Contact](#license--contact)
+- [Executive Summary](#executive-summary) [ey Features](#key-features) | [Installation & Usage](#installation--usage) | [User Experience](#user-experience) [Security & Privacy](#security--privacy) | [Contribution Guide](#contribution-guide) | [License & Contact](#license--contact)
 
 ---
 
 # Executive Summary
-**TapTux** is a **modular platform** delivering multiple desktop operating systems through lightweight, custom-built OS containers.
+> **TapTux** is a **modular platform** delivering multiple desktop operating systems through lightweight, custom-built OS containers.
 
 - **Independent Application:** Runs fully standalone.  
 - **[Termux](https://github.com/termux/termux-app) Support:** Operates as a separate environment, isolated from Termux’s internal programs and tools (similar to Proot).  
