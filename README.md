@@ -24,8 +24,8 @@ TapTux is designed with security and privacy as a top priority across all its OS
 
 **Restricted Countries:** TapTux is not supported in the following regions due to regulatory restrictions:  
 - United Arab Emirates  
-- Qatar  
-- Jordan  
+- Qatar
+- Israel  
 
 **Security Mechanisms:**  
 - TapTux applies a system-wide security framework to all containers, aiming to protect users from suspicious programs, malicious codes, and untrusted scripts.  
