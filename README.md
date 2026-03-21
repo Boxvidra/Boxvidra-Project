@@ -1,4 +1,4 @@
-# TapTux — Official Project 
+# TapTux — Official Project
 
 > **[**TapTux**]() delivers multiple desktop operating systems in lightweight OS containers, built from scratch to run seamlessly on mobile devices.**
 > Fully functional offline, it provides a complete desktop experience optimized for productivity and everyday use. 
