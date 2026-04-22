@@ -22,11 +22,6 @@
 
 TapTux is designed with security and privacy as a top priority across all its OS containers. Its architecture ensures complete isolation from the host system, relying on the fact that Termux does not expose any sensitive information in `/data/data/com.termux/`. This isolation prevents any interference with the host system files or applications.
 
-**Restricted Countries:** TapTux is not supported in the following regions due to regulatory restrictions:  
-- United Arab Emirates  
-- Qatar
-- Israel  
-
 **Security Mechanisms:**  
 - TapTux applies a system-wide security framework to all containers, aiming to protect users from suspicious programs, malicious codes, and untrusted scripts.  
 - The platform includes a built-in Defender system that monitors and blocks potentially harmful operations.  
