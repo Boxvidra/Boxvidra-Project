@@ -1,0 +1,1290 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dr Unlocker • Fluent UI</title>
+  <style>
+    :root{
+      --bg0:#060607;
+      --bg1:#0c0c10;
+      --panel: rgba(16, 16, 22, 0.72);
+      --panel-strong: rgba(22, 22, 30, 0.92);
+      --stroke: rgba(255,255,255,.10);
+      --stroke-strong: rgba(255,255,255,.18);
+      --text:#f4f5f7;
+      --muted:#b8bcc7;
+      --accent:#ff2940;
+      --accent2:#b8001f;
+      --accent3:#ff5f73;
+      --shadow: 0 24px 80px rgba(0,0,0,.45);
+      --radius: 24px;
+      --radius-sm: 16px;
+      --maxw: 1180px;
+    }
+
+    *{ box-sizing:border-box; }
+    html,body{ height:100%; }
+    body{
+      margin:0;
+      font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+      color:var(--text);
+      background:
+        radial-gradient(1200px 600px at 15% 15%, rgba(255,41,64,.20), transparent 56%),
+        radial-gradient(900px 500px at 85% 20%, rgba(255,95,115,.10), transparent 52%),
+        radial-gradient(1000px 700px at 55% 95%, rgba(184,0,31,.18), transparent 52%),
+        linear-gradient(135deg, #050506 0%, #09090d 35%, #0c0c10 100%);
+      overflow-x:hidden;
+    }
+
+    body::before{
+      content:"";
+      position:fixed;
+      inset:-2px;
+      pointer-events:none;
+      background:
+        linear-gradient(135deg, rgba(255,255,255,.03), transparent 35%),
+        linear-gradient(0deg, rgba(255,255,255,.025), transparent 25%);
+      mask: linear-gradient(#000, transparent 90%);
+      opacity:.65;
+    }
+
+    a,button,input{ font:inherit; }
+    button{ cursor:pointer; }
+    .wrap{
+      width:min(var(--maxw), calc(100% - 32px));
+      margin:0 auto;
+      padding:24px 0 36px;
+      position:relative;
+      z-index:1;
+    }
+
+    .brand-bar{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:16px;
+      margin-bottom:20px;
+    }
+
+    .brand{
+      display:flex;
+      align-items:center;
+      gap:14px;
+    }
+
+    .brand-mark{
+      width:46px;
+      height:46px;
+      border-radius:14px;
+      background:
+        linear-gradient(135deg, rgba(255,41,64,.95), rgba(184,0,31,.95));
+      box-shadow: 0 14px 34px rgba(255,41,64,.24);
+      position:relative;
+      overflow:hidden;
+    }
+
+    .brand-mark::after{
+      content:"";
+      position:absolute;
+      inset:0;
+      background: linear-gradient(135deg, rgba(255,255,255,.34), transparent 45%);
+      mix-blend-mode:screen;
+    }
+
+    .brand h1{
+      font-size:18px;
+      line-height:1.15;
+      margin:0;
+      font-weight:800;
+      letter-spacing:.2px;
+    }
+
+    .brand small{
+      display:block;
+      color:var(--muted);
+      font-weight:500;
+      margin-top:2px;
+    }
+
+    .chip{
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      padding:10px 14px;
+      border-radius:999px;
+      border:1px solid var(--stroke);
+      background:rgba(255,255,255,.04);
+      color:var(--muted);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(18px);
+    }
+
+    .shell{
+      border:1px solid var(--stroke);
+      background: linear-gradient(180deg, rgba(24,24,31,.74), rgba(12,12,16,.84));
+      backdrop-filter: blur(24px);
+      border-radius: 30px;
+      box-shadow: var(--shadow);
+      overflow:hidden;
+    }
+
+    .hero{
+      padding:26px;
+      border-bottom:1px solid var(--stroke);
+      display:grid;
+      grid-template-columns: 1.2fr .8fr;
+      gap:20px;
+      align-items:stretch;
+    }
+
+    .hero-card{
+      border:1px solid var(--stroke);
+      background: linear-gradient(135deg, rgba(255,41,64,.12), rgba(255,255,255,.03));
+      border-radius: 26px;
+      padding:26px;
+      position:relative;
+      overflow:hidden;
+      min-height: 220px;
+    }
+
+    .hero-card::before{
+      content:"";
+      position:absolute;
+      inset:-40px;
+      background:
+        radial-gradient(circle at 20% 30%, rgba(255,41,64,.28), transparent 28%),
+        radial-gradient(circle at 85% 20%, rgba(255,95,115,.18), transparent 22%),
+        radial-gradient(circle at 70% 80%, rgba(255,41,64,.12), transparent 30%);
+      filter: blur(12px);
+    }
+
+    .hero-card > *{ position:relative; z-index:1; }
+
+    .eyebrow{
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      padding:8px 12px;
+      border-radius:999px;
+      border:1px solid rgba(255,41,64,.35);
+      background:rgba(255,41,64,.12);
+      color:#ffd6da;
+      font-size:13px;
+      font-weight:700;
+      margin-bottom:14px;
+    }
+
+    .hero h2{
+      margin:0 0 10px;
+      font-size:34px;
+      line-height:1.15;
+    }
+
+    .hero p{
+      margin:0;
+      color:var(--muted);
+      line-height:1.85;
+      max-width:60ch;
+    }
+
+    .stats{
+      display:grid;
+      grid-template-columns:1fr;
+      gap:14px;
+    }
+
+    .stat{
+      border:1px solid var(--stroke);
+      background:rgba(255,255,255,.04);
+      border-radius:24px;
+      padding:18px 20px;
+    }
+
+    .stat strong{
+      display:block;
+      margin-bottom:6px;
+      font-size:15px;
+    }
+
+    .stat span{
+      color:var(--muted);
+      line-height:1.65;
+      font-size:14px;
+    }
+
+    .main{
+      display:grid;
+      grid-template-columns: 420px 1fr;
+      min-height: 720px;
+    }
+
+    .auth-pane, .app-pane{
+      padding:26px;
+    }
+
+    .auth-pane{
+      border-left:1px solid var(--stroke);
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.02), rgba(255,255,255,0));
+    }
+
+    .app-pane{
+      display:none;
+      background:
+        radial-gradient(1000px 300px at 50% 0%, rgba(255,41,64,.10), transparent 55%),
+        linear-gradient(180deg, rgba(255,255,255,.01), rgba(255,255,255,0));
+    }
+
+    .section-title{
+      display:flex;
+      align-items:end;
+      justify-content:space-between;
+      gap:12px;
+      margin-bottom:16px;
+    }
+
+    .section-title h3{
+      margin:0;
+      font-size:22px;
+    }
+
+    .section-title p{
+      margin:0;
+      color:var(--muted);
+      font-size:13px;
+    }
+
+    .tabs{
+      display:flex;
+      gap:10px;
+      margin:14px 0 18px;
+      flex-wrap:wrap;
+    }
+
+    .tab-btn, .nav-btn, .ghost-btn, .primary-btn, .danger-btn{
+      border:none;
+      outline:none;
+      transition: .2s ease;
+    }
+
+    .tab-btn{
+      padding:12px 16px;
+      border-radius:14px;
+      background:rgba(255,255,255,.05);
+      color:var(--text);
+      border:1px solid transparent;
+    }
+
+    .tab-btn.active{
+      background:linear-gradient(135deg, rgba(255,41,64,.96), rgba(184,0,31,.92));
+      border-color:rgba(255,255,255,.15);
+      box-shadow:0 12px 28px rgba(255,41,64,.22);
+    }
+
+    .card{
+      border:1px solid var(--stroke);
+      background:var(--panel);
+      border-radius:26px;
+      box-shadow: var(--shadow);
+      overflow:hidden;
+    }
+
+    .card-inner{
+      padding:22px;
+    }
+
+    .field{
+      display:flex;
+      flex-direction:column;
+      gap:8px;
+      margin-bottom:14px;
+    }
+
+    .field label{
+      font-size:13px;
+      color:#e2e3ea;
+      font-weight:700;
+    }
+
+    .field input, .field textarea, .field select{
+      border:1px solid rgba(255,255,255,.12);
+      background: rgba(7,7,9,.62);
+      color:var(--text);
+      border-radius:16px;
+      padding:14px 15px;
+      outline:none;
+      transition: .2s ease;
+    }
+
+    .field input:focus, .field textarea:focus, .field select:focus{
+      border-color: rgba(255,41,64,.55);
+      box-shadow: 0 0 0 3px rgba(255,41,64,.12);
+    }
+
+    .hint{
+      color:var(--muted);
+      font-size:12px;
+      line-height:1.6;
+    }
+
+    .row{
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      gap:12px;
+    }
+
+    .actions{
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+      margin-top:18px;
+    }
+
+    .primary-btn{
+      padding:13px 18px;
+      border-radius:16px;
+      color:white;
+      background: linear-gradient(135deg, var(--accent), var(--accent2));
+      box-shadow:0 14px 34px rgba(255,41,64,.22);
+      font-weight:800;
+    }
+
+    .ghost-btn{
+      padding:13px 18px;
+      border-radius:16px;
+      color:var(--text);
+      background:rgba(255,255,255,.05);
+      border:1px solid rgba(255,255,255,.10);
+      font-weight:700;
+    }
+
+    .danger-btn{
+      padding:13px 18px;
+      border-radius:16px;
+      color:#ffdfe3;
+      background:rgba(255,41,64,.12);
+      border:1px solid rgba(255,41,64,.22);
+      font-weight:700;
+    }
+
+    .primary-btn:hover, .ghost-btn:hover, .danger-btn:hover, .tab-btn:hover, .nav-btn:hover{
+      transform: translateY(-1px);
+    }
+
+    .msg{
+      margin-top:14px;
+      padding:14px 15px;
+      border-radius:16px;
+      border:1px solid rgba(255,255,255,.10);
+      background:rgba(255,255,255,.04);
+      color:#edf0f6;
+      line-height:1.65;
+      white-space:pre-wrap;
+    }
+
+    .msg.ok{
+      border-color: rgba(69,255,176,.22);
+      background: rgba(69,255,176,.08);
+    }
+
+    .msg.err{
+      border-color: rgba(255,88,120,.22);
+      background: rgba(255,88,120,.08);
+    }
+
+    .login-grid{
+      display:grid;
+      grid-template-columns: 1fr;
+      gap:14px;
+    }
+
+    .label-inline{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:12px;
+    }
+
+    .preview{
+      font-size:12px;
+      color:#ffc8cf;
+      background: rgba(255,41,64,.09);
+      border:1px solid rgba(255,41,64,.18);
+      padding:6px 10px;
+      border-radius:999px;
+      min-height:28px;
+      display:inline-flex;
+      align-items:center;
+    }
+
+    .layout{
+      display:grid;
+      grid-template-columns: 300px 1fr;
+      gap:18px;
+      min-height: 640px;
+    }
+
+    .sidebar{
+      border:1px solid var(--stroke);
+      background:rgba(255,255,255,.03);
+      border-radius:28px;
+      padding:16px;
+      display:flex;
+      flex-direction:column;
+      gap:12px;
+    }
+
+    .userbox{
+      border:1px solid var(--stroke);
+      background:linear-gradient(180deg, rgba(255,41,64,.10), rgba(255,255,255,.03));
+      border-radius:22px;
+      padding:18px;
+    }
+
+    .userbox strong{
+      display:block;
+      font-size:17px;
+      margin-bottom:4px;
+    }
+
+    .userbox small, .subtle{
+      color:var(--muted);
+    }
+
+    .nav-btn{
+      width:100%;
+      text-align:right;
+      padding:14px 15px;
+      border-radius:16px;
+      background:rgba(255,255,255,.03);
+      color:var(--text);
+      border:1px solid transparent;
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      gap:12px;
+      font-weight:700;
+    }
+
+    .nav-btn.active{
+      background:linear-gradient(135deg, rgba(255,41,64,.92), rgba(184,0,31,.86));
+      border-color:rgba(255,255,255,.14);
+      box-shadow:0 14px 30px rgba(255,41,64,.18);
+    }
+
+    .content{
+      border:1px solid var(--stroke);
+      background:var(--panel);
+      border-radius:28px;
+      overflow:hidden;
+    }
+
+    .content-head{
+      padding:20px 22px;
+      border-bottom:1px solid var(--stroke);
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      gap:14px;
+    }
+
+    .content-head h4{
+      margin:0;
+      font-size:22px;
+    }
+
+    .content-body{
+      padding:22px;
+    }
+
+    .grid-cards{
+      display:grid;
+      grid-template-columns: repeat(2, minmax(0,1fr));
+      gap:14px;
+    }
+
+    .mini{
+      border:1px solid var(--stroke);
+      background:rgba(255,255,255,.04);
+      border-radius:22px;
+      padding:18px;
+    }
+
+    .mini h5{
+      margin:0 0 8px;
+      font-size:16px;
+    }
+
+    .mini p{
+      margin:0;
+      color:var(--muted);
+      line-height:1.7;
+      font-size:14px;
+    }
+
+    .orders-list, .history-list{
+      display:grid;
+      gap:12px;
+    }
+
+    .item{
+      border:1px solid var(--stroke);
+      background:rgba(255,255,255,.04);
+      border-radius:20px;
+      padding:16px;
+    }
+
+    .item-top{
+      display:flex;
+      justify-content:space-between;
+      gap:10px;
+      align-items:center;
+      margin-bottom:8px;
+      flex-wrap:wrap;
+    }
+
+    .item-top strong{
+      font-size:15px;
+    }
+
+    .badge{
+      font-size:12px;
+      color:#ffd8dd;
+      background:rgba(255,41,64,.10);
+      border:1px solid rgba(255,41,64,.18);
+      padding:6px 10px;
+      border-radius:999px;
+    }
+
+    pre{
+      margin:0;
+      white-space:pre-wrap;
+      word-break:break-word;
+      color:#eef0f5;
+      font-family: "Consolas", "Courier New", monospace;
+      font-size:13px;
+      line-height:1.65;
+    }
+
+    .hidden{ display:none !important; }
+
+    @media (max-width: 1020px){
+      .hero, .main, .layout{ grid-template-columns:1fr; }
+      .auth-pane{ border-left:none; border-top:1px solid var(--stroke); }
+      .grid-cards{ grid-template-columns:1fr; }
+      .sidebar{ order:2; }
+      .content{ order:1; }
+    }
+
+    @media (max-width: 560px){
+      .wrap{ width:min(var(--maxw), calc(100% - 20px)); padding-top:12px; }
+      .hero{ padding:16px; }
+      .hero h2{ font-size:26px; }
+      .auth-pane, .app-pane{ padding:16px; }
+      .card-inner, .content-body, .content-head, .sidebar, .userbox{ padding:16px; }
+      .row{ grid-template-columns:1fr; }
+      .content-head{ flex-direction:column; align-items:flex-start; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="brand-bar">
+      <div class="brand">
+        <div class="brand-mark"></div>
+        <div>
+          <h1>Dr Unlocker</h1>
+          <small>Fluent UI • Firebase Auth + RTDB</small>
+        </div>
+      </div>
+      <div class="chip">RTL • HTML فقط • Red / Black theme</div>
+    </div>
+
+    <div class="shell">
+      <div class="hero">
+        <div class="hero-card">
+          <div class="eyebrow">واجهة كاملة متصلة بـ Firebase</div>
+          <h2>تسجيل، دخول، ولوحة رئيسية بستايل Fluent UI متدرج أحمر على أسود</h2>
+          <p>
+            الحساب بيتعمل باسم كامل + يوزرنيم بيتولد تلقائي من الاسم + كلمة سر،
+            وبعدها المستخدم يرجع لصفحة الدخول. لو كان مسجل بالفعل، الموقع يفتحه مباشرة على الصفحة الرئيسية.
+          </p>
+        </div>
+        <div class="stats">
+          <div class="stat">
+            <strong>Auth</strong>
+            <span>تسجيل وإنشاء حساب وتخزين session مع تحويل تلقائي للصفحة الرئيسية.</span>
+          </div>
+          <div class="stat">
+            <strong>Realtime Database</strong>
+            <span>الكتابة والقراءة باستخدام نفس أسلوب <b>set()</b> و <b>onValue()</b> الموجود في كودك.</span>
+          </div>
+          <div class="stat">
+            <strong>Navigation</strong>
+            <span>Order • Order history • Profile • Billing • About داخل Dashboard واحدة.</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="main">
+        <section class="auth-pane" id="authView">
+          <div class="section-title">
+            <div>
+              <h3>الحساب</h3>
+              <p>إنشاء حساب أو تسجيل دخول</p>
+            </div>
+          </div>
+
+          <div class="tabs">
+            <button class="tab-btn active" id="loginTabBtn" type="button">تسجيل دخول</button>
+            <button class="tab-btn" id="signupTabBtn" type="button">إنشاء حساب</button>
+          </div>
+
+          <div class="card">
+            <div class="card-inner">
+              <div id="loginTab">
+                <div class="section-title" style="margin-bottom:12px;">
+                  <div>
+                    <h3 style="font-size:20px;">تسجيل الدخول</h3>
+                    <p>اكتب اليوزرنيم وكلمة السر</p>
+                  </div>
+                </div>
+
+                <div class="login-grid">
+                  <div class="field">
+                    <label for="loginUsername">اسم المستخدم</label>
+                    <input id="loginUsername" type="text" placeholder="مثال: taptux" autocomplete="username" />
+                  </div>
+                  <div class="field">
+                    <label for="loginPassword">كلمة السر</label>
+                    <input id="loginPassword" type="password" placeholder="••••••••" autocomplete="current-password" />
+                  </div>
+                </div>
+
+                <div class="actions">
+                  <button class="primary-btn" id="loginBtn" type="button">دخول</button>
+                  <button class="ghost-btn" id="fillDemoBtn" type="button">تجربة بيانات</button>
+                </div>
+
+                <div class="msg" id="authMsg">جاهز لتسجيل الدخول.</div>
+              </div>
+
+              <div id="signupTab" class="hidden">
+                <div class="section-title" style="margin-bottom:12px;">
+                  <div>
+                    <h3 style="font-size:20px;">إنشاء حساب</h3>
+                    <p>اليوزرنيم بيتولد تلقائي من الاسم</p>
+                  </div>
+                </div>
+
+                <div class="login-grid">
+                  <div class="field">
+                    <div class="label-inline">
+                      <label for="signupName">اسم المستخدم / الاسم</label>
+                      <span class="preview" id="usernamePreview">user_...</span>
+                    </div>
+                    <input id="signupName" type="text" placeholder="اكتب الاسم هنا" autocomplete="name" />
+                    <div class="hint">اليوزرنيم بيتولد تلقائيًا من الاسم، ولو الاسم عربي بنحوّله لكتابة لاتينية بشكل بسيط.</div>
+                  </div>
+
+                  <div class="field">
+                    <label for="signupUsername">اليوزرنيم الناتج</label>
+                    <input id="signupUsername" type="text" readonly />
+                  </div>
+
+                  <div class="field">
+                    <label for="signupPassword">كلمة السر</label>
+                    <input id="signupPassword" type="password" placeholder="••••••••" autocomplete="new-password" />
+                  </div>
+                </div>
+
+                <div class="actions">
+                  <button class="primary-btn" id="signupBtn" type="button">إنشاء الحساب</button>
+                  <button class="ghost-btn" id="randomizeBtn" type="button">توليد جديد</button>
+                </div>
+
+                <div class="msg" id="signupMsg">أدخل الاسم علشان يتولد اليوزرنيم.</div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="app-pane" id="appView">
+          <div class="layout">
+            <aside class="sidebar">
+              <div class="userbox">
+                <strong id="sidebarName">—</strong>
+                <small id="sidebarUsername">—</small>
+                <div style="height:10px"></div>
+                <small id="sidebarEmail">—</small>
+              </div>
+
+              <button class="nav-btn active" data-page="order" type="button"><span>Order</span><span>›</span></button>
+              <button class="nav-btn" data-page="history" type="button"><span>Order history</span><span>›</span></button>
+              <button class="nav-btn" data-page="profile" type="button"><span>Profile</span><span>›</span></button>
+              <button class="nav-btn" data-page="billing" type="button"><span>Billing</span><span>›</span></button>
+              <button class="nav-btn" data-page="about" type="button"><span>About</span><span>›</span></button>
+
+              <button class="danger-btn" id="logoutBtn" type="button">تسجيل خروج</button>
+            </aside>
+
+            <div class="content">
+              <div class="content-head">
+                <div>
+                  <h4 id="pageTitle">Order</h4>
+                  <div class="subtle" id="pageSubTitle">إنشاء طلب جديد وتخزينه داخل Realtime Database</div>
+                </div>
+                <div class="chip" id="sessionChip">Session active</div>
+              </div>
+
+              <div class="content-body">
+                <div id="page-order" class="page-section">
+                  <div class="grid-cards">
+                    <div class="mini">
+                      <h5>إنشاء طلب</h5>
+                      <p>الطلب بيتحفظ داخل <b>orders/{uid}</b> بــ <b>set()</b>، وبعدها بنعرضه بــ <b>onValue()</b>.</p>
+
+                      <div style="height:14px"></div>
+
+                      <div class="field">
+                        <label for="orderTitle">عنوان الطلب</label>
+                        <input id="orderTitle" type="text" placeholder="مثال: Premium unlock" />
+                      </div>
+                      <div class="field">
+                        <label for="orderNotes">ملاحظات</label>
+                        <textarea id="orderNotes" rows="4" placeholder="اكتب التفاصيل..."></textarea>
+                      </div>
+
+                      <div class="actions">
+                        <button class="primary-btn" id="saveOrderBtn" type="button">حفظ الطلب</button>
+                      </div>
+
+                      <div class="msg" id="orderMsg">جاهز.</div>
+                    </div>
+
+                    <div class="mini">
+                      <h5>آخر بيانات الطلبات</h5>
+                      <pre id="orderDebug">لا توجد بيانات بعد.</pre>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="page-history" class="page-section hidden">
+                  <div class="mini">
+                    <h5>Order history</h5>
+                    <div class="subtle">بيظهر هنا أي طلبات محفوظة للمستخدم الحالي.</div>
+                    <div style="height:14px"></div>
+                    <div class="history-list" id="historyList"></div>
+                  </div>
+                </div>
+
+                <div id="page-profile" class="page-section hidden">
+                  <div class="grid-cards">
+                    <div class="mini">
+                      <h5>الملف الشخصي</h5>
+                      <pre id="profileData">تحميل...</pre>
+                    </div>
+                    <div class="mini">
+                      <h5>تحديث الاسم</h5>
+                      <div class="field">
+                        <label for="profileName">اسم المستخدم / الاسم</label>
+                        <input id="profileName" type="text" placeholder="اكتب اسم جديد" />
+                      </div>
+                      <div class="actions">
+                        <button class="primary-btn" id="updateProfileBtn" type="button">تحديث</button>
+                      </div>
+                      <div class="msg" id="profileMsg">جاهز.</div>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="page-billing" class="page-section hidden">
+                  <div class="grid-cards">
+                    <div class="mini">
+                      <h5>Billing</h5>
+                      <p>دي مساحة جاهزة للفواتير والاشتراكات. تقدر تربطها لاحقًا بـ RTDB بنفس الأسلوب.</p>
+                    </div>
+                    <div class="mini">
+                      <h5>حالة الاشتراك</h5>
+                      <pre id="billingData">Free plan • No active subscription</pre>
+                    </div>
+                  </div>
+                </div>
+
+                <div id="page-about" class="page-section hidden">
+                  <div class="mini">
+                    <h5>About</h5>
+                    <p>
+                      ده مشروع HTML واحد مربوط بـ Firebase Auth و Realtime Database.
+                      التصميم Fluent UI متدرج أحمر على أسود، والواجهة RTL.
+                    </p>
+                    <div style="height:10px"></div>
+                    <p class="subtle">
+                      لو حبيت بعدين نضيف صفحات حقيقية متعددة أو لوحة Admin أو Payments، البنية الحالية جاهزة.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/12.12.1/firebase-app.js";
+    import {
+      getAuth,
+      setPersistence,
+      browserLocalPersistence,
+      createUserWithEmailAndPassword,
+      signInWithEmailAndPassword,
+      onAuthStateChanged,
+      signOut,
+      updateProfile
+    } from "https://www.gstatic.com/firebasejs/12.12.1/firebase-auth.js";
+    import {
+      getDatabase,
+      ref,
+      set,
+      get,
+      onValue,
+      remove,
+      update
+    } from "https://www.gstatic.com/firebasejs/12.12.1/firebase-database.js";
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyCwAX2A35nYps1T4f30_lurNh_7SzL8by8",
+      authDomain: "dr-unlocker.firebaseapp.com",
+      projectId: "dr-unlocker",
+      storageBucket: "dr-unlocker.firebasestorage.app",
+      messagingSenderId: "783882145882",
+      appId: "1:783882145882:web:64f34098b501f6e9da8863",
+      measurementId: "G-HTC5C0F929",
+      databaseURL: "https://dr-unlocker-default-rtdb.firebaseio.com/"
+    };
+
+    const app = initializeApp(firebaseConfig);
+    const auth = getAuth(app);
+    const db = getDatabase(app);
+
+    await setPersistence(auth, browserLocalPersistence);
+
+    const el = (id) => document.getElementById(id);
+
+    const authView = el("authView");
+    const appView = el("appView");
+
+    const loginTabBtn = el("loginTabBtn");
+    const signupTabBtn = el("signupTabBtn");
+    const loginTab = el("loginTab");
+    const signupTab = el("signupTab");
+
+    const authMsg = el("authMsg");
+    const signupMsg = el("signupMsg");
+    const usernamePreview = el("usernamePreview");
+
+    const loginUsername = el("loginUsername");
+    const loginPassword = el("loginPassword");
+
+    const signupName = el("signupName");
+    const signupUsername = el("signupUsername");
+    const signupPassword = el("signupPassword");
+
+    const sidebarName = el("sidebarName");
+    const sidebarUsername = el("sidebarUsername");
+    const sidebarEmail = el("sidebarEmail");
+    const profileData = el("profileData");
+    const profileName = el("profileName");
+    const profileMsg = el("profileMsg");
+    const orderMsg = el("orderMsg");
+    const orderDebug = el("orderDebug");
+    const historyList = el("historyList");
+    const pageTitle = el("pageTitle");
+    const pageSubTitle = el("pageSubTitle");
+
+    const arabicMap = {
+      "ا":"a","أ":"a","إ":"i","آ":"aa","ب":"b","ت":"t","ث":"th","ج":"j","ح":"h","خ":"kh",
+      "د":"d","ذ":"dh","ر":"r","ز":"z","س":"s","ش":"sh","ص":"s","ض":"d","ط":"t","ظ":"z",
+      "ع":"a","غ":"gh","ف":"f","ق":"q","ك":"k","ل":"l","م":"m","ن":"n","ه":"h","ة":"h",
+      "و":"w","ؤ":"w","ي":"y","ئ":"y","ى":"a","ء":"","ﻻ":"la","لا":"la"
+    };
+
+    let currentUser = null;
+    let currentProfile = null;
+    let currentUsername = "";
+    let currentPage = "order";
+    let currentOrderUnsub = null;
+    let currentProfileUnsub = null;
+    let currentHistoryUnsub = null;
+
+    function setMsg(node, text, kind = ""){
+      node.textContent = text;
+      node.classList.remove("ok", "err");
+      if (kind) node.classList.add(kind);
+    }
+
+    function showTab(tab){
+      const login = tab === "login";
+      loginTab.classList.toggle("hidden", !login);
+      signupTab.classList.toggle("hidden", login);
+      loginTabBtn.classList.toggle("active", login);
+      signupTabBtn.classList.toggle("active", !login);
+    }
+
+    function escapeHtml(str){
+      return String(str ?? "").replace(/[&<>"']/g, m => ({
+        "&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"
+      }[m]));
+    }
+
+    function transliterateArabic(text){
+      return String(text || "")
+        .split("")
+        .map(ch => arabicMap[ch] ?? ch)
+        .join("");
+    }
+
+    function slugifyName(name){
+      let s = String(name || "").trim();
+      if (!s) return "";
+      s = transliterateArabic(s);
+      s = s.normalize("NFKD").replace(/[\u0300-\u036f]/g, "");
+      s = s.toLowerCase();
+      s = s.replace(/[^a-z0-9]+/g, "_");
+      s = s.replace(/_+/g, "_");
+      s = s.replace(/^_+|_+$/g, "");
+      if (!s) s = "user";
+      if (s.length < 3) s = s + "_" + Math.random().toString(36).slice(2, 6);
+      return s;
+    }
+
+    function makeUniqueSuffix(){
+      return Math.random().toString(36).slice(2, 6);
+    }
+
+    function generateUsername(name){
+      const base = slugifyName(name);
+      return `${base}_${makeUniqueSuffix()}`.toLowerCase();
+    }
+
+    function usernameToEmail(username){
+      return `${username}@dr-unlocker.local`;
+    }
+
+    function formatTs(ts){
+      const d = new Date(ts || Date.now());
+      return d.toLocaleString("ar-EG");
+    }
+
+    function showApp(){
+      authView.style.display = "none";
+      appView.style.display = "block";
+    }
+
+    function showAuth(){
+      appView.style.display = "none";
+      authView.style.display = "block";
+    }
+
+    function setPage(page){
+      currentPage = page;
+      document.querySelectorAll(".nav-btn").forEach(btn => {
+        btn.classList.toggle("active", btn.dataset.page === page);
+      });
+      document.querySelectorAll(".page-section").forEach(sec => sec.classList.add("hidden"));
+      el(`page-${page}`).classList.remove("hidden");
+
+      const labels = {
+        order: ["Order", "إنشاء طلب جديد وتخزينه داخل Realtime Database"],
+        history: ["Order history", "سجل الطلبات المحفوظة لهذا المستخدم"],
+        profile: ["Profile", "عرض وتحديث ملفك الشخصي"],
+        billing: ["Billing", "بيانات الدفع والاشتراك"],
+        about: ["About", "معلومات عن المشروع"]
+      };
+      pageTitle.textContent = labels[page][0];
+      pageSubTitle.textContent = labels[page][1];
+    }
+
+    function refreshUsernamePreview(){
+      const generated = generateUsername(signupName.value);
+      signupUsername.value = generated;
+      usernamePreview.textContent = generated || "user_...";
+    }
+
+    signupName.addEventListener("input", refreshUsernamePreview);
+    signupName.addEventListener("blur", refreshUsernamePreview);
+
+    signupTabBtn.addEventListener("click", () => showTab("signup"));
+    loginTabBtn.addEventListener("click", () => showTab("login"));
+
+    el("fillDemoBtn").addEventListener("click", () => {
+      loginUsername.value = "mikhail_demo";
+      loginPassword.value = "12345678";
+      setMsg(authMsg, "تمت تعبئة بيانات تجريبية. عدّلها قبل الدخول.", "ok");
+    });
+
+    el("randomizeBtn").addEventListener("click", refreshUsernamePreview);
+
+    async function getUsernameRecord(username){
+      const snap = await get(ref(db, `usernames/${username}`));
+      return snap.exists() ? snap.val() : null;
+    }
+
+    async function signUp(){
+      const name = signupName.value.trim();
+      const username = signupUsername.value.trim().toLowerCase();
+      const password = signupPassword.value;
+
+      if (!name || !username || !password){
+        setMsg(signupMsg, "لازم تملأ الاسم وكلمة السر.", "err");
+        return;
+      }
+
+      if (password.length < 6){
+        setMsg(signupMsg, "كلمة السر لازم تكون 6 أحرف على الأقل.", "err");
+        return;
+      }
+
+      try{
+        setMsg(signupMsg, "جارٍ التحقق من اليوزرنيم...", "");
+        const exists = await getUsernameRecord(username);
+        if (exists){
+          setMsg(signupMsg, "اليوزرنيم ده مستخدم بالفعل. غيّر الاسم أو جرّب توليد جديد.", "err");
+          return;
+        }
+
+        const tempEmail = usernameToEmail(username);
+        const cred = await createUserWithEmailAndPassword(auth, tempEmail, password);
+
+        const userData = {
+          uid: cred.user.uid,
+          name,
+          username,
+          email: tempEmail,
+          createdAt: Date.now(),
+          source: "signup_form"
+        };
+
+        await set(ref(db, `users/${cred.user.uid}`), userData);
+        await set(ref(db, `usernames/${username}`), {
+          uid: cred.user.uid,
+          email: tempEmail,
+          name,
+          createdAt: Date.now()
+        });
+
+        if (cred.user.displayName !== name){
+          await updateProfile(cred.user, { displayName: name });
+        }
+
+        await signOut(auth);
+
+        signupName.value = "";
+        signupUsername.value = "";
+        signupPassword.value = "";
+        usernamePreview.textContent = "user_...";
+
+        showTab("login");
+        setMsg(authMsg, "تم إنشاء الحساب بنجاح. سجل الدخول الآن باليوزرنيم وكلمة السر.", "ok");
+        setMsg(signupMsg, "تم إنشاء الحساب. انتقل لتسجيل الدخول.", "ok");
+      }catch(error){
+        console.error(error);
+        setMsg(signupMsg, "فشل إنشاء الحساب: " + error.message, "err");
+      }
+    }
+
+    el("signupBtn").addEventListener("click", signUp);
+
+    async function signIn(){
+      const username = loginUsername.value.trim().toLowerCase();
+      const password = loginPassword.value;
+
+      if (!username || !password){
+        setMsg(authMsg, "اكتب اليوزرنيم وكلمة السر.", "err");
+        return;
+      }
+
+      try{
+        setMsg(authMsg, "جارٍ البحث عن الحساب...", "");
+        const record = await getUsernameRecord(username);
+
+        if (!record || !record.email){
+          setMsg(authMsg, "اليوزرنيم ده غير موجود.", "err");
+          return;
+        }
+
+        await signInWithEmailAndPassword(auth, record.email, password);
+        setMsg(authMsg, "تم تسجيل الدخول بنجاح.", "ok");
+      }catch(error){
+        console.error(error);
+        setMsg(authMsg, "فشل تسجيل الدخول: " + error.message, "err");
+      }
+    }
+
+    el("loginBtn").addEventListener("click", signIn);
+
+    el("logoutBtn").addEventListener("click", async () => {
+      try{
+        await signOut(auth);
+        setMsg(authMsg, "تم تسجيل الخروج.", "ok");
+        showAuth();
+      }catch(error){
+        console.error(error);
+      }
+    });
+
+    function cleanupListeners(){
+      if (currentOrderUnsub) currentOrderUnsub();
+      if (currentProfileUnsub) currentProfileUnsub();
+      if (currentHistoryUnsub) currentHistoryUnsub();
+      currentOrderUnsub = null;
+      currentProfileUnsub = null;
+      currentHistoryUnsub = null;
+    }
+
+    function renderProfile(data){
+      profileData.textContent = JSON.stringify(data || {}, null, 2) || "{}";
+      profileName.value = data?.name || "";
+      sidebarName.textContent = data?.name || "User";
+      sidebarUsername.textContent = data?.username ? "@" + data.username : "—";
+      sidebarEmail.textContent = data?.email || "—";
+    }
+
+    function renderHistory(data){
+      const orders = data ? Object.entries(data) : [];
+      if (!orders.length){
+        historyList.innerHTML = `<div class="item"><strong>لا توجد طلبات</strong><div class="subtle">ابدأ بإنشاء أول طلب من صفحة Order.</div></div>`;
+        return;
+      }
+      historyList.innerHTML = orders
+        .sort((a,b) => (b[1]?.createdAt || 0) - (a[1]?.createdAt || 0))
+        .map(([id, item]) => `
+          <div class="item">
+            <div class="item-top">
+              <strong>${escapeHtml(item?.title || id)}</strong>
+              <span class="badge">${escapeHtml(id)}</span>
+            </div>
+            <div class="subtle">${escapeHtml(item?.notes || "")}</div>
+            <div style="height:8px"></div>
+            <div class="subtle">Created: ${escapeHtml(formatTs(item?.createdAt || Date.now()))}</div>
+          </div>
+        `).join("");
+    }
+
+    function bindUserData(user){
+      cleanupListeners();
+      const uid = user.uid;
+
+      currentOrderUnsub = onValue(ref(db, `orders/${uid}`), (snap) => {
+        const data = snap.val();
+        orderDebug.textContent = JSON.stringify(data || {}, null, 2) || "{}";
+        renderHistory(data);
+      }, (error) => {
+        orderDebug.textContent = "فشل القراءة: " + error.message;
+      });
+
+      currentProfileUnsub = onValue(ref(db, `users/${uid}`), (snap) => {
+        const data = snap.val();
+        currentProfile = data || null;
+        currentUsername = data?.username || "";
+        renderProfile(data || {});
+      }, (error) => {
+        profileData.textContent = "فشل القراءة: " + error.message;
+      });
+    }
+
+    el("saveOrderBtn").addEventListener("click", async () => {
+      if (!currentUser){
+        setMsg(orderMsg, "لازم تكون مسجل دخول.", "err");
+        return;
+      }
+
+      const title = el("orderTitle").value.trim();
+      const notes = el("orderNotes").value.trim();
+
+      if (!title){
+        setMsg(orderMsg, "اكتب عنوان الطلب.", "err");
+        return;
+      }
+
+      try{
+        const orderId = `order_${Date.now()}`;
+        const payload = {
+          title,
+          notes,
+          createdAt: Date.now(),
+          by: currentUser.uid,
+          username: currentUsername || ""
+        };
+
+        await set(ref(db, `orders/${currentUser.uid}/${orderId}`), payload);
+        setMsg(orderMsg, `تم حفظ الطلب داخل orders/${currentUser.uid}/${orderId}`, "ok");
+        el("orderTitle").value = "";
+        el("orderNotes").value = "";
+      }catch(error){
+        console.error(error);
+        setMsg(orderMsg, "فشل حفظ الطلب: " + error.message, "err");
+      }
+    });
+
+    el("updateProfileBtn").addEventListener("click", async () => {
+      if (!currentUser){
+        setMsg(profileMsg, "لازم تكون مسجل دخول.", "err");
+        return;
+      }
+
+      const newName = profileName.value.trim();
+      if (!newName){
+        setMsg(profileMsg, "اكتب اسم جديد.", "err");
+        return;
+      }
+
+      try{
+        const userRef = ref(db, `users/${currentUser.uid}`);
+        const currentSnap = await get(userRef);
+        const currentData = currentSnap.val() || {};
+
+        const updated = {
+          ...currentData,
+          name: newName,
+          updatedAt: Date.now()
+        };
+
+        await updateProfile(currentUser, { displayName: newName });
+        await set(userRef, updated);
+
+        setMsg(profileMsg, "تم تحديث الملف الشخصي.", "ok");
+      }catch(error){
+        console.error(error);
+        setMsg(profileMsg, "فشل التحديث: " + error.message, "err");
+      }
+    });
+
+    document.querySelectorAll(".nav-btn").forEach(btn => {
+      btn.addEventListener("click", () => setPage(btn.dataset.page));
+    });
+
+    onAuthStateChanged(auth, async (user) => {
+      currentUser = user || null;
+
+      if (user){
+        showApp();
+        setPage("order");
+        bindUserData(user);
+        setMsg(authMsg, "أنت مسجل دخول بالفعل.", "ok");
+      } else {
+        cleanupListeners();
+        showAuth();
+        showTab("login");
+      }
+    });
+
+    refreshUsernamePreview();
+    showTab("login");
+    setPage("order");
+  </script>
+</body>
+</html>
