@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [Executive Summary](#executive-summary) [Key Features](#key-features) [Installation & Usage](#installation--usage) [User Experience](#user-experience) [Security & Privacy](#security--privacy) [Contribution Guide](#contribution-guide) [License & Contact](#license--contact)
+- [Executive Summary](#executive-summary) [Key Features](#key-features) [Installation & Usage](#installation--usage) [User Experience](#user-experience) [Security & Privacy](#security--privacy) [Developers & Contributors](#developers--contributors) [License & Contact](#license--contact)
 
 ---
 
@@ -28,3 +28,7 @@ TapTux is designed with security and privacy as a top priority across all its OS
 - Users can choose to disable the Defender, but doing so transfers all responsibility to the user, any damage or risk resulting from running unverified software becomes the user's responsibility.  
 
 These measures ensure that TapTux provides a safe, predictable, and user-controlled environment, without compromising the independence or functionality of the contained desktop operating systems.
+
+# Developers & Contributors
+> The project is officially managed and directed by a specialized group of developers operating under the organization name **DevOra**. The initiative is spearheaded by the primary owner and project team leader, **```Mikhail M. Abdelaziz```**, in strategic collaboration with **```(Bulgarian Vyasheslav, also known as JotarOS)```**, **```Avital Shalev```**, and **```Tasuni Nagashita```**.
+ 
