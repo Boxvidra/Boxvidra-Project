@@ -30,5 +30,5 @@ TapTux is designed with security and privacy as a top priority across all its OS
 These measures ensure that TapTux provides a safe, predictable, and user-controlled environment, without compromising the independence or functionality of the contained desktop operating systems.
 
 # Developers & Contributors
-> The project is officially managed and directed by a specialized group of developers operating under the organization name **DevOra**. The initiative is spearheaded by the primary owner and project team leader, **```Mikhail M. Abdelaziz```**, in strategic collaboration with **```(Bulgarian Vyasheslav, also known as JotarOS)```**, **```Avital Shalev```**, and **```Tasuni Nagashita```**.
+> The project is officially managed and directed by a specialized group of developers operating under the organization name **DevOra**. The initiative is spearheaded by the primary owner and project team leader, **```Mikhail M. Abdelaziz```**, in strategic collaboration with **```(Bulgarian Vyasheslav, also known as JotarOS)```**, **```Avital Shalev```**, **```Tasuni Nagashita```** And **```Raed Abdullah```***.
  
