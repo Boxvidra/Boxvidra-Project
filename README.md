@@ -29,6 +29,12 @@ TapTux is designed with security and privacy as a top priority across all its OS
 
 These measures ensure that TapTux provides a safe, predictable, and user-controlled environment, without compromising the independence or functionality of the contained desktop operating systems.
 
+# Requirements & operational structure
+TapTux is built on an architecture that is integrated with the underlying operating system (Android) and integrates with the device's hardware by reading the coordinates of RAM, battery, and processor, processing them, and distributing the consumption across the entire operating architecture. This allows us to set limits on RAM and processor consumption, which will positively affect battery consumption, which the architecture was built to be mindful of. It also adds a side feature to save battery power and expand the usability area. 
+
+**Requirements:**
+> A device with at least Android 8, 16GB of storage, and 1GB of RAM.
+
 # Developers & Contributors
 > The project is officially managed and directed by a specialized group of developers operating under the organization name **DevOra**. The initiative is spearheaded by the primary owner and project team leader, **```Mikhail M. Abdelaziz```**, in strategic collaboration with **```(Bulgarian Vyasheslav, also known as JotarOS)```**, **```Avital Shalev```**, **```Tasuni Nagashita```** And **```Raed Abdullah```**.
  
