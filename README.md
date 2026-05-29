@@ -30,7 +30,13 @@ TapTux is designed with security and privacy as a top priority across all its OS
 These measures ensure that TapTux provides a safe, predictable, and user-controlled environment, without compromising the independence or functionality of the contained desktop operating systems.
 
 # Requirements & operational structure
-TapTux is built on an architecture that is integrated with the underlying operating system (Android) and integrates with the device's hardware by reading the coordinates of RAM, battery, and processor, processing them, and distributing the consumption across the entire operating architecture. This allows us to set limits on RAM and processor consumption, which will positively affect battery consumption, which the architecture was built to be mindful of. It also adds a side feature to save battery power and expand the usability area. 
+- Intelligent Resource Orchestration: TapTux dynamically reads and processes the real-time coordinates of your device's RAM, processor, and battery. It assumes complete, autonomous control over resource distribution across the entire operating architecture, eliminating system waste.
+
+- ​Precision Hardware Throttling: By enforcing strict, intelligent consumption limits on RAM and CPU usage, TapTux actively mitigates the hardware strain that causes system degradation and lag.
+
+- ​Unprecedented Battery Preservation: The core of the TapTux architecture is fundamentally designed around power mindfulness. By curtailing excessive processor and memory consumption, it guarantees a profound and positive impact on your battery's lifespan.
+
+- ​Expanded Usability Horizons: Beyond core system optimization, TapTux introduces a dedicated, advanced power-saving framework. This ensures that your device remains highly functional and reliable, drastically expanding your operational window when you need it most.
 
 **Requirements:**
 > A device with at least Android 8, 16GB of storage, and 1GB of RAM.
