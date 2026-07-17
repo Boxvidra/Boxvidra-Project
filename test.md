@@ -1,14 +1,19 @@
 # TapTux Package Index
 
-This file is packguin's package index (see `packguin source`). Each
-category is a "## Heading" immediately followed by one ```packguin code
-block. Inside the block, one package per line, 5 "|"-separated fields:
+This file is packguin's package index (see the `packguin source` command).
+
+Format: each category is a "## Heading" line, followed somewhere below it
+by one fenced code block tagged "packguin" (three backticks, then the word
+packguin, on their own line). Inside that block, one package per line, with
+5 fields separated by "|":
 
     name | size | link | description | author
 
-- "link" must be the **raw** URL of the package's .py file (raw.githubusercontent.com, not a normal github.com blob link).
-- "name" must match the class the file defines (e.g. `quill` -> `QuillCommand`), since that's what CommandLoader enforces.
+Rules:
+- "link" must be a raw file URL (raw.githubusercontent.com), not a normal github.com page link.
+- "name" must match the class the file defines (e.g. quill -> QuillCommand).
 - Package names must be unique across the whole file, not just per category.
+- Every fenced code block must be closed (three backticks on their own line at the end).
 
 ## Editors
 
